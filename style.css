@@ -1,7 +1,7 @@
-/* Elfwood Clone - Circa 2002 Stylesheet */
+/* DOLLYWOODS - Where Elfwood Meets Dollywood - Circa 2002 */
 
 body {
-  background-color: #336633;
+  background-color: #4a2545;
   color: #333333;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 11px;
@@ -10,7 +10,7 @@ body {
 }
 
 a:link {
-  color: #003366;
+  color: #8b2252;
   text-decoration: underline;
 }
 
@@ -20,12 +20,12 @@ a:visited {
 }
 
 a:hover {
-  color: #cc9900;
+  color: #cc3399;
   text-decoration: underline;
 }
 
 a:active {
-  color: #ff6600;
+  color: #ff69b4;
   text-decoration: underline;
 }
 
@@ -33,42 +33,43 @@ a:active {
 .page-wrapper {
   width: 760px;
   margin: 0 auto;
-  background-color: #f5f0e0;
-  border-left: 2px solid #003300;
-  border-right: 2px solid #003300;
+  background-color: #fff8f0;
+  border-left: 3px solid #cc9900;
+  border-right: 3px solid #cc9900;
 }
 
 /* Header area */
 .header-table {
   width: 100%;
-  background-color: #003300;
-  border-bottom: 3px solid #cc9900;
+  background: #2a0a2a;
+  border-bottom: 4px solid #ffd700;
 }
 
 .header-table td {
-  padding: 10px 15px;
+  padding: 12px 15px;
 }
 
 .site-title {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 28px;
-  color: #ffcc00;
+  color: #ffd700;
   font-weight: bold;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 0px #993399;
 }
 
 .site-title a:link,
 .site-title a:visited,
 .site-title a:hover,
 .site-title a:active {
-  color: #ffcc00;
+  color: #ffd700;
   text-decoration: none;
 }
 
 .site-subtitle {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 11px;
-  color: #99cc99;
+  color: #e8a0c8;
   font-style: italic;
 }
 
@@ -77,8 +78,8 @@ a:active {
   position: absolute;
   left: -9999px;
   top: 0;
-  background: #ffcc00;
-  color: #003300;
+  background: #ffd700;
+  color: #2a0a2a;
   padding: 4px 8px;
   font-weight: bold;
   z-index: 100;
@@ -91,18 +92,18 @@ a:active {
 /* Navigation bar */
 .nav-table {
   width: 100%;
-  background-color: #006633;
-  border-bottom: 1px solid #003300;
+  background: #6b2d5b;
+  border-bottom: 2px solid #cc9900;
 }
 
 .nav-table td {
-  padding: 4px 0;
+  padding: 5px 0;
   text-align: center;
 }
 
 .nav-table a:link,
 .nav-table a:visited {
-  color: #ffffee;
+  color: #ffe8f0;
   text-decoration: none;
   font-weight: bold;
   font-size: 11px;
@@ -110,12 +111,12 @@ a:active {
 }
 
 .nav-table a:hover {
-  color: #ffcc00;
+  color: #ffd700;
   text-decoration: underline;
 }
 
 .nav-separator {
-  color: #99cc99;
+  color: #cc88aa;
   font-size: 11px;
 }
 
@@ -135,8 +136,8 @@ a:active {
 
 .sidebar {
   width: 30%;
-  background-color: #ffffee;
-  border-left: 1px solid #cccc99;
+  background-color: #fff0f5;
+  border-left: 2px solid #e8a0c8;
 }
 
 /* Section headers */
@@ -144,8 +145,8 @@ a:active {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 16px;
   font-weight: bold;
-  color: #003300;
-  border-bottom: 2px solid #006633;
+  color: #6b2d5b;
+  border-bottom: 2px solid #cc3399;
   padding-bottom: 4px;
   margin-bottom: 8px;
 }
@@ -154,15 +155,15 @@ a:active {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 13px;
   font-weight: bold;
-  color: #336633;
+  color: #8b2252;
   margin-bottom: 4px;
 }
 
 /* Page-level section header (for gallery pages) */
 .page-header-table {
   width: 100%;
-  background-color: #003300;
-  border-bottom: 2px solid #cc9900;
+  background: #2a0a2a;
+  border-bottom: 3px solid #ffd700;
 }
 
 .page-header-table td {
@@ -172,20 +173,20 @@ a:active {
 .page-header-title {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 20px;
-  color: #ffcc00;
+  color: #ffd700;
   font-weight: bold;
 }
 
 .page-header-desc {
   font-size: 11px;
-  color: #99cc99;
+  color: #e8a0c8;
   font-style: italic;
 }
 
 /* Horizontal rules */
 hr {
   border: 0;
-  border-top: 1px solid #cccc99;
+  border-top: 1px solid #e8a0c8;
   margin: 10px 0;
 }
 
@@ -197,12 +198,12 @@ hr {
 
 .artist-list-table td {
   padding: 3px 8px;
-  border-bottom: 1px solid #e0dcc8;
+  border-bottom: 1px solid #f0d0e0;
   font-size: 11px;
 }
 
 .artist-list-table tr:hover {
-  background-color: #ffffee;
+  background-color: #fff0f5;
 }
 
 .artist-name {
@@ -218,8 +219,8 @@ hr {
 .letter-index {
   text-align: center;
   padding: 6px;
-  background-color: #ffffee;
-  border: 1px solid #cccc99;
+  background-color: #fff0f5;
+  border: 1px solid #e8a0c8;
   margin-bottom: 10px;
   font-size: 12px;
 }
@@ -231,8 +232,8 @@ hr {
 
 /* Artwork placeholder boxes */
 .artwork-placeholder {
-  border: 2px solid #999966;
-  background-color: #cccc99;
+  border: 2px solid #cc88aa;
+  background-color: #e8c8d8;
   text-align: center;
   color: #333333;
   font-size: 10px;
@@ -274,7 +275,7 @@ hr {
 .thumb-title {
   font-size: 10px;
   font-weight: bold;
-  color: #003300;
+  color: #6b2d5b;
   margin-top: 4px;
 }
 
@@ -285,15 +286,15 @@ hr {
 
 /* Comment boxes */
 .comment-box {
-  background-color: #ffffee;
-  border: 1px solid #cccc99;
+  background-color: #fff0f5;
+  border: 1px solid #e8a0c8;
   padding: 8px;
   margin-bottom: 8px;
 }
 
 .comment-author {
   font-weight: bold;
-  color: #003300;
+  color: #6b2d5b;
   font-size: 11px;
 }
 
@@ -310,14 +311,14 @@ hr {
 
 /* Sidebar boxes */
 .sidebar-box {
-  border: 1px solid #cccc99;
+  border: 1px solid #e8a0c8;
   margin-bottom: 10px;
-  background-color: #f5f0e0;
+  background-color: #fff8f0;
 }
 
 .sidebar-box-header {
-  background-color: #006633;
-  color: #ffffee;
+  background: #8b2252;
+  color: #ffe8f0;
   font-weight: bold;
   font-size: 11px;
   padding: 3px 6px;
@@ -336,7 +337,7 @@ hr {
 
 .stats-label {
   font-weight: bold;
-  color: #003300;
+  color: #6b2d5b;
 }
 
 .stats-value {
@@ -346,31 +347,31 @@ hr {
 /* Footer */
 .footer-table {
   width: 100%;
-  background-color: #003300;
-  border-top: 3px solid #cc9900;
+  background: #2a0a2a;
+  border-top: 4px solid #ffd700;
 }
 
 .footer-table td {
   padding: 8px 15px;
-  color: #99cc99;
+  color: #e8a0c8;
   font-size: 10px;
   text-align: center;
 }
 
 .footer-table a:link,
 .footer-table a:visited {
-  color: #cccc99;
+  color: #e8a0c8;
 }
 
 .footer-table a:hover {
-  color: #ffcc00;
+  color: #ffd700;
 }
 
 .hit-counter {
   font-family: "Courier New", Courier, monospace;
   font-size: 11px;
   background-color: #000000;
-  color: #00ff00;
+  color: #ff69b4;
   padding: 2px 6px;
   border: 1px inset #666666;
 }
@@ -378,7 +379,7 @@ hr {
 /* What's New items */
 .news-date {
   font-weight: bold;
-  color: #006633;
+  color: #8b2252;
   font-size: 10px;
 }
 
@@ -396,13 +397,13 @@ hr {
 
 .tutorial-table td {
   padding: 4px 8px;
-  border-bottom: 1px solid #e0dcc8;
+  border-bottom: 1px solid #f0d0e0;
   font-size: 11px;
 }
 
 .tutorial-category {
-  background-color: #006633;
-  color: #ffffee;
+  background: #8b2252;
+  color: #ffe8f0;
   font-weight: bold;
   font-size: 12px;
   padding: 4px 8px;
@@ -415,8 +416,8 @@ hr {
 }
 
 .genre-tag {
-  background-color: #006633;
-  color: #ffffee;
+  background: #993399;
+  color: #ffe8f0;
   font-size: 9px;
   padding: 1px 4px;
   font-weight: bold;
@@ -424,25 +425,25 @@ hr {
 
 /* Focus styles for keyboard navigation */
 a:focus-visible {
-  outline: 2px solid #ffcc00;
+  outline: 2px solid #ffd700;
   outline-offset: 2px;
 }
 
 input:focus-visible,
 textarea:focus-visible {
-  outline: 2px solid #ffcc00;
+  outline: 2px solid #ffd700;
   outline-offset: 1px;
 }
 
 /* "New" / "Updated" badges */
 .badge-new {
-  color: #ff0000;
+  color: #cc3399;
   font-size: 9px;
   font-weight: bold;
 }
 
 .badge-updated {
-  color: #ff6600;
+  color: #cc9900;
   font-size: 9px;
   font-weight: bold;
 }
@@ -460,8 +461,8 @@ textarea:focus-visible {
 
 /* Fan art category headers */
 .category-header {
-  background-color: #336633;
-  color: #ffffee;
+  background: #6b2d5b;
+  color: #ffe8f0;
   font-weight: bold;
   font-size: 12px;
   padding: 4px 8px;
@@ -469,14 +470,14 @@ textarea:focus-visible {
 
 /* Bio section */
 .bio-box {
-  background-color: #ffffee;
-  border: 1px solid #cccc99;
+  background-color: #fff0f5;
+  border: 1px solid #e8a0c8;
   padding: 10px;
   margin-bottom: 10px;
 }
 
 .bio-label {
   font-weight: bold;
-  color: #003300;
+  color: #6b2d5b;
   font-size: 10px;
 }
