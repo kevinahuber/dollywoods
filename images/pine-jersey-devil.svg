@@ -45,5 +45,5 @@
           <circle cx="0" cy="0" r="20" fill="#cfc8bb" opacity="0.2"/>
           <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#cfc8bb" opacity="0.4"/>
         </g>
-  <text x="250" y="360" text-anchor="middle" fill="#cfc8bb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Cryptid Field Guide: Leeds Devil</text>
+  <text x="250" y="360" text-anchor="middle" fill="#cfc8bb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Field Guide Plate: The Snallygaster</text>
 </svg>
