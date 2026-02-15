@@ -202,6 +202,21 @@
               </div>
             </div>
 
+            <!-- Horoscope -->
+            <div class="sidebar-box">
+              <div class="sidebar-box-header">&#9734; Granny Oralee's Holler Horoscope &#9734;</div>
+              <div class="sidebar-box-content" style="text-align: center;">
+                <div style="font-size: 9px; color: #666666; font-style: italic; margin-bottom: 6px;">
+                  Visions from the mist beyond the ridge...
+                </div>
+                <div id="horoscope-reading" style="font-size: 11px; line-height: 1.5; color: #4a2545; padding: 6px; background-color: #fff0f5; border: 1px dashed #cc88aa; min-height: 60px; font-style: italic;" aria-live="polite">
+                  Press the stone to receive your readin', child.
+                </div>
+                <button type="button" id="horoscope-btn" onclick="revealHoroscope()" style="margin-top: 8px; background-color: #6b2d5b; color: #ffd700; border: 2px outset #cc88aa; padding: 4px 12px; font-family: Georgia, serif; font-size: 11px; font-weight: bold; cursor: pointer;">&#9733; Consult the Stones &#9733;</button>
+                <div id="horoscope-sign" style="font-size: 9px; color: #999999; margin-top: 4px;"></div>
+              </div>
+            </div>
+
             <!-- Quick Links -->
             <div class="sidebar-box">
               <div class="sidebar-box-header">Quick Links, Darlin'</div>
@@ -256,6 +271,96 @@
   </tr>
 
 </table>
+
+<script type="text/javascript">
+// Granny Oralee's Holler Horoscope - Appalachian Mystic Readings
+var signs = [
+  "Aries (Mar 21 - Apr 19)",
+  "Taurus (Apr 20 - May 20)",
+  "Gemini (May 21 - Jun 20)",
+  "Cancer (Jun 21 - Jul 22)",
+  "Leo (Jul 23 - Aug 22)",
+  "Virgo (Aug 23 - Sep 22)",
+  "Libra (Sep 23 - Oct 22)",
+  "Scorpio (Oct 23 - Nov 21)",
+  "Sagittarius (Nov 22 - Dec 21)",
+  "Capricorn (Dec 22 - Jan 19)",
+  "Aquarius (Jan 20 - Feb 18)",
+  "Pisces (Feb 19 - Mar 20)"
+];
+
+var openings = [
+  "Now child, I done looked into the creek water at first light and I seen somethin'.",
+  "The whippoorwill sang three times past midnight, and that ain't never without meanin'.",
+  "I was up on the ridge gatherin' sassafras when the wind told me somethin' about you.",
+  "My granny's granny used to say the fog don't lie, and this mornin' it spelled out your fate.",
+  "I laid out the creek stones on the porch rail and they fell in a pattern I ain't seen since '74.",
+  "The owl on my chimney's been hootin' your name, and that bird don't speak lest it's important.",
+  "I found a four-leaf clover growin' through a crack in a skull-shaped rock, and that means somethin' for you.",
+  "The fire in my stove popped three times and threw a spark shaped like a star. That's your sign, child.",
+  "I dreamt of a deer with golden antlers standin' at your crossroads, and when Granny Oralee dreams, she dreams true.",
+  "The persimmon seeds this year are shaped like spoons, and that tells me more about your future than any book could."
+];
+
+var middles = [
+  "A stranger's gonna cross your path wearin' somethin' the colour of hearth-fire. Don't look away from 'em.",
+  "There's a choice comin' at you like a copperhead in tall grass &mdash; stay still, watch close, then step careful.",
+  "Somethin' you lost a long time ago is fixin' to find its way back to you, and it'll come from an unexpected holler.",
+  "The thing you been worryin' over in the dark hours? It ain't near as fearsome as you built it up to be. Let it go like leaves on the creek.",
+  "A door you thought was nailed shut is fixin' to creak open. Now whether you walk through it, that's between you and the Almighty.",
+  "There's a kindness you done forgot about that's been growin' interest in the spirit world. It's about to pay dividends, sugar.",
+  "Your hands are gonna make somethin' beautiful soon. I don't know if it's art or bread or a garden, but your hands know. Trust 'em.",
+  "Somebody's been speakin' your name to the mountain, and the mountain remembers. Good things echo back from high places.",
+  "A storm's comin' but it ain't the destroyin' kind &mdash; it's the kind that clears the air and makes the world smell new again.",
+  "The stars got a little gift wrapped up for you, but you gotta be willin' to climb the hill to get it. Ain't nothin' good comes to them that only sit.",
+  "There's an old song stuck in your bones tryin' to get out. Might be time to let it sing, even if your voice shakes.",
+  "You been carryin' somethin' heavy that don't belong to you. Set it down by the road. Whoever lost it can come back for it their own self.",
+  "The creek's runnin' clear where it was muddy, and that means your thinkin' is about to get a whole lot sharper.",
+  "A critter's gonna show you somethin' important this week. Might be a bird, might be a fox, might be a spider in a doorframe. Pay attention.",
+  "I see you standin' at the top of a ridge you didn't think you could climb. You're already closer to it than you reckon."
+];
+
+var closings = [
+  "Now go on, child. The mountain's watchin' over you, same as it always has.",
+  "That's all the stones got to say today. Come back when the moon changes and we'll see what else there is to know.",
+  "Remember, sugar: even the darkest holler's got wildflowers if you know where to look.",
+  "Granny Oralee don't charge for the truth, but a jar of sourwood honey wouldn't go amiss. Now get on with your blessin's.",
+  "The readin' is what it is. Don't try to make sense of it all at once &mdash; let it settle like silt in a mason jar.",
+  "That's your portion for today. The rest'll reveal itself when the time is ripe, like a pawpaw in September.",
+  "Now git, before I put you to work shellin' beans. And don't forget what the stones said.",
+  "I'll be here on this porch 'til the Lord calls me home or the well runs dry, whichever comes first. You come back anytime.",
+  "The readin's done but the magic ain't. Keep your eyes open and your heart soft, and you'll see the signs everywhere.",
+  "These old mountains been keepin' secrets since before folks had names. You're part of that story now, child."
+];
+
+var warnings = [
+  "But mind you &mdash; don't go walkin' backwards on a bridge this week. Don't ask me why, just don't.",
+  "One more thing: if you hear a rooster crow at midnight, stay inside and keep a candle lit. Some things don't need investigatin'.",
+  "Oh, and keep a pinch of salt in your left pocket. Can't hurt, might help, and it don't cost nothin'.",
+  "And child &mdash; if you find a coin on the ground, leave it be if it's face-down. That's somebody else's trouble and you don't need it.",
+  "Also, the tea leaves said to stay away from any door that's painted red this week. I know that sounds particular, but the leaves don't stutter.",
+  "Word to the wise: sing somethin' sweet before you go to sleep tonight. Keeps the worrisome dreams at bay.",
+  "One last thing &mdash; if a black cat crosses your path, it ain't bad luck. It means somebody in the spirit world is checkin' on you. Wave hello.",
+  ""
+];
+
+function revealHoroscope() {
+  var sign = signs[Math.floor(Math.random() * signs.length)];
+  var opening = openings[Math.floor(Math.random() * openings.length)];
+  var middle = middles[Math.floor(Math.random() * middles.length)];
+  var closing = closings[Math.floor(Math.random() * closings.length)];
+  var warning = warnings[Math.floor(Math.random() * warnings.length)];
+
+  var reading = opening + " " + middle;
+  if (warning.length > 0) {
+    reading += " " + warning;
+  }
+  reading += "<br><br>" + closing;
+
+  document.getElementById("horoscope-reading").innerHTML = reading;
+  document.getElementById("horoscope-sign").innerHTML = "&#9734; " + sign + " &#9734;";
+}
+</script>
 
 </body>
 </html>
