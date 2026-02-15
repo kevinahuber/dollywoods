@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-sam-bigfoot-family" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a19"/>
+      <stop offset="60%" stop-color="#445533"/>
+      <stop offset="100%" stop-color="#8e9984"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-sam-bigfoot-family)"/>
+  <circle cx="319" cy="122" r="0.94150392261057" fill="white" opacity="0.7"/>
+<circle cx="32" cy="0" r="1.3132810652364517" fill="white" opacity="0.3"/>
+<circle cx="311" cy="103" r="1.28736401755911" fill="white" opacity="0.7"/>
+<circle cx="430" cy="61" r="1.191894227314184" fill="white" opacity="1.0"/>
+<circle cx="74" cy="53" r="1.367107014224107" fill="white" opacity="0.6"/>
+<circle cx="228" cy="23" r="0.6388631860810923" fill="white" opacity="0.6"/>
+<circle cx="430" cy="106" r="1.458764501440848" fill="white" opacity="0.5"/>
+<circle cx="385" cy="20" r="1.073757047156102" fill="white" opacity="0.4"/>
+<circle cx="298" cy="100" r="1.1782131927830848" fill="white" opacity="0.9"/>
+<circle cx="260" cy="5" r="0.7766806856117925" fill="white" opacity="0.3"/>
+<circle cx="360" cy="63" r="0.5678768818865207" fill="white" opacity="0.5"/>
+<circle cx="425" cy="119" r="1.0740837821056048" fill="white" opacity="0.7"/>
+<circle cx="415" cy="27" r="1.919800863725946" fill="white" opacity="1.0"/>
+<circle cx="444" cy="106" r="1.3266616707772552" fill="white" opacity="0.5"/>
+<circle cx="276" cy="32" r="1.432769587916895" fill="white" opacity="0.8"/>
+<circle cx="111" cy="121" r="0.5905072571836767" fill="white" opacity="0.4"/>
+<circle cx="377" cy="49" r="1.0263548479730185" fill="white" opacity="0.4"/>
+<circle cx="336" cy="90" r="0.6104299745273813" fill="white" opacity="0.8"/>
+<circle cx="456" cy="39" r="1.7665848897903826" fill="white" opacity="0.8"/>
+<circle cx="288" cy="42" r="1.9060278635100412" fill="white" opacity="0.8"/>
+<circle cx="364" cy="122" r="0.7182892989634899" fill="white" opacity="0.8"/>
+<circle cx="247" cy="63" r="0.8350638552537686" fill="white" opacity="0.7"/>
+<circle cx="94" cy="122" r="1.562599561622525" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="351" cy="82" r="25" fill="#c6ccc1" opacity="0.8"/>
+        <circle cx="359" cy="77" r="25" fill="#222a19"/>
+  <polygon points="0,375 0,181 71,167 142,202 214,188 285,170 357,215 428,196 500,148 500,375" fill="#28331e" opacity="0.8"/>
+<polygon points="0,375 0,108 125,108 250,98 375,134 500,162 500,375" fill="#2f3b23" opacity="0.8"/>
+<polygon points="0,375 0,184 83,204 166,146 250,153 333,130 416,168 500,200 500,375" fill="#364428" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#364428" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#8e9984" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#b4bbad" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#b4bbad" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbad" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Family on Ape Canyon Ridge</text>
+</svg>

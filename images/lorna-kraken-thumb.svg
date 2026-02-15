@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 75" width="100" height="75">
+  <rect width="100" height="75" fill="#334455"/>
+  <rect width="100" height="37" fill="#19222a" opacity="0.3"/>
+  <circle cx="72" cy="19" r="0.9689682086397369" fill="white" opacity="0.5"/>
+<circle cx="11" cy="14" r="0.724265977072887" fill="white" opacity="0.5"/>
+<circle cx="98" cy="6" r="0.6513934602982747" fill="white" opacity="0.5"/>
+<circle cx="29" cy="7" r="0.8886701939020558" fill="white" opacity="0.5"/>
+<circle cx="17" cy="11" r="0.54075218913828" fill="white" opacity="0.5"/>
+<circle cx="46" cy="34" r="0.7530076706165446" fill="white" opacity="0.5"/>
+
+  <polygon points="0,75 0,42 25,58 50,52 75,59 100,41 100,75" fill="#232f3b" opacity="0.6"/>
+  <circle cx="50" cy="32" r="12" fill="#232f3b" opacity="0.7"/>
+  <circle cx="50" cy="32" r="8" fill="#adb4bb" opacity="0.3"/>
+</svg>

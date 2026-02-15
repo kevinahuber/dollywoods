@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-molly-mothman-prophecy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#150811"/>
+      <stop offset="60%" stop-color="#2a1122"/>
+      <stop offset="100%" stop-color="#7f707a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-molly-mothman-prophecy)"/>
+  <circle cx="291" cy="12" r="1.4367391566753767" fill="white" opacity="0.6"/>
+<circle cx="403" cy="104" r="1.8416627237942749" fill="white" opacity="0.7"/>
+<circle cx="398" cy="115" r="1.518622744133206" fill="white" opacity="0.6"/>
+<circle cx="99" cy="87" r="1.4205938819598876" fill="white" opacity="0.6"/>
+<circle cx="76" cy="60" r="1.2574698554180797" fill="white" opacity="0.6"/>
+<circle cx="422" cy="53" r="1.7022249354306371" fill="white" opacity="1.0"/>
+<circle cx="204" cy="61" r="0.7060301082871225" fill="white" opacity="1.0"/>
+<circle cx="431" cy="13" r="1.7490250960928744" fill="white" opacity="0.4"/>
+<circle cx="434" cy="28" r="0.7883805046461999" fill="white" opacity="0.3"/>
+<circle cx="25" cy="115" r="0.684712347180259" fill="white" opacity="1.0"/>
+<circle cx="245" cy="90" r="1.3389644087917112" fill="white" opacity="0.5"/>
+<circle cx="460" cy="52" r="1.3500281441726831" fill="white" opacity="0.5"/>
+<circle cx="136" cy="123" r="1.0325426497394603" fill="white" opacity="0.6"/>
+<circle cx="7" cy="94" r="1.1409521402479217" fill="white" opacity="0.7"/>
+<circle cx="401" cy="8" r="0.9890841865728888" fill="white" opacity="0.4"/>
+<circle cx="484" cy="3" r="1.514625289211489" fill="white" opacity="0.9"/>
+<circle cx="388" cy="46" r="0.6595774849621105" fill="white" opacity="0.5"/>
+<circle cx="454" cy="32" r="0.824511148051668" fill="white" opacity="0.8"/>
+<circle cx="67" cy="109" r="1.0680064838611825" fill="white" opacity="1.0"/>
+<circle cx="56" cy="79" r="0.8245577291129865" fill="white" opacity="0.6"/>
+<circle cx="61" cy="33" r="0.7956423301749582" fill="white" opacity="0.5"/>
+<circle cx="17" cy="13" r="1.2275952511998267" fill="white" opacity="1.0"/>
+
+  
+        <circle cx="337" cy="51" r="25" fill="#bfb7bc" opacity="0.8"/>
+        <circle cx="345" cy="46" r="25" fill="#150811"/>
+  <polygon points="0,375 0,225 83,185 166,179 250,172 333,163 416,181 500,200 500,375" fill="#190a14" opacity="0.8"/>
+<polygon points="0,375 0,200 71,200 142,179 214,199 285,150 357,202 428,162 500,148 500,375" fill="#1d0b17" opacity="0.8"/>
+<polygon points="0,375 0,131 125,145 250,138 375,157 500,141 500,375" fill="#210d1b" opacity="0.8"/>
+<polygon points="0,375 0,162 71,114 142,128 214,118 285,149 357,123 428,160 500,127 500,375" fill="#250f1e" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-10" r="8" fill="#a99fa6"/>
+          <ellipse cx="0" cy="15" rx="6" ry="18" fill="#a99fa6"/>
+          <path d="M0,0 Q-40,-50 -20,-10" fill="#7f707a" opacity="0.6" stroke="#a99fa6" stroke-width="0.5"/>
+          <path d="M0,0 Q40,-50 20,-10" fill="#7f707a" opacity="0.6" stroke="#a99fa6" stroke-width="0.5"/>
+          <path d="M0,5 Q-35,-30 -15,5" fill="#7f707a" opacity="0.4"/>
+          <path d="M0,5 Q35,-30 15,5" fill="#7f707a" opacity="0.4"/>
+          <circle cx="0" cy="-10" r="12" fill="none" stroke="#a99fa6" stroke-width="0.5" opacity="0.5"/>
+          <circle cx="0" cy="-10" r="20" fill="none" stroke="#a99fa6" stroke-width="0.3" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#a99fa6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Red Eyes Over the Holler</text>
+</svg>

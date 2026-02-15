@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-lorna-kraken" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#19222a"/>
+      <stop offset="60%" stop-color="#334455"/>
+      <stop offset="100%" stop-color="#848e99"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-lorna-kraken)"/>
+  <circle cx="38" cy="72" r="1.7351273927962905" fill="white" opacity="1.0"/>
+<circle cx="45" cy="79" r="1.8378347019438384" fill="white" opacity="0.5"/>
+<circle cx="300" cy="98" r="0.6514602024330644" fill="white" opacity="0.7"/>
+<circle cx="350" cy="81" r="0.6726940368222902" fill="white" opacity="0.5"/>
+<circle cx="405" cy="23" r="1.0158975481534571" fill="white" opacity="0.6"/>
+<circle cx="272" cy="82" r="1.6072678442884523" fill="white" opacity="0.4"/>
+<circle cx="499" cy="7" r="1.3994967298246213" fill="white" opacity="0.6"/>
+<circle cx="266" cy="44" r="0.8577422025218964" fill="white" opacity="0.9"/>
+<circle cx="165" cy="19" r="1.227657629902067" fill="white" opacity="0.7"/>
+<circle cx="388" cy="21" r="0.7148128276474217" fill="white" opacity="0.5"/>
+<circle cx="373" cy="54" r="0.5263925169434116" fill="white" opacity="0.7"/>
+<circle cx="488" cy="93" r="1.1972884417821603" fill="white" opacity="0.9"/>
+<circle cx="145" cy="94" r="1.7647094024081504" fill="white" opacity="0.5"/>
+<circle cx="196" cy="44" r="0.8257735249120091" fill="white" opacity="0.6"/>
+<circle cx="314" cy="105" r="1.6340462897724188" fill="white" opacity="0.5"/>
+<circle cx="203" cy="99" r="0.5511293557501302" fill="white" opacity="0.5"/>
+<circle cx="36" cy="1" r="0.5140410542765934" fill="white" opacity="0.5"/>
+<circle cx="72" cy="116" r="0.7286582555012533" fill="white" opacity="0.5"/>
+<circle cx="292" cy="75" r="1.3856457570669964" fill="white" opacity="0.9"/>
+<circle cx="445" cy="27" r="1.8500830230556038" fill="white" opacity="0.9"/>
+<circle cx="363" cy="19" r="1.1869767334841663" fill="white" opacity="0.7"/>
+<circle cx="4" cy="46" r="0.6953180932747319" fill="white" opacity="0.6"/>
+<circle cx="212" cy="30" r="0.6058936818354914" fill="white" opacity="0.8"/>
+<circle cx="219" cy="79" r="0.5030166794867564" fill="white" opacity="0.4"/>
+<circle cx="104" cy="101" r="0.6762725087608258" fill="white" opacity="0.5"/>
+<circle cx="319" cy="71" r="1.5322091297900835" fill="white" opacity="0.8"/>
+<circle cx="392" cy="76" r="0.6708707725793539" fill="white" opacity="0.5"/>
+<circle cx="200" cy="31" r="1.2984961368900396" fill="white" opacity="0.9"/>
+<circle cx="477" cy="56" r="1.2457354959317648" fill="white" opacity="0.5"/>
+<circle cx="99" cy="40" r="0.8382001558171903" fill="white" opacity="0.7"/>
+<circle cx="483" cy="16" r="1.5551695646273944" fill="white" opacity="0.5"/>
+<circle cx="498" cy="86" r="1.5111960472476968" fill="white" opacity="0.8"/>
+<circle cx="337" cy="107" r="1.0670206450591353" fill="white" opacity="0.4"/>
+<circle cx="445" cy="11" r="1.4190733630069512" fill="white" opacity="0.9"/>
+<circle cx="83" cy="62" r="0.5889964166450954" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="332" cy="38" r="20" fill="#adb4bb" opacity="0.9"/>
+        <circle cx="332" cy="38" r="30" fill="#adb4bb" opacity="0.2"/>
+        <circle cx="332" cy="38" r="45" fill="#adb4bb" opacity="0.1"/>
+  <polygon points="0,375 0,195 83,180 166,134 250,140 333,186 416,158 500,154 500,375" fill="#1e2833" opacity="0.8"/>
+<polygon points="0,375 0,158 100,214 200,142 300,188 400,190 500,188 500,375" fill="#232f3b" opacity="0.8"/>
+<polygon points="0,375 0,99 83,89 166,138 250,88 333,166 416,91 500,99 500,375" fill="#283644" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#283644" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#848e99" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#adb4bb" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#adb4bb" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#adb4bb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Kraken Stirs</text>
+</svg>

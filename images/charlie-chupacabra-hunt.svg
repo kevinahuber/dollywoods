@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-charlie-chupacabra-hunt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#441911"/>
+      <stop offset="60%" stop-color="#883322"/>
+      <stop offset="100%" stop-color="#b7847a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-charlie-chupacabra-hunt)"/>
+  <circle cx="291" cy="109" r="1.9602742322197018" fill="white" opacity="1.0"/>
+<circle cx="6" cy="63" r="0.5281310469354058" fill="white" opacity="0.3"/>
+<circle cx="256" cy="71" r="1.160887004859676" fill="white" opacity="0.7"/>
+<circle cx="378" cy="97" r="1.9519129093827705" fill="white" opacity="0.3"/>
+<circle cx="178" cy="45" r="1.403094446695156" fill="white" opacity="0.7"/>
+<circle cx="37" cy="82" r="0.5293782442805699" fill="white" opacity="0.8"/>
+<circle cx="384" cy="17" r="1.3759427735799454" fill="white" opacity="0.8"/>
+<circle cx="327" cy="78" r="1.7686987571884312" fill="white" opacity="0.7"/>
+<circle cx="499" cy="21" r="1.5297818235735874" fill="white" opacity="0.7"/>
+<circle cx="389" cy="40" r="1.5061997253451418" fill="white" opacity="1.0"/>
+<circle cx="194" cy="46" r="0.552651380626482" fill="white" opacity="0.9"/>
+<circle cx="155" cy="34" r="0.5736063469223519" fill="white" opacity="0.6"/>
+<circle cx="464" cy="33" r="1.8841258423467806" fill="white" opacity="0.9"/>
+<circle cx="281" cy="67" r="1.6859663829518445" fill="white" opacity="0.8"/>
+<circle cx="107" cy="80" r="1.3686632763398536" fill="white" opacity="0.6"/>
+<circle cx="270" cy="48" r="1.2817657348092655" fill="white" opacity="0.9"/>
+<circle cx="148" cy="103" r="1.744501688604198" fill="white" opacity="1.0"/>
+<circle cx="23" cy="43" r="1.4926740038015835" fill="white" opacity="0.9"/>
+<circle cx="52" cy="59" r="1.3858526245661824" fill="white" opacity="0.5"/>
+<circle cx="48" cy="110" r="0.5146654489498366" fill="white" opacity="0.5"/>
+<circle cx="101" cy="63" r="1.6523830427530122" fill="white" opacity="0.6"/>
+<circle cx="58" cy="8" r="0.7169954217511618" fill="white" opacity="0.9"/>
+<circle cx="494" cy="10" r="1.8111675200973456" fill="white" opacity="0.8"/>
+<circle cx="325" cy="71" r="0.5565844565509155" fill="white" opacity="0.8"/>
+<circle cx="409" cy="20" r="0.8024776408350736" fill="white" opacity="0.6"/>
+<circle cx="315" cy="93" r="1.4078756125340695" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="244" cy="92" r="25" fill="#dbc1bc" opacity="0.8"/>
+        <circle cx="252" cy="87" r="25" fill="#441911"/>
+  <polygon points="0,375 0,240 125,267 250,227 375,231 500,273 500,375" fill="#511e14" opacity="0.8"/>
+<polygon points="0,375 0,143 166,190 333,189 500,158 500,375" fill="#5f2317" opacity="0.8"/>
+<polygon points="0,375 0,122 125,112 250,178 375,144 500,170 500,375" fill="#6c281b" opacity="0.8"/>
+<polygon points="0,375 0,141 166,114 333,142 500,143 500,375" fill="#7a2d1e" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#6c281b" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#b7847a" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#cfada6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#cfada6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfada6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">El Chupacabra Hunts</text>
+</svg>

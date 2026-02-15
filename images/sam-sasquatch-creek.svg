@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-sam-sasquatch-creek" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d2515"/>
+      <stop offset="60%" stop-color="#3a4a2a"/>
+      <stop offset="100%" stop-color="#88927f"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-sam-sasquatch-creek)"/>
+  <circle cx="378" cy="9" r="0.9826214054263066" fill="white" opacity="0.9"/>
+<circle cx="151" cy="46" r="1.986635693456001" fill="white" opacity="0.4"/>
+<circle cx="49" cy="19" r="1.520572171613779" fill="white" opacity="0.6"/>
+<circle cx="263" cy="41" r="1.6203135940892537" fill="white" opacity="0.4"/>
+<circle cx="47" cy="48" r="1.5614192537714087" fill="white" opacity="0.3"/>
+<circle cx="150" cy="2" r="1.8211501638072867" fill="white" opacity="0.4"/>
+<circle cx="403" cy="32" r="1.5121741196159935" fill="white" opacity="0.5"/>
+<circle cx="453" cy="32" r="0.6611952540149901" fill="white" opacity="0.6"/>
+<circle cx="316" cy="99" r="1.2371398610619617" fill="white" opacity="0.5"/>
+<circle cx="352" cy="60" r="1.6371907256337157" fill="white" opacity="0.9"/>
+<circle cx="278" cy="11" r="1.0033093780492954" fill="white" opacity="0.8"/>
+<circle cx="217" cy="45" r="0.9123187594255352" fill="white" opacity="0.6"/>
+<circle cx="458" cy="5" r="0.7419187271815142" fill="white" opacity="0.8"/>
+<circle cx="27" cy="55" r="0.8509304308451695" fill="white" opacity="0.5"/>
+<circle cx="42" cy="110" r="1.2622858521300018" fill="white" opacity="0.4"/>
+<circle cx="489" cy="72" r="1.9282990803570255" fill="white" opacity="0.5"/>
+<circle cx="479" cy="0" r="0.832623180845744" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="199" cy="40" r="25" fill="#c3c8bf" opacity="0.8"/>
+        <circle cx="207" cy="35" r="25" fill="#1d2515"/>
+  <polygon points="0,375 0,220 71,205 142,235 214,184 285,215 357,188 428,194 500,176 500,375" fill="#222c19" opacity="0.8"/>
+<polygon points="0,375 0,212 125,266 250,239 375,270 500,270 500,375" fill="#28331d" opacity="0.8"/>
+<polygon points="0,375 0,226 83,174 166,232 250,193 333,185 416,170 500,170 500,375" fill="#2e3b21" opacity="0.8"/>
+<polygon points="0,375 0,115 100,179 200,153 300,108 400,183 500,160 500,375" fill="#344225" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#2e3b21" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#88927f" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#b0b6a9" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#b0b6a9" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b0b6a9" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Sasquatch at the Creek Crossing</text>
+</svg>

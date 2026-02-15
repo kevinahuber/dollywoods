@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-charlie-donkey-lady" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2211"/>
+      <stop offset="60%" stop-color="#554422"/>
+      <stop offset="100%" stop-color="#998e7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-charlie-donkey-lady)"/>
+  <circle cx="152" cy="24" r="1.900574970401947" fill="white" opacity="0.9"/>
+<circle cx="266" cy="59" r="1.1148598053764918" fill="white" opacity="1.0"/>
+<circle cx="423" cy="106" r="0.921212317422875" fill="white" opacity="0.7"/>
+<circle cx="356" cy="102" r="1.7500956458030315" fill="white" opacity="0.5"/>
+<circle cx="231" cy="55" r="0.982391977423891" fill="white" opacity="0.6"/>
+<circle cx="467" cy="70" r="1.3558460295229446" fill="white" opacity="0.5"/>
+<circle cx="338" cy="27" r="1.1295048888433863" fill="white" opacity="0.3"/>
+<circle cx="188" cy="67" r="1.7972451037017487" fill="white" opacity="0.6"/>
+<circle cx="279" cy="54" r="1.7459793389891267" fill="white" opacity="0.4"/>
+<circle cx="394" cy="16" r="1.0206623377478854" fill="white" opacity="0.6"/>
+<circle cx="319" cy="79" r="1.7503922020351506" fill="white" opacity="0.8"/>
+<circle cx="296" cy="112" r="1.3836650015737324" fill="white" opacity="0.3"/>
+<circle cx="373" cy="69" r="1.2038200538531045" fill="white" opacity="0.4"/>
+<circle cx="473" cy="27" r="1.3774799492879812" fill="white" opacity="0.8"/>
+<circle cx="498" cy="35" r="1.987015966833193" fill="white" opacity="0.8"/>
+<circle cx="174" cy="15" r="1.9866019573114198" fill="white" opacity="1.0"/>
+<circle cx="82" cy="49" r="0.6297173782315908" fill="white" opacity="0.7"/>
+<circle cx="325" cy="75" r="1.449838950705458" fill="white" opacity="0.4"/>
+<circle cx="427" cy="26" r="1.1560150335558828" fill="white" opacity="0.3"/>
+<circle cx="418" cy="23" r="0.8395370494226322" fill="white" opacity="0.9"/>
+<circle cx="273" cy="79" r="1.6005869590790112" fill="white" opacity="0.4"/>
+<circle cx="2" cy="8" r="1.1414356847040055" fill="white" opacity="0.5"/>
+<circle cx="431" cy="20" r="1.7989081538829848" fill="white" opacity="0.6"/>
+<circle cx="287" cy="52" r="1.209429532695364" fill="white" opacity="1.0"/>
+<circle cx="466" cy="38" r="1.1926933222115483" fill="white" opacity="0.7"/>
+<circle cx="50" cy="51" r="0.8240369721358112" fill="white" opacity="0.8"/>
+<circle cx="137" cy="33" r="1.7292055893110878" fill="white" opacity="0.5"/>
+<circle cx="130" cy="67" r="1.417374774476779" fill="white" opacity="1.0"/>
+
+  
+        <circle cx="194" cy="49" r="25" fill="#ccc6bc" opacity="0.8"/>
+        <circle cx="202" cy="44" r="25" fill="#2a2211"/>
+  <polygon points="0,375 0,168 100,190 200,201 300,146 400,131 500,193 500,375" fill="#332814" opacity="0.8"/>
+<polygon points="0,375 0,179 125,217 250,192 375,229 500,220 500,375" fill="#3b2f17" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#44361b" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#998e7a" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#bbb4a6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#bbb4a6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#bbb4a6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Donkey Lady Bridge</text>
+</svg>

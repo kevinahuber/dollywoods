@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-sam-pnw-nightwatch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#151911"/>
+      <stop offset="60%" stop-color="#2a3322"/>
+      <stop offset="100%" stop-color="#7f847a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-sam-pnw-nightwatch)"/>
+  <circle cx="445" cy="84" r="1.0378505944091019" fill="white" opacity="0.6"/>
+<circle cx="116" cy="70" r="1.4957031623710502" fill="white" opacity="0.5"/>
+<circle cx="233" cy="16" r="0.8066051387787136" fill="white" opacity="0.6"/>
+<circle cx="124" cy="108" r="0.9869629429540447" fill="white" opacity="0.3"/>
+<circle cx="270" cy="34" r="1.86706788233101" fill="white" opacity="0.9"/>
+<circle cx="28" cy="89" r="0.8655043357308878" fill="white" opacity="0.7"/>
+<circle cx="35" cy="54" r="0.7972729160004998" fill="white" opacity="0.6"/>
+<circle cx="294" cy="71" r="1.1231470292112882" fill="white" opacity="0.6"/>
+<circle cx="344" cy="39" r="0.8786563426337684" fill="white" opacity="0.9"/>
+<circle cx="200" cy="108" r="1.7709509603460187" fill="white" opacity="0.4"/>
+<circle cx="51" cy="109" r="0.5978959492350508" fill="white" opacity="0.5"/>
+<circle cx="242" cy="72" r="1.9722061235014774" fill="white" opacity="0.5"/>
+<circle cx="40" cy="89" r="0.906833407527789" fill="white" opacity="0.5"/>
+<circle cx="477" cy="60" r="1.3414467174045113" fill="white" opacity="0.5"/>
+<circle cx="276" cy="52" r="1.0274945270964007" fill="white" opacity="0.8"/>
+<circle cx="369" cy="48" r="1.273306104468609" fill="white" opacity="0.7"/>
+<circle cx="160" cy="101" r="1.854492910352795" fill="white" opacity="1.0"/>
+<circle cx="4" cy="33" r="0.9577447739664097" fill="white" opacity="0.5"/>
+<circle cx="4" cy="36" r="1.0110979856869902" fill="white" opacity="0.8"/>
+<circle cx="439" cy="27" r="1.1181988228910067" fill="white" opacity="0.6"/>
+<circle cx="280" cy="11" r="0.7878373040556239" fill="white" opacity="0.8"/>
+<circle cx="321" cy="108" r="0.8604417241683623" fill="white" opacity="0.8"/>
+<circle cx="236" cy="89" r="1.15880444112964" fill="white" opacity="0.8"/>
+<circle cx="401" cy="113" r="1.8981290986261372" fill="white" opacity="0.9"/>
+<circle cx="48" cy="6" r="1.823814069890055" fill="white" opacity="0.4"/>
+<circle cx="464" cy="54" r="1.6283672401553175" fill="white" opacity="0.4"/>
+<circle cx="78" cy="100" r="1.9688244946294589" fill="white" opacity="0.5"/>
+<circle cx="410" cy="73" r="0.7414848991021749" fill="white" opacity="0.5"/>
+<circle cx="487" cy="91" r="1.546176757627102" fill="white" opacity="0.7"/>
+<circle cx="259" cy="16" r="0.5216399014618567" fill="white" opacity="0.7"/>
+<circle cx="123" cy="17" r="0.7790885272453772" fill="white" opacity="1.0"/>
+<circle cx="484" cy="95" r="1.7468315068400058" fill="white" opacity="0.6"/>
+<circle cx="372" cy="86" r="1.8362893336316382" fill="white" opacity="0.7"/>
+<circle cx="264" cy="57" r="1.3673831413316269" fill="white" opacity="0.4"/>
+<circle cx="452" cy="13" r="1.8517748494603856" fill="white" opacity="0.4"/>
+<circle cx="228" cy="122" r="1.4585852810727755" fill="white" opacity="0.7"/>
+<circle cx="6" cy="94" r="1.8656396953217809" fill="white" opacity="0.9"/>
+<circle cx="141" cy="100" r="1.0829342271435167" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="221" cy="68" r="25" fill="#bfc1bc" opacity="0.8"/>
+        <circle cx="229" cy="63" r="25" fill="#151911"/>
+  <polygon points="0,375 0,228 125,183 250,235 375,188 500,233 500,375" fill="#191e14" opacity="0.8"/>
+<polygon points="0,375 0,190 71,221 142,219 214,242 285,258 357,215 428,198 500,193 500,375" fill="#1d2317" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#21281b" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#7f847a" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#a9ada6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#a9ada6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#a9ada6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Night Watcher</text>
+</svg>

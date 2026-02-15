@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-molly-mothman-bridge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d1119"/>
+      <stop offset="60%" stop-color="#3a2233"/>
+      <stop offset="100%" stop-color="#887a84"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-molly-mothman-bridge)"/>
+  <circle cx="34" cy="1" r="1.7347916600318734" fill="white" opacity="1.0"/>
+<circle cx="428" cy="24" r="1.7935038596216266" fill="white" opacity="0.3"/>
+<circle cx="330" cy="16" r="1.5095046742486522" fill="white" opacity="0.8"/>
+<circle cx="147" cy="46" r="0.9247404391798736" fill="white" opacity="0.6"/>
+<circle cx="132" cy="90" r="1.4758608145622638" fill="white" opacity="0.4"/>
+<circle cx="8" cy="66" r="0.9897470315467141" fill="white" opacity="0.8"/>
+<circle cx="184" cy="81" r="1.590811939730596" fill="white" opacity="0.9"/>
+<circle cx="216" cy="56" r="1.605980703766553" fill="white" opacity="0.6"/>
+<circle cx="88" cy="59" r="1.6822629083804066" fill="white" opacity="0.6"/>
+<circle cx="113" cy="32" r="1.5945686873987144" fill="white" opacity="0.8"/>
+<circle cx="307" cy="23" r="1.781754600898076" fill="white" opacity="0.7"/>
+<circle cx="199" cy="29" r="0.9786820270939728" fill="white" opacity="0.9"/>
+<circle cx="377" cy="81" r="1.976409906741073" fill="white" opacity="0.7"/>
+<circle cx="87" cy="40" r="1.3100616485194165" fill="white" opacity="0.5"/>
+<circle cx="131" cy="47" r="0.6905872974665441" fill="white" opacity="0.8"/>
+<circle cx="330" cy="35" r="1.5809269840433502" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="219" cy="37" r="20" fill="#b0a6ad" opacity="0.9"/>
+        <circle cx="219" cy="37" r="30" fill="#b0a6ad" opacity="0.2"/>
+        <circle cx="219" cy="37" r="45" fill="#b0a6ad" opacity="0.1"/>
+  <polygon points="0,375 0,154 71,165 142,157 214,222 285,167 357,164 428,233 500,193 500,375" fill="#22141e" opacity="0.8"/>
+<polygon points="0,375 0,144 71,183 142,171 214,196 285,214 357,172 428,186 500,137 500,375" fill="#281723" opacity="0.8"/>
+<polygon points="0,375 0,129 100,127 200,150 300,155 400,154 500,197 500,375" fill="#2e1b28" opacity="0.8"/>
+<polygon points="0,375 0,131 100,106 200,134 300,107 400,93 500,86 500,375" fill="#341e2d" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-10" r="8" fill="#b0a6ad"/>
+          <ellipse cx="0" cy="15" rx="6" ry="18" fill="#b0a6ad"/>
+          <path d="M0,0 Q-40,-50 -20,-10" fill="#887a84" opacity="0.6" stroke="#b0a6ad" stroke-width="0.5"/>
+          <path d="M0,0 Q40,-50 20,-10" fill="#887a84" opacity="0.6" stroke="#b0a6ad" stroke-width="0.5"/>
+          <path d="M0,5 Q-35,-30 -15,5" fill="#887a84" opacity="0.4"/>
+          <path d="M0,5 Q35,-30 15,5" fill="#887a84" opacity="0.4"/>
+          <circle cx="0" cy="-10" r="12" fill="none" stroke="#b0a6ad" stroke-width="0.5" opacity="0.5"/>
+          <circle cx="0" cy="-10" r="20" fill="none" stroke="#b0a6ad" stroke-width="0.3" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b0a6ad" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Mothman on the Silver Bridge</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-lorna-ogopogo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a33"/>
+      <stop offset="60%" stop-color="#445566"/>
+      <stop offset="100%" stop-color="#8e99a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-lorna-ogopogo)"/>
+  <circle cx="292" cy="31" r="1.2752045534464589" fill="white" opacity="0.7"/>
+<circle cx="399" cy="12" r="1.7719134712272322" fill="white" opacity="0.9"/>
+<circle cx="374" cy="99" r="1.5934145026525528" fill="white" opacity="0.6"/>
+<circle cx="263" cy="14" r="1.9994310905016108" fill="white" opacity="0.6"/>
+<circle cx="433" cy="27" r="0.9579446698825416" fill="white" opacity="0.6"/>
+<circle cx="441" cy="98" r="1.9596467539378408" fill="white" opacity="0.4"/>
+<circle cx="48" cy="30" r="0.5549788843161568" fill="white" opacity="0.7"/>
+<circle cx="51" cy="102" r="1.3965524632265547" fill="white" opacity="0.9"/>
+<circle cx="162" cy="93" r="0.8257413893275097" fill="white" opacity="0.8"/>
+<circle cx="10" cy="125" r="1.2178823215964332" fill="white" opacity="0.7"/>
+<circle cx="382" cy="108" r="0.8096036341906527" fill="white" opacity="0.5"/>
+<circle cx="136" cy="36" r="1.7664464218655123" fill="white" opacity="1.0"/>
+<circle cx="271" cy="36" r="0.9649978772112504" fill="white" opacity="0.6"/>
+<circle cx="201" cy="89" r="1.4587967383923837" fill="white" opacity="0.5"/>
+<circle cx="4" cy="34" r="0.5821367619554207" fill="white" opacity="0.4"/>
+<circle cx="297" cy="116" r="1.2074445746258275" fill="white" opacity="0.5"/>
+<circle cx="470" cy="21" r="0.9415527504044479" fill="white" opacity="1.0"/>
+<circle cx="495" cy="36" r="1.7416432612682506" fill="white" opacity="0.8"/>
+<circle cx="336" cy="101" r="1.2283090875036753" fill="white" opacity="0.6"/>
+<circle cx="290" cy="40" r="1.697409161447267" fill="white" opacity="0.7"/>
+<circle cx="354" cy="97" r="1.0798348584806283" fill="white" opacity="1.0"/>
+<circle cx="454" cy="83" r="1.15525998089641" fill="white" opacity="0.7"/>
+<circle cx="335" cy="48" r="1.2193104506203483" fill="white" opacity="0.5"/>
+<circle cx="123" cy="38" r="1.97386131700978" fill="white" opacity="0.3"/>
+<circle cx="404" cy="112" r="1.111162377466988" fill="white" opacity="0.4"/>
+<circle cx="179" cy="27" r="1.3783849093128664" fill="white" opacity="0.9"/>
+<circle cx="10" cy="97" r="0.7380455054555182" fill="white" opacity="1.0"/>
+<circle cx="161" cy="19" r="0.6600985371928566" fill="white" opacity="0.9"/>
+<circle cx="439" cy="12" r="1.784287238314806" fill="white" opacity="0.8"/>
+<circle cx="119" cy="54" r="1.8221435258011232" fill="white" opacity="0.9"/>
+<circle cx="67" cy="107" r="0.5369255967090891" fill="white" opacity="0.9"/>
+<circle cx="285" cy="57" r="1.0898958475365692" fill="white" opacity="0.5"/>
+<circle cx="235" cy="80" r="1.4565775185030307" fill="white" opacity="0.4"/>
+<circle cx="105" cy="100" r="1.6999555607927825" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="308" cy="67" r="25" fill="#c6ccd1" opacity="0.8"/>
+        <circle cx="316" cy="62" r="25" fill="#222a33"/>
+  <polygon points="0,375 0,208 71,197 142,220 214,179 285,220 357,144 428,189 500,165 500,375" fill="#28333d" opacity="0.8"/>
+<polygon points="0,375 0,199 71,243 142,245 214,206 285,240 357,238 428,262 500,240 500,375" fill="#2f3b47" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#364451" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#8e99a3" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#b4bbc1" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#b4bbc1" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbc1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Ogopogo at Twilight</text>
+</svg>

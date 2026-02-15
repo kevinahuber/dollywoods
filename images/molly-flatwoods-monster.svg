@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-molly-flatwoods-monster" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#112211"/>
+      <stop offset="60%" stop-color="#224422"/>
+      <stop offset="100%" stop-color="#7a8e7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-molly-flatwoods-monster)"/>
+  <circle cx="450" cy="8" r="1.3627895703638826" fill="white" opacity="0.5"/>
+<circle cx="128" cy="46" r="0.8466876961684312" fill="white" opacity="0.4"/>
+<circle cx="198" cy="73" r="1.370654457187018" fill="white" opacity="0.8"/>
+<circle cx="467" cy="91" r="1.7137317635937337" fill="white" opacity="0.8"/>
+<circle cx="37" cy="107" r="0.66757189879785" fill="white" opacity="0.6"/>
+<circle cx="318" cy="16" r="1.7051073874352025" fill="white" opacity="0.6"/>
+<circle cx="42" cy="10" r="1.1883431129009465" fill="white" opacity="0.7"/>
+<circle cx="9" cy="45" r="1.4247018234219087" fill="white" opacity="0.9"/>
+<circle cx="167" cy="39" r="1.861279930052735" fill="white" opacity="0.7"/>
+<circle cx="294" cy="32" r="1.1498772800720785" fill="white" opacity="0.4"/>
+<circle cx="444" cy="10" r="1.7319027814567083" fill="white" opacity="0.9"/>
+<circle cx="175" cy="23" r="0.9873937484937725" fill="white" opacity="1.0"/>
+<circle cx="495" cy="60" r="1.8224186768415813" fill="white" opacity="0.4"/>
+<circle cx="442" cy="78" r="1.2345145906074373" fill="white" opacity="0.5"/>
+<circle cx="75" cy="60" r="1.050218704163478" fill="white" opacity="0.3"/>
+<circle cx="491" cy="24" r="1.1853188675738073" fill="white" opacity="0.5"/>
+<circle cx="191" cy="36" r="0.894789026381277" fill="white" opacity="0.7"/>
+<circle cx="175" cy="28" r="1.386557603732225" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="156" cy="57" r="20" fill="#a6b4a6" opacity="0.9"/>
+        <circle cx="156" cy="57" r="30" fill="#a6b4a6" opacity="0.2"/>
+        <circle cx="156" cy="57" r="45" fill="#a6b4a6" opacity="0.1"/>
+  <polygon points="0,375 0,230 83,256 166,249 250,269 333,192 416,219 500,230 500,375" fill="#142814" opacity="0.8"/>
+<polygon points="0,375 0,203 125,214 250,207 375,221 500,210 500,375" fill="#172f17" opacity="0.8"/>
+<polygon points="0,375 0,187 83,202 166,177 250,142 333,155 416,149 500,172 500,375" fill="#1b361b" opacity="0.8"/>
+<polygon points="0,375 0,127 100,106 200,136 300,130 400,112 500,108 500,375" fill="#1e3d1e" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#1b361b" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#7a8e7a" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#a6b4a6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#a6b4a6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#a6b4a6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Flatwoods Monster</text>
+</svg>

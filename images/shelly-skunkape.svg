@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-shelly-skunkape" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a19"/>
+      <stop offset="60%" stop-color="#445533"/>
+      <stop offset="100%" stop-color="#8e9984"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-shelly-skunkape)"/>
+  <circle cx="58" cy="37" r="0.9964929318343828" fill="white" opacity="0.7"/>
+<circle cx="56" cy="87" r="1.4398622630767044" fill="white" opacity="0.4"/>
+<circle cx="122" cy="78" r="1.6157236012382323" fill="white" opacity="0.8"/>
+<circle cx="19" cy="50" r="1.6427287374091795" fill="white" opacity="0.5"/>
+<circle cx="479" cy="64" r="1.3754388530137651" fill="white" opacity="0.5"/>
+<circle cx="492" cy="48" r="0.5123566012762246" fill="white" opacity="0.7"/>
+<circle cx="147" cy="95" r="0.9590732235326342" fill="white" opacity="0.4"/>
+<circle cx="268" cy="75" r="1.2804829861677258" fill="white" opacity="0.9"/>
+<circle cx="197" cy="89" r="1.6052144998949414" fill="white" opacity="0.6"/>
+<circle cx="80" cy="98" r="1.0454930342106878" fill="white" opacity="0.6"/>
+<circle cx="445" cy="111" r="1.3325148613472944" fill="white" opacity="0.4"/>
+<circle cx="297" cy="36" r="1.6077482179669844" fill="white" opacity="0.4"/>
+<circle cx="322" cy="25" r="1.3885664994641973" fill="white" opacity="0.8"/>
+<circle cx="453" cy="108" r="1.116947760963499" fill="white" opacity="0.6"/>
+<circle cx="435" cy="64" r="1.8216564186019029" fill="white" opacity="0.6"/>
+<circle cx="216" cy="63" r="0.7444113370945429" fill="white" opacity="0.4"/>
+<circle cx="101" cy="120" r="0.7670789939563757" fill="white" opacity="0.7"/>
+<circle cx="0" cy="73" r="1.8973359845148627" fill="white" opacity="0.3"/>
+<circle cx="199" cy="34" r="1.5034250625728212" fill="white" opacity="0.9"/>
+<circle cx="470" cy="81" r="0.6887429733410424" fill="white" opacity="0.9"/>
+<circle cx="167" cy="111" r="1.5042257190006685" fill="white" opacity="0.7"/>
+<circle cx="391" cy="101" r="1.0829547122667025" fill="white" opacity="0.8"/>
+<circle cx="169" cy="50" r="1.9386374962849002" fill="white" opacity="0.9"/>
+<circle cx="101" cy="12" r="0.8247091917773365" fill="white" opacity="0.8"/>
+<circle cx="456" cy="65" r="1.831142197723057" fill="white" opacity="0.8"/>
+<circle cx="268" cy="11" r="1.9849078266167486" fill="white" opacity="0.4"/>
+<circle cx="415" cy="13" r="0.6342400346511641" fill="white" opacity="1.0"/>
+
+  
+        <circle cx="370" cy="76" r="25" fill="#c6ccc1" opacity="0.8"/>
+        <circle cx="378" cy="71" r="25" fill="#222a19"/>
+  <polygon points="0,375 0,205 83,143 166,162 250,212 333,184 416,196 500,185 500,375" fill="#28331e" opacity="0.8"/>
+<polygon points="0,375 0,233 71,217 142,247 214,235 285,222 357,230 428,263 500,211 500,375" fill="#2f3b23" opacity="0.8"/>
+<polygon points="0,375 0,98 83,135 166,135 250,133 333,115 416,147 500,154 500,375" fill="#364428" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#364428" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#8e9984" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#b4bbad" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#b4bbad" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbad" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Skunk Ape in the Cypress Swamp</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-pine-dover-demon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#555d4c"/>
+      <stop offset="60%" stop-color="#aabb99"/>
+      <stop offset="100%" stop-color="#ccd6c1"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-pine-dover-demon)"/>
+  <circle cx="432" cy="28" r="0.8287663114159662" fill="white" opacity="0.7"/>
+<circle cx="248" cy="122" r="1.3746527874773127" fill="white" opacity="0.7"/>
+<circle cx="320" cy="17" r="0.8081521401073354" fill="white" opacity="0.7"/>
+<circle cx="373" cy="86" r="0.9848264652627162" fill="white" opacity="0.9"/>
+<circle cx="394" cy="60" r="0.798573981479973" fill="white" opacity="1.0"/>
+<circle cx="142" cy="102" r="0.6488314762449714" fill="white" opacity="0.8"/>
+<circle cx="108" cy="61" r="1.0996212831153203" fill="white" opacity="0.9"/>
+<circle cx="494" cy="124" r="1.0098260133219026" fill="white" opacity="0.7"/>
+<circle cx="1" cy="8" r="1.3244715408745429" fill="white" opacity="0.4"/>
+<circle cx="222" cy="17" r="1.0124186458998512" fill="white" opacity="0.7"/>
+<circle cx="86" cy="82" r="1.1384931270097134" fill="white" opacity="0.3"/>
+<circle cx="489" cy="74" r="1.6921002894738033" fill="white" opacity="0.6"/>
+<circle cx="367" cy="61" r="1.3909117693076865" fill="white" opacity="0.8"/>
+<circle cx="6" cy="86" r="0.5717714261611477" fill="white" opacity="0.5"/>
+<circle cx="209" cy="79" r="1.9826116672898386" fill="white" opacity="0.8"/>
+<circle cx="444" cy="43" r="1.4717241990206906" fill="white" opacity="0.6"/>
+<circle cx="395" cy="5" r="1.9875507053181916" fill="white" opacity="0.8"/>
+<circle cx="414" cy="120" r="1.1433931427320452" fill="white" opacity="0.9"/>
+<circle cx="61" cy="94" r="0.7287765895915834" fill="white" opacity="0.3"/>
+<circle cx="389" cy="25" r="0.5893444043655037" fill="white" opacity="0.7"/>
+<circle cx="424" cy="2" r="0.7916208243990761" fill="white" opacity="0.6"/>
+<circle cx="68" cy="27" r="0.7700732244548112" fill="white" opacity="0.4"/>
+<circle cx="57" cy="56" r="0.6484406038440393" fill="white" opacity="0.5"/>
+<circle cx="305" cy="69" r="1.0404727065468498" fill="white" opacity="1.0"/>
+<circle cx="434" cy="9" r="1.251149019468067" fill="white" opacity="0.9"/>
+<circle cx="433" cy="89" r="0.7805234953193372" fill="white" opacity="0.9"/>
+<circle cx="336" cy="94" r="1.799511027779484" fill="white" opacity="0.7"/>
+<circle cx="333" cy="105" r="0.7924059973660705" fill="white" opacity="0.9"/>
+<circle cx="35" cy="96" r="0.7446456609252603" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="252" cy="54" r="25" fill="#e5eae0" opacity="0.8"/>
+        <circle cx="260" cy="49" r="25" fill="#555d4c"/>
+  <polygon points="0,375 0,240 166,192 333,220 500,208 500,375" fill="#66705b" opacity="0.8"/>
+<polygon points="0,375 0,117 71,146 142,172 214,175 285,184 357,177 428,168 500,135 500,375" fill="#76826b" opacity="0.8"/>
+<polygon points="0,375 0,216 125,159 250,168 375,217 500,153 500,375" fill="#88957a" opacity="0.8"/>
+<polygon points="0,375 0,195 125,197 250,185 375,149 500,194 500,375" fill="#99a889" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#88957a" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#ccd6c1" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#dde3d6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#dde3d6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#dde3d6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Cryptid Field Guide: Dover Demon</text>
+</svg>

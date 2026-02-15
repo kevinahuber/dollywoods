@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-charlie-lechuza" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#191122"/>
+      <stop offset="60%" stop-color="#332244"/>
+      <stop offset="100%" stop-color="#847a8e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-charlie-lechuza)"/>
+  <circle cx="466" cy="50" r="1.2902578680188626" fill="white" opacity="0.6"/>
+<circle cx="108" cy="24" r="1.5331294807086886" fill="white" opacity="0.6"/>
+<circle cx="315" cy="6" r="1.1756419111902163" fill="white" opacity="0.5"/>
+<circle cx="308" cy="2" r="1.0962887595791795" fill="white" opacity="0.5"/>
+<circle cx="180" cy="80" r="0.8998635339945869" fill="white" opacity="0.9"/>
+<circle cx="132" cy="105" r="0.7823620540255465" fill="white" opacity="0.6"/>
+<circle cx="227" cy="44" r="1.7065960486298086" fill="white" opacity="0.4"/>
+<circle cx="261" cy="48" r="1.3798815010040961" fill="white" opacity="0.6"/>
+<circle cx="125" cy="95" r="1.3335646448319531" fill="white" opacity="1.0"/>
+<circle cx="282" cy="52" r="0.9760409116223845" fill="white" opacity="0.3"/>
+<circle cx="431" cy="20" r="0.78398728338298" fill="white" opacity="0.5"/>
+<circle cx="242" cy="39" r="1.4442299937474192" fill="white" opacity="0.8"/>
+<circle cx="415" cy="23" r="1.8940134282297805" fill="white" opacity="0.9"/>
+<circle cx="373" cy="114" r="1.3982420234733828" fill="white" opacity="0.5"/>
+<circle cx="164" cy="9" r="1.6808372484049594" fill="white" opacity="0.9"/>
+<circle cx="396" cy="14" r="0.5104065425353232" fill="white" opacity="0.8"/>
+<circle cx="371" cy="108" r="0.8555848326083145" fill="white" opacity="0.6"/>
+<circle cx="383" cy="57" r="1.6566091289585307" fill="white" opacity="0.8"/>
+<circle cx="370" cy="19" r="0.840925389125947" fill="white" opacity="0.7"/>
+<circle cx="74" cy="93" r="1.7835886126339668" fill="white" opacity="0.8"/>
+<circle cx="378" cy="38" r="1.241195987139993" fill="white" opacity="0.4"/>
+<circle cx="233" cy="15" r="0.7487516072850002" fill="white" opacity="0.7"/>
+<circle cx="490" cy="57" r="1.3495254197173854" fill="white" opacity="0.9"/>
+<circle cx="149" cy="100" r="1.5720599512513698" fill="white" opacity="0.8"/>
+<circle cx="256" cy="4" r="0.9940996110860552" fill="white" opacity="0.8"/>
+<circle cx="182" cy="31" r="0.5649460065736466" fill="white" opacity="0.7"/>
+<circle cx="130" cy="28" r="1.7446043130664721" fill="white" opacity="0.7"/>
+<circle cx="45" cy="68" r="0.7496733485512352" fill="white" opacity="0.7"/>
+<circle cx="72" cy="32" r="1.0311171553396876" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="146" cy="65" r="25" fill="#c1bcc6" opacity="0.8"/>
+        <circle cx="154" cy="60" r="25" fill="#191122"/>
+  <polygon points="0,375 0,179 71,167 142,210 214,214 285,164 357,178 428,200 500,187 500,375" fill="#1e1428" opacity="0.8"/>
+<polygon points="0,375 0,137 71,154 142,141 214,151 285,115 357,118 428,128 500,133 500,375" fill="#23172f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#281b36" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#847a8e" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#ada6b4" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#ada6b4" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ada6b4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">La Lechuza</text>
+</svg>

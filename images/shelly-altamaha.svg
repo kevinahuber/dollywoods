@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-shelly-altamaha" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3322"/>
+      <stop offset="60%" stop-color="#556644"/>
+      <stop offset="100%" stop-color="#99a38e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-shelly-altamaha)"/>
+  <circle cx="132" cy="105" r="0.9960995805621382" fill="white" opacity="0.3"/>
+<circle cx="223" cy="44" r="1.1053068163378792" fill="white" opacity="0.9"/>
+<circle cx="38" cy="87" r="1.3679456019363205" fill="white" opacity="0.3"/>
+<circle cx="371" cy="78" r="1.0740620744558378" fill="white" opacity="0.5"/>
+<circle cx="252" cy="95" r="1.9961799822532824" fill="white" opacity="0.5"/>
+<circle cx="364" cy="57" r="1.9980497990435238" fill="white" opacity="0.4"/>
+<circle cx="237" cy="85" r="0.6772345928042672" fill="white" opacity="0.8"/>
+<circle cx="327" cy="102" r="0.8074492175089294" fill="white" opacity="0.4"/>
+<circle cx="348" cy="47" r="1.899058964566664" fill="white" opacity="0.9"/>
+<circle cx="224" cy="11" r="1.7350805392182147" fill="white" opacity="0.8"/>
+<circle cx="400" cy="0" r="1.882273326207349" fill="white" opacity="0.7"/>
+<circle cx="439" cy="49" r="1.8688488381216384" fill="white" opacity="0.4"/>
+<circle cx="203" cy="81" r="1.449767519032233" fill="white" opacity="0.8"/>
+<circle cx="16" cy="6" r="1.739317541450156" fill="white" opacity="0.8"/>
+<circle cx="462" cy="8" r="1.2726132037639604" fill="white" opacity="0.7"/>
+<circle cx="157" cy="103" r="0.8544501573070102" fill="white" opacity="0.9"/>
+<circle cx="305" cy="15" r="1.894536826159469" fill="white" opacity="0.6"/>
+<circle cx="279" cy="6" r="1.2212367017017918" fill="white" opacity="0.9"/>
+<circle cx="27" cy="56" r="0.7713974884599417" fill="white" opacity="0.6"/>
+<circle cx="238" cy="59" r="1.6941158107104572" fill="white" opacity="0.4"/>
+<circle cx="493" cy="57" r="0.9766016292222901" fill="white" opacity="0.4"/>
+<circle cx="127" cy="8" r="1.9529095980322089" fill="white" opacity="0.4"/>
+<circle cx="145" cy="114" r="1.0371989585199612" fill="white" opacity="0.8"/>
+<circle cx="185" cy="42" r="0.8395165439365595" fill="white" opacity="0.6"/>
+<circle cx="226" cy="40" r="1.1756366593625622" fill="white" opacity="0.9"/>
+<circle cx="140" cy="32" r="0.6675063787743206" fill="white" opacity="0.6"/>
+<circle cx="481" cy="38" r="0.9643073709806265" fill="white" opacity="0.6"/>
+<circle cx="112" cy="69" r="0.659218729618868" fill="white" opacity="0.4"/>
+<circle cx="312" cy="48" r="0.650944661117999" fill="white" opacity="0.3"/>
+<circle cx="472" cy="4" r="1.1708169360288918" fill="white" opacity="0.9"/>
+<circle cx="253" cy="75" r="1.4759112951026887" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="226" cy="30" r="20" fill="#bbc1b4" opacity="0.9"/>
+        <circle cx="226" cy="30" r="30" fill="#bbc1b4" opacity="0.2"/>
+        <circle cx="226" cy="30" r="45" fill="#bbc1b4" opacity="0.1"/>
+  <polygon points="0,375 0,202 83,227 166,178 250,177 333,182 416,180 500,190 500,375" fill="#333d28" opacity="0.8"/>
+<polygon points="0,375 0,199 71,248 142,198 214,228 285,211 357,215 428,260 500,254 500,375" fill="#3b472f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#445136" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#99a38e" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#bbc1b4" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#bbc1b4" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#bbc1b4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Altamaha-ha Surfaces</text>
+</svg>
