@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-corvin-redcap" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a1919"/>
+      <stop offset="60%" stop-color="#553333"/>
+      <stop offset="100%" stop-color="#998484"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-corvin-redcap)"/>
+  <circle cx="309" cy="29" r="1.2495354058748425" fill="white" opacity="0.9"/>
+<circle cx="65" cy="35" r="1.9574173000947643" fill="white" opacity="0.7"/>
+<circle cx="438" cy="82" r="1.3416512502195868" fill="white" opacity="0.6"/>
+<circle cx="364" cy="6" r="0.6758569073806002" fill="white" opacity="0.3"/>
+<circle cx="58" cy="103" r="1.3494795694661095" fill="white" opacity="0.3"/>
+<circle cx="302" cy="46" r="1.1289158796713967" fill="white" opacity="0.9"/>
+<circle cx="248" cy="105" r="1.210632008957163" fill="white" opacity="0.4"/>
+<circle cx="12" cy="1" r="1.8066216968691522" fill="white" opacity="0.9"/>
+<circle cx="109" cy="6" r="1.8352316800173343" fill="white" opacity="0.4"/>
+<circle cx="359" cy="36" r="1.8655934488587564" fill="white" opacity="0.4"/>
+<circle cx="335" cy="75" r="1.7097732332458422" fill="white" opacity="0.7"/>
+<circle cx="464" cy="18" r="1.690351564394407" fill="white" opacity="0.4"/>
+<circle cx="299" cy="2" r="1.972500537227925" fill="white" opacity="0.6"/>
+<circle cx="105" cy="33" r="1.0222371430685038" fill="white" opacity="0.5"/>
+<circle cx="496" cy="113" r="0.7036836829961033" fill="white" opacity="0.4"/>
+<circle cx="158" cy="79" r="1.3705868669431942" fill="white" opacity="0.6"/>
+<circle cx="22" cy="7" r="1.6116372210758865" fill="white" opacity="0.9"/>
+<circle cx="325" cy="85" r="1.79319757134001" fill="white" opacity="0.6"/>
+<circle cx="432" cy="75" r="0.7348157070799242" fill="white" opacity="0.4"/>
+<circle cx="369" cy="36" r="0.9037607347196968" fill="white" opacity="0.6"/>
+<circle cx="370" cy="86" r="1.567341400362083" fill="white" opacity="0.9"/>
+<circle cx="423" cy="110" r="0.7028256455829125" fill="white" opacity="0.4"/>
+<circle cx="273" cy="122" r="1.430223632255537" fill="white" opacity="0.9"/>
+<circle cx="334" cy="28" r="1.5271133097724137" fill="white" opacity="0.3"/>
+<circle cx="124" cy="74" r="0.910540768389155" fill="white" opacity="0.9"/>
+<circle cx="60" cy="35" r="1.1519591830198972" fill="white" opacity="0.8"/>
+<circle cx="78" cy="60" r="1.3841753373346923" fill="white" opacity="0.4"/>
+<circle cx="14" cy="123" r="1.4759404567486754" fill="white" opacity="0.5"/>
+<circle cx="345" cy="19" r="0.8056420730279416" fill="white" opacity="0.9"/>
+<circle cx="28" cy="50" r="1.0141267044969098" fill="white" opacity="0.6"/>
+<circle cx="230" cy="49" r="0.9080411303623293" fill="white" opacity="0.4"/>
+<circle cx="215" cy="105" r="1.7865770208802423" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="204" cy="35" r="20" fill="#bbadad" opacity="0.9"/>
+        <circle cx="204" cy="35" r="30" fill="#bbadad" opacity="0.2"/>
+        <circle cx="204" cy="35" r="45" fill="#bbadad" opacity="0.1"/>
+  <polygon points="0,375 0,204 125,232 250,240 375,188 500,182 500,375" fill="#331e1e" opacity="0.8"/>
+<polygon points="0,375 0,150 100,119 200,167 300,120 400,127 500,153 500,375" fill="#3b2323" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#442828" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#998484" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#bbadad" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#bbadad" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#bbadad" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Redcap</text>
+</svg>

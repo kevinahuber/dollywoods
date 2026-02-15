@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-binary-fighter" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a3b"/>
+      <stop offset="60%" stop-color="#445577"/>
+      <stop offset="100%" stop-color="#8e99ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-binary-fighter)"/>
+  <circle cx="350" cy="68" r="0.6560532221302882" fill="white" opacity="0.6"/>
+<circle cx="206" cy="9" r="0.5640220058247822" fill="white" opacity="0.8"/>
+<circle cx="247" cy="98" r="1.5576312907459777" fill="white" opacity="0.6"/>
+<circle cx="197" cy="32" r="0.9609957336070698" fill="white" opacity="0.6"/>
+<circle cx="217" cy="19" r="1.8572980826102965" fill="white" opacity="0.7"/>
+<circle cx="388" cy="81" r="0.5165892713334663" fill="white" opacity="0.5"/>
+<circle cx="382" cy="76" r="1.0597059946125134" fill="white" opacity="0.6"/>
+<circle cx="451" cy="98" r="1.3668959465779793" fill="white" opacity="0.4"/>
+<circle cx="97" cy="120" r="0.9661967064897483" fill="white" opacity="0.6"/>
+<circle cx="317" cy="82" r="1.1937334635142463" fill="white" opacity="0.7"/>
+<circle cx="463" cy="18" r="1.8681996480461123" fill="white" opacity="0.9"/>
+<circle cx="388" cy="75" r="1.698782081715696" fill="white" opacity="0.5"/>
+<circle cx="108" cy="16" r="1.0185695649048028" fill="white" opacity="0.4"/>
+<circle cx="274" cy="76" r="0.8214417092059878" fill="white" opacity="0.9"/>
+<circle cx="5" cy="55" r="1.1979186726213484" fill="white" opacity="0.8"/>
+<circle cx="429" cy="7" r="1.0453068859884673" fill="white" opacity="0.5"/>
+<circle cx="196" cy="68" r="1.274852993439161" fill="white" opacity="0.5"/>
+<circle cx="417" cy="109" r="0.6686008132435832" fill="white" opacity="0.5"/>
+<circle cx="226" cy="12" r="1.1241093950203431" fill="white" opacity="0.5"/>
+<circle cx="408" cy="52" r="1.2394819555257093" fill="white" opacity="0.7"/>
+<circle cx="137" cy="55" r="1.5607673325445457" fill="white" opacity="0.7"/>
+<circle cx="134" cy="103" r="0.8173874365624121" fill="white" opacity="0.5"/>
+<circle cx="486" cy="123" r="0.6337826458559392" fill="white" opacity="0.9"/>
+<circle cx="441" cy="7" r="1.4754442226576656" fill="white" opacity="0.7"/>
+<circle cx="487" cy="59" r="1.7222038442402519" fill="white" opacity="0.8"/>
+<circle cx="345" cy="47" r="1.7751402484246457" fill="white" opacity="0.4"/>
+<circle cx="432" cy="72" r="1.2205340075181355" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="337" cy="38" r="25" fill="#c6ccd6" opacity="0.8"/>
+        <circle cx="345" cy="33" r="25" fill="#222a3b"/>
+  <polygon points="0,375 0,300 83,222 166,268 250,231 333,265 416,277 500,220 500,375" fill="#283347" opacity="0.8"/>
+<polygon points="0,375 0,194 83,132 166,147 250,124 333,173 416,175 500,182 500,375" fill="#2f3b53" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#36445f"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#8e99ad" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#b4bbc8" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#b4bbc8" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#b4bbc8" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#b4bbc8" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbc8" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Interceptor Class VII</text>
+</svg>

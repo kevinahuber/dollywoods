@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-smoky-faeries" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#446655"/>
+      <stop offset="60%" stop-color="#88ccaa"/>
+      <stop offset="100%" stop-color="#b7e0cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-smoky-faeries)"/>
+  <circle cx="53" cy="80" r="1.9373376920525949" fill="white" opacity="0.9"/>
+<circle cx="298" cy="108" r="1.7905095221419582" fill="white" opacity="0.5"/>
+<circle cx="90" cy="104" r="0.5525647814709429" fill="white" opacity="0.8"/>
+<circle cx="237" cy="102" r="0.539426963199821" fill="white" opacity="0.6"/>
+<circle cx="176" cy="107" r="0.8950846707819493" fill="white" opacity="0.5"/>
+<circle cx="128" cy="65" r="0.7773653945005929" fill="white" opacity="0.4"/>
+<circle cx="224" cy="35" r="1.7168395541592398" fill="white" opacity="1.0"/>
+<circle cx="50" cy="57" r="0.9706108771595275" fill="white" opacity="0.4"/>
+<circle cx="461" cy="19" r="1.932196833486302" fill="white" opacity="0.7"/>
+<circle cx="95" cy="84" r="1.8507459836131774" fill="white" opacity="0.8"/>
+<circle cx="55" cy="106" r="1.4860996509801159" fill="white" opacity="0.5"/>
+<circle cx="311" cy="111" r="0.658628169325759" fill="white" opacity="0.8"/>
+<circle cx="239" cy="47" r="1.0347222551150215" fill="white" opacity="0.8"/>
+<circle cx="361" cy="116" r="1.2203270432994293" fill="white" opacity="0.3"/>
+<circle cx="299" cy="57" r="1.262234069386471" fill="white" opacity="0.8"/>
+<circle cx="186" cy="94" r="1.7598774957804029" fill="white" opacity="0.5"/>
+<circle cx="135" cy="96" r="1.2242598877103634" fill="white" opacity="0.9"/>
+<circle cx="330" cy="98" r="1.2338645039044622" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="202" cy="55" r="20" fill="#cfeadd" opacity="0.9"/>
+        <circle cx="202" cy="55" r="30" fill="#cfeadd" opacity="0.2"/>
+        <circle cx="202" cy="55" r="45" fill="#cfeadd" opacity="0.1"/>
+  <polygon points="0,375 0,183 71,180 142,207 214,214 285,231 357,182 428,250 500,187 500,375" fill="#517a66" opacity="0.8"/>
+<polygon points="0,375 0,171 71,114 142,163 214,152 285,156 357,170 428,123 500,106 500,375" fill="#5f8e76" opacity="0.8"/>
+<polygon points="0,375 0,218 71,212 142,212 214,208 285,187 357,187 428,223 500,203 500,375" fill="#6ca388" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-10" r="8" fill="#cfeadd"/>
+          <ellipse cx="0" cy="15" rx="6" ry="18" fill="#cfeadd"/>
+          <path d="M0,0 Q-40,-50 -20,-10" fill="#b7e0cc" opacity="0.6" stroke="#cfeadd" stroke-width="0.5"/>
+          <path d="M0,0 Q40,-50 20,-10" fill="#b7e0cc" opacity="0.6" stroke="#cfeadd" stroke-width="0.5"/>
+          <path d="M0,5 Q-35,-30 -15,5" fill="#b7e0cc" opacity="0.4"/>
+          <path d="M0,5 Q35,-30 15,5" fill="#b7e0cc" opacity="0.4"/>
+          <circle cx="0" cy="-10" r="12" fill="none" stroke="#cfeadd" stroke-width="0.5" opacity="0.5"/>
+          <circle cx="0" cy="-10" r="20" fill="none" stroke="#cfeadd" stroke-width="0.3" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfeadd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Faeries of the Smoky Mountains</text>
+</svg>

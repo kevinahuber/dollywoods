@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-butterfly-queen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7f666e"/>
+      <stop offset="60%" stop-color="#ffccdd"/>
+      <stop offset="100%" stop-color="#ffe0ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-butterfly-queen)"/>
+  <circle cx="339" cy="37" r="1.0299622543099376" fill="white" opacity="0.8"/>
+<circle cx="436" cy="49" r="1.2078786928382115" fill="white" opacity="0.5"/>
+<circle cx="301" cy="6" r="0.9041944095283861" fill="white" opacity="0.9"/>
+<circle cx="313" cy="94" r="1.032148433297269" fill="white" opacity="0.8"/>
+<circle cx="135" cy="46" r="1.9684167716886374" fill="white" opacity="0.4"/>
+<circle cx="159" cy="103" r="0.719048798411936" fill="white" opacity="0.8"/>
+<circle cx="192" cy="95" r="0.9172932698543769" fill="white" opacity="0.7"/>
+<circle cx="10" cy="7" r="1.910823831061912" fill="white" opacity="0.4"/>
+<circle cx="142" cy="11" r="1.3602555883452907" fill="white" opacity="0.9"/>
+<circle cx="206" cy="15" r="1.6125613248697257" fill="white" opacity="0.4"/>
+<circle cx="332" cy="75" r="1.6208811412972333" fill="white" opacity="0.5"/>
+<circle cx="213" cy="36" r="1.4699525982839536" fill="white" opacity="0.7"/>
+<circle cx="31" cy="109" r="1.6704762735506584" fill="white" opacity="0.6"/>
+<circle cx="232" cy="79" r="0.8283755758246429" fill="white" opacity="1.0"/>
+<circle cx="214" cy="49" r="0.6916018950454799" fill="white" opacity="0.4"/>
+<circle cx="163" cy="26" r="1.349866026772776" fill="white" opacity="0.7"/>
+<circle cx="319" cy="103" r="0.9684408230204847" fill="white" opacity="1.0"/>
+<circle cx="264" cy="11" r="1.809097922144987" fill="white" opacity="0.9"/>
+<circle cx="102" cy="72" r="1.1558760127122554" fill="white" opacity="0.7"/>
+<circle cx="421" cy="77" r="1.8306310534420063" fill="white" opacity="0.4"/>
+<circle cx="299" cy="80" r="0.6986866265204933" fill="white" opacity="0.6"/>
+<circle cx="425" cy="67" r="1.0761092087986963" fill="white" opacity="0.6"/>
+<circle cx="152" cy="45" r="1.754801666446203" fill="white" opacity="0.6"/>
+<circle cx="447" cy="53" r="0.6486353021554805" fill="white" opacity="0.4"/>
+<circle cx="24" cy="62" r="1.2586511161166123" fill="white" opacity="0.8"/>
+<circle cx="414" cy="37" r="1.5861530788503329" fill="white" opacity="0.7"/>
+<circle cx="270" cy="83" r="1.0193086519447059" fill="white" opacity="0.6"/>
+<circle cx="221" cy="69" r="1.402316219195422" fill="white" opacity="0.8"/>
+<circle cx="164" cy="58" r="0.565940275762383" fill="white" opacity="0.9"/>
+<circle cx="150" cy="28" r="0.6309645172287421" fill="white" opacity="0.4"/>
+<circle cx="96" cy="44" r="0.8472741662455124" fill="white" opacity="0.6"/>
+<circle cx="228" cy="91" r="0.9121872170689804" fill="white" opacity="0.8"/>
+<circle cx="127" cy="58" r="0.5893614078818679" fill="white" opacity="0.9"/>
+<circle cx="354" cy="95" r="1.1353452739918262" fill="white" opacity="0.9"/>
+<circle cx="141" cy="99" r="1.4878853154694893" fill="white" opacity="0.5"/>
+<circle cx="361" cy="71" r="0.5210965396977096" fill="white" opacity="0.6"/>
+<circle cx="265" cy="63" r="1.9559219777830654" fill="white" opacity="0.7"/>
+<circle cx="250" cy="124" r="1.9851772953588098" fill="white" opacity="0.6"/>
+<circle cx="35" cy="125" r="0.5453302233812953" fill="white" opacity="0.6"/>
+<circle cx="145" cy="122" r="0.9577006119436235" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="170" cy="64" r="20" fill="#ffeaf1" opacity="0.9"/>
+        <circle cx="170" cy="64" r="30" fill="#ffeaf1" opacity="0.2"/>
+        <circle cx="170" cy="64" r="45" fill="#ffeaf1" opacity="0.1"/>
+  <polygon points="0,375 0,184 166,244 333,212 500,242 500,375" fill="#997a84" opacity="0.8"/>
+<polygon points="0,375 0,147 166,118 333,134 500,120 500,375" fill="#b28e9a" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-35" r="12" fill="#cca3b0"/>
+          <path d="M-12,-23 L-18,20 L18,20 L12,-23" fill="#cca3b0"/>
+          <line x1="-18" y1="20" x2="-22" y2="60" stroke="#cca3b0" stroke-width="5"/>
+          <line x1="18" y1="20" x2="22" y2="60" stroke="#cca3b0" stroke-width="5"/>
+          <path d="M-12,-15 Q-35,-5 -40,10" stroke="#cca3b0" stroke-width="3" fill="none"/>
+          <path d="M12,-15 Q35,-5 40,10" stroke="#cca3b0" stroke-width="3" fill="none"/>
+          <circle cx="0" cy="-35" r="18" fill="none" stroke="#ffeaf1" stroke-width="0.5" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ffeaf1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Butterfly Queen of Tennessee</text>
+</svg>

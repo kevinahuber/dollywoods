@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-coat-many-colours" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7f4c4c"/>
+      <stop offset="60%" stop-color="#ff9999"/>
+      <stop offset="100%" stop-color="#ffc1c1"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-coat-many-colours)"/>
+  <circle cx="90" cy="91" r="1.0428101976962194" fill="white" opacity="0.6"/>
+<circle cx="312" cy="25" r="1.961722304159843" fill="white" opacity="0.7"/>
+<circle cx="245" cy="7" r="1.2447435576755517" fill="white" opacity="0.5"/>
+<circle cx="252" cy="97" r="1.6659742429545779" fill="white" opacity="0.7"/>
+<circle cx="167" cy="31" r="0.744007925582074" fill="white" opacity="0.6"/>
+<circle cx="138" cy="35" r="1.9956226117086953" fill="white" opacity="0.6"/>
+<circle cx="13" cy="84" r="0.7100457779828349" fill="white" opacity="0.5"/>
+<circle cx="133" cy="78" r="1.033779382669617" fill="white" opacity="0.5"/>
+<circle cx="368" cy="44" r="0.8579166158614995" fill="white" opacity="0.3"/>
+<circle cx="134" cy="112" r="0.8887072080241977" fill="white" opacity="0.6"/>
+<circle cx="48" cy="25" r="1.4863395428402983" fill="white" opacity="0.4"/>
+<circle cx="190" cy="66" r="0.8179425236948243" fill="white" opacity="0.4"/>
+<circle cx="47" cy="46" r="0.7751323897293427" fill="white" opacity="0.8"/>
+<circle cx="264" cy="120" r="1.5924278354445622" fill="white" opacity="0.9"/>
+<circle cx="426" cy="55" r="1.284177686555625" fill="white" opacity="0.6"/>
+<circle cx="133" cy="110" r="1.2925604620793976" fill="white" opacity="0.4"/>
+<circle cx="449" cy="56" r="0.594882413394032" fill="white" opacity="0.7"/>
+<circle cx="93" cy="15" r="1.5017338327789977" fill="white" opacity="0.8"/>
+<circle cx="438" cy="90" r="0.7788334722422976" fill="white" opacity="0.5"/>
+<circle cx="57" cy="86" r="1.5683606417880664" fill="white" opacity="0.9"/>
+<circle cx="38" cy="120" r="1.5817933352231692" fill="white" opacity="1.0"/>
+<circle cx="390" cy="66" r="1.6782022915029353" fill="white" opacity="0.4"/>
+<circle cx="179" cy="54" r="1.3358866469111053" fill="white" opacity="0.5"/>
+<circle cx="464" cy="33" r="0.6902025940140193" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="290" cy="41" r="25" fill="#ffe0e0" opacity="0.8"/>
+        <circle cx="298" cy="36" r="25" fill="#7f4c4c"/>
+  <polygon points="0,375 0,232 83,259 166,277 250,243 333,213 416,247 500,241 500,375" fill="#995b5b" opacity="0.8"/>
+<polygon points="0,375 0,162 125,209 250,206 375,166 500,188 500,375" fill="#b26b6b" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#cc7a7a" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#ffc1c1" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#ffd6d6" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#ffd6d6" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ffd6d6" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Coat of Many Colours (Magic Cloak)</text>
+</svg>

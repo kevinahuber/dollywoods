@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-echo-cosmic-queen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b2244"/>
+      <stop offset="60%" stop-color="#774488"/>
+      <stop offset="100%" stop-color="#ad8eb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-echo-cosmic-queen)"/>
+  <circle cx="226" cy="59" r="0.8267335382291561" fill="white" opacity="0.9"/>
+<circle cx="146" cy="17" r="0.9211232440586847" fill="white" opacity="0.7"/>
+<circle cx="417" cy="29" r="0.8817364630534442" fill="white" opacity="0.6"/>
+<circle cx="471" cy="25" r="0.6142250215158878" fill="white" opacity="0.7"/>
+<circle cx="36" cy="51" r="1.55071029068023" fill="white" opacity="0.9"/>
+<circle cx="79" cy="24" r="1.165689272845559" fill="white" opacity="0.5"/>
+<circle cx="30" cy="72" r="1.803986191676246" fill="white" opacity="0.3"/>
+<circle cx="472" cy="30" r="0.5877942419357105" fill="white" opacity="0.3"/>
+<circle cx="169" cy="18" r="1.6239622450886242" fill="white" opacity="0.8"/>
+<circle cx="109" cy="1" r="1.6963843883626384" fill="white" opacity="0.7"/>
+<circle cx="167" cy="110" r="1.9962703210928983" fill="white" opacity="0.6"/>
+<circle cx="256" cy="27" r="0.8751141923545745" fill="white" opacity="0.8"/>
+<circle cx="226" cy="23" r="1.3944243962970018" fill="white" opacity="0.6"/>
+<circle cx="32" cy="111" r="0.8243824391725842" fill="white" opacity="0.7"/>
+<circle cx="74" cy="15" r="1.095304401327397" fill="white" opacity="0.7"/>
+<circle cx="139" cy="56" r="1.3544270432274623" fill="white" opacity="0.3"/>
+<circle cx="72" cy="104" r="1.5188721366288418" fill="white" opacity="0.5"/>
+<circle cx="296" cy="58" r="1.388839083334871" fill="white" opacity="0.5"/>
+<circle cx="316" cy="93" r="1.0021073209386562" fill="white" opacity="0.6"/>
+<circle cx="12" cy="116" r="0.8506593353777994" fill="white" opacity="0.4"/>
+<circle cx="14" cy="20" r="0.653832684883108" fill="white" opacity="0.5"/>
+<circle cx="419" cy="90" r="0.6943801858520682" fill="white" opacity="0.7"/>
+<circle cx="282" cy="85" r="0.9389412761471339" fill="white" opacity="0.7"/>
+<circle cx="14" cy="105" r="1.9237367842065167" fill="white" opacity="0.7"/>
+<circle cx="329" cy="120" r="0.8519958987955554" fill="white" opacity="0.8"/>
+<circle cx="366" cy="18" r="0.7174399451690274" fill="white" opacity="0.8"/>
+<circle cx="81" cy="121" r="1.4103245990574274" fill="white" opacity="0.4"/>
+<circle cx="132" cy="50" r="1.139917974103521" fill="white" opacity="0.7"/>
+<circle cx="84" cy="5" r="0.6547888990531162" fill="white" opacity="0.5"/>
+<circle cx="372" cy="49" r="1.940086738831153" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="222" cy="71" r="25" fill="#d6c6db" opacity="0.8"/>
+        <circle cx="230" cy="66" r="25" fill="#3b2244"/>
+  <polygon points="0,375 0,237 71,192 142,197 214,238 285,241 357,260 428,248 500,189 500,375" fill="#472851" opacity="0.8"/>
+<polygon points="0,375 0,181 125,165 250,205 375,183 500,144 500,375" fill="#532f5f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-35" r="12" fill="#5f366c"/>
+          <path d="M-12,-23 L-18,20 L18,20 L12,-23" fill="#5f366c"/>
+          <line x1="-18" y1="20" x2="-22" y2="60" stroke="#5f366c" stroke-width="5"/>
+          <line x1="18" y1="20" x2="22" y2="60" stroke="#5f366c" stroke-width="5"/>
+          <path d="M-12,-15 Q-35,-5 -40,10" stroke="#5f366c" stroke-width="3" fill="none"/>
+          <path d="M12,-15 Q35,-5 40,10" stroke="#5f366c" stroke-width="3" fill="none"/>
+          <circle cx="0" cy="-35" r="18" fill="none" stroke="#c8b4cf" stroke-width="0.5" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c8b4cf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Cosmic Queen of the Diaspora</text>
+</svg>

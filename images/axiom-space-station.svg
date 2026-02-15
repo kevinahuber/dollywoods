@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-axiom-space-station" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#11192a"/>
+      <stop offset="60%" stop-color="#223355"/>
+      <stop offset="100%" stop-color="#7a8499"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-axiom-space-station)"/>
+  <circle cx="75" cy="17" r="1.7131139192487936" fill="white" opacity="0.5"/>
+<circle cx="449" cy="43" r="1.6527918400686108" fill="white" opacity="0.3"/>
+<circle cx="103" cy="3" r="0.7585111421651678" fill="white" opacity="1.0"/>
+<circle cx="120" cy="9" r="1.821365818915848" fill="white" opacity="0.5"/>
+<circle cx="200" cy="48" r="1.6448721477920631" fill="white" opacity="0.4"/>
+<circle cx="483" cy="64" r="0.7132436029756695" fill="white" opacity="0.7"/>
+<circle cx="5" cy="40" r="0.7001835280451132" fill="white" opacity="0.8"/>
+<circle cx="395" cy="56" r="0.9917822338764708" fill="white" opacity="0.7"/>
+<circle cx="144" cy="1" r="1.4121681074470516" fill="white" opacity="0.8"/>
+<circle cx="152" cy="62" r="1.2104999145237412" fill="white" opacity="0.3"/>
+<circle cx="380" cy="118" r="1.857596083866604" fill="white" opacity="0.6"/>
+<circle cx="269" cy="120" r="0.6626344297781956" fill="white" opacity="0.7"/>
+<circle cx="204" cy="80" r="1.6469193656862777" fill="white" opacity="0.4"/>
+<circle cx="317" cy="91" r="1.1869230527937928" fill="white" opacity="0.6"/>
+<circle cx="321" cy="44" r="1.9902039490932026" fill="white" opacity="0.4"/>
+<circle cx="252" cy="63" r="1.761974236103639" fill="white" opacity="0.5"/>
+<circle cx="364" cy="37" r="1.5394080166585054" fill="white" opacity="0.6"/>
+<circle cx="307" cy="66" r="1.4368543361776807" fill="white" opacity="0.6"/>
+<circle cx="101" cy="90" r="1.3238198894161122" fill="white" opacity="0.8"/>
+<circle cx="110" cy="19" r="1.1689672432612173" fill="white" opacity="0.6"/>
+<circle cx="283" cy="48" r="1.9847883592573836" fill="white" opacity="0.8"/>
+<circle cx="315" cy="105" r="0.6725374785250295" fill="white" opacity="0.7"/>
+<circle cx="483" cy="26" r="1.0942727642458578" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="305" cy="42" r="25" fill="#bcc1cc" opacity="0.8"/>
+        <circle cx="313" cy="37" r="25" fill="#11192a"/>
+  <polygon points="0,375 0,179 166,247 333,201 500,209 500,375" fill="#141e33" opacity="0.8"/>
+<polygon points="0,375 0,198 166,215 333,179 500,209 500,375" fill="#17233b" opacity="0.8"/>
+<polygon points="0,375 0,152 100,162 200,205 300,200 400,182 500,151 500,375" fill="#1b2844" opacity="0.8"/>
+<polygon points="0,375 0,71 100,74 200,140 300,135 400,144 500,73 500,375" fill="#1e2d4c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#1b2844"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#7a8499" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#a6adbb" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#a6adbb" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#a6adbb" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#a6adbb" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#a6adbb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Orbital Station Prometheus</text>
+</svg>

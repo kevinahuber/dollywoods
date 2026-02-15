@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 75" width="100" height="75">
+  <rect width="100" height="75" fill="#44aa88"/>
+  <rect width="100" height="37" fill="#225544" opacity="0.3"/>
+  <circle cx="14" cy="33" r="0.652019842407515" fill="white" opacity="0.5"/>
+<circle cx="13" cy="22" r="0.6215110039088001" fill="white" opacity="0.5"/>
+<circle cx="64" cy="26" r="0.40205075816296454" fill="white" opacity="0.5"/>
+<circle cx="95" cy="34" r="0.31185473998500396" fill="white" opacity="0.5"/>
+<circle cx="29" cy="12" r="0.6122897849142706" fill="white" opacity="0.5"/>
+<circle cx="67" cy="34" r="0.5943593171060944" fill="white" opacity="0.5"/>
+<circle cx="17" cy="14" r="0.5761988328710225" fill="white" opacity="0.5"/>
+<circle cx="84" cy="29" r="0.8392431382308951" fill="white" opacity="0.5"/>
+<circle cx="74" cy="8" r="0.6794594901651068" fill="white" opacity="0.5"/>
+<circle cx="73" cy="11" r="0.6660491105447179" fill="white" opacity="0.5"/>
+
+  <polygon points="0,75 0,37 25,35 50,57 75,40 100,52 100,75" fill="#2f765f" opacity="0.6"/>
+  <circle cx="50" cy="32" r="12" fill="#2f765f" opacity="0.7"/>
+  <circle cx="50" cy="32" r="8" fill="#b4ddcf" opacity="0.3"/>
+</svg>

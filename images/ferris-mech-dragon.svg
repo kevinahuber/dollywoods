@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-ferris-mech-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#443b33"/>
+      <stop offset="60%" stop-color="#887766"/>
+      <stop offset="100%" stop-color="#b7ada3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-ferris-mech-dragon)"/>
+  <circle cx="485" cy="27" r="1.1621242402006315" fill="white" opacity="0.3"/>
+<circle cx="211" cy="85" r="1.566646912874778" fill="white" opacity="0.5"/>
+<circle cx="390" cy="56" r="1.1829085273836073" fill="white" opacity="0.4"/>
+<circle cx="175" cy="49" r="0.7267070830353881" fill="white" opacity="0.8"/>
+<circle cx="36" cy="5" r="0.5136519059611573" fill="white" opacity="0.5"/>
+<circle cx="199" cy="70" r="0.627787937950822" fill="white" opacity="0.4"/>
+<circle cx="201" cy="44" r="0.8141349203919808" fill="white" opacity="0.6"/>
+<circle cx="149" cy="2" r="1.8245001520250983" fill="white" opacity="0.8"/>
+<circle cx="187" cy="25" r="1.9406276602541013" fill="white" opacity="0.6"/>
+<circle cx="145" cy="27" r="1.3979035579348633" fill="white" opacity="0.6"/>
+<circle cx="380" cy="58" r="0.5761422892104158" fill="white" opacity="0.5"/>
+<circle cx="344" cy="60" r="1.819440112858231" fill="white" opacity="0.9"/>
+<circle cx="444" cy="97" r="0.8057817611263758" fill="white" opacity="0.4"/>
+<circle cx="178" cy="7" r="1.7430688007179216" fill="white" opacity="0.4"/>
+<circle cx="52" cy="8" r="1.9441711300403588" fill="white" opacity="0.9"/>
+<circle cx="247" cy="17" r="1.5570003431254624" fill="white" opacity="1.0"/>
+<circle cx="369" cy="30" r="1.9621700696104536" fill="white" opacity="0.7"/>
+<circle cx="448" cy="47" r="0.7562145238239668" fill="white" opacity="0.5"/>
+<circle cx="98" cy="91" r="1.6949594511561714" fill="white" opacity="0.7"/>
+<circle cx="271" cy="91" r="1.5304305808319318" fill="white" opacity="0.7"/>
+<circle cx="464" cy="103" r="1.05457410784072" fill="white" opacity="0.3"/>
+<circle cx="399" cy="12" r="1.1056809136295613" fill="white" opacity="0.8"/>
+<circle cx="48" cy="91" r="1.3211433059304378" fill="white" opacity="1.0"/>
+<circle cx="211" cy="82" r="1.5156351058504787" fill="white" opacity="0.9"/>
+<circle cx="121" cy="118" r="1.2592585985343998" fill="white" opacity="0.8"/>
+<circle cx="411" cy="70" r="1.6061850957753165" fill="white" opacity="0.8"/>
+<circle cx="431" cy="16" r="0.884602166599314" fill="white" opacity="0.7"/>
+<circle cx="444" cy="96" r="0.6880319645316384" fill="white" opacity="0.5"/>
+<circle cx="196" cy="70" r="1.3926087777922516" fill="white" opacity="0.4"/>
+<circle cx="278" cy="10" r="0.9286653881538036" fill="white" opacity="0.8"/>
+<circle cx="207" cy="30" r="0.6943450402483212" fill="white" opacity="0.6"/>
+<circle cx="281" cy="113" r="1.6676358464617214" fill="white" opacity="0.6"/>
+<circle cx="166" cy="19" r="1.4135740600278965" fill="white" opacity="0.3"/>
+<circle cx="298" cy="32" r="1.793147889747624" fill="white" opacity="0.5"/>
+<circle cx="166" cy="29" r="1.7558121427898976" fill="white" opacity="0.5"/>
+<circle cx="12" cy="47" r="1.5136231765013004" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="256" cy="79" r="25" fill="#dbd6d1" opacity="0.8"/>
+        <circle cx="264" cy="74" r="25" fill="#443b33"/>
+  <polygon points="0,375 0,288 71,292 142,247 214,309 285,243 357,257 428,232 500,241 500,375" fill="#51473d" opacity="0.8"/>
+<polygon points="0,375 0,129 125,163 250,111 375,185 500,127 500,375" fill="#5f5347" opacity="0.8"/>
+<polygon points="0,375 0,167 125,173 250,173 375,175 500,240 500,375" fill="#6c5f51" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#6c5f51"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#6c5f51"/>
+          <circle cx="-65" cy="-5" r="18" fill="#6c5f51"/>
+          <circle cx="-72" cy="-10" r="3" fill="#cfc8c1"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#6c5f51" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#6c5f51" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#6c5f51"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#6c5f51" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfc8c1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Mechanical Dragon MK-VII</text>
+</svg>

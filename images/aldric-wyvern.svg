@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-aldric-wyvern" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#443b33"/>
+      <stop offset="60%" stop-color="#887766"/>
+      <stop offset="100%" stop-color="#b7ada3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-aldric-wyvern)"/>
+  <circle cx="37" cy="52" r="1.177297187634029" fill="white" opacity="0.6"/>
+<circle cx="41" cy="13" r="0.5869546755703752" fill="white" opacity="0.9"/>
+<circle cx="299" cy="65" r="1.2508755552450073" fill="white" opacity="0.8"/>
+<circle cx="68" cy="116" r="1.548832603573769" fill="white" opacity="0.4"/>
+<circle cx="223" cy="17" r="1.6948467265631058" fill="white" opacity="0.8"/>
+<circle cx="55" cy="111" r="1.1217065313869947" fill="white" opacity="0.3"/>
+<circle cx="458" cy="2" r="1.8014156077275918" fill="white" opacity="0.8"/>
+<circle cx="402" cy="18" r="1.177757941060113" fill="white" opacity="0.8"/>
+<circle cx="253" cy="81" r="0.8870816995047072" fill="white" opacity="0.5"/>
+<circle cx="415" cy="50" r="1.7246649673754326" fill="white" opacity="0.8"/>
+<circle cx="457" cy="7" r="1.3684410212656841" fill="white" opacity="0.7"/>
+<circle cx="491" cy="111" r="1.7462674373645528" fill="white" opacity="0.5"/>
+<circle cx="53" cy="39" r="0.9147115723257622" fill="white" opacity="0.7"/>
+<circle cx="422" cy="47" r="1.2166793457313847" fill="white" opacity="0.5"/>
+<circle cx="216" cy="66" r="0.8106115737013024" fill="white" opacity="0.6"/>
+<circle cx="212" cy="116" r="1.2210358785488733" fill="white" opacity="0.6"/>
+<circle cx="259" cy="54" r="1.784126809599603" fill="white" opacity="1.0"/>
+<circle cx="279" cy="111" r="0.8569163015398197" fill="white" opacity="0.9"/>
+<circle cx="429" cy="53" r="1.276719688734876" fill="white" opacity="0.5"/>
+<circle cx="169" cy="94" r="0.9477366801761629" fill="white" opacity="0.6"/>
+<circle cx="87" cy="48" r="0.725841237347667" fill="white" opacity="0.6"/>
+<circle cx="16" cy="2" r="1.3218281213887932" fill="white" opacity="0.8"/>
+<circle cx="383" cy="82" r="1.1866731038631089" fill="white" opacity="0.8"/>
+<circle cx="90" cy="10" r="1.456645037454237" fill="white" opacity="0.4"/>
+<circle cx="448" cy="59" r="1.5053471306147428" fill="white" opacity="0.8"/>
+<circle cx="85" cy="110" r="1.4547210104213653" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="134" cy="73" r="20" fill="#cfc8c1" opacity="0.9"/>
+        <circle cx="134" cy="73" r="30" fill="#cfc8c1" opacity="0.2"/>
+        <circle cx="134" cy="73" r="45" fill="#cfc8c1" opacity="0.1"/>
+  <polygon points="0,375 0,214 125,212 250,188 375,153 500,170 500,375" fill="#51473d" opacity="0.8"/>
+<polygon points="0,375 0,176 125,154 250,163 375,138 500,178 500,375" fill="#5f5347" opacity="0.8"/>
+<polygon points="0,375 0,164 71,139 142,175 214,164 285,146 357,138 428,189 500,124 500,375" fill="#6c5f51" opacity="0.8"/>
+<polygon points="0,375 0,96 125,105 250,62 375,99 500,66 500,375" fill="#7a6b5b" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#6c5f51"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#6c5f51"/>
+          <circle cx="-65" cy="-5" r="18" fill="#6c5f51"/>
+          <circle cx="-72" cy="-10" r="3" fill="#cfc8c1"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#6c5f51" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#6c5f51" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#6c5f51"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#6c5f51" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfc8c1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Wyvern at Dawn</text>
+</svg>

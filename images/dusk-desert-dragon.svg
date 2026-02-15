@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-dusk-desert-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#664422"/>
+      <stop offset="60%" stop-color="#cc8844"/>
+      <stop offset="100%" stop-color="#e0b78e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-dusk-desert-dragon)"/>
+  <circle cx="245" cy="70" r="0.6196385845430348" fill="white" opacity="0.8"/>
+<circle cx="21" cy="81" r="1.0789491943409637" fill="white" opacity="0.7"/>
+<circle cx="261" cy="23" r="1.5372244705672915" fill="white" opacity="0.6"/>
+<circle cx="110" cy="78" r="1.5518545779032784" fill="white" opacity="0.7"/>
+<circle cx="20" cy="17" r="0.5929185608526303" fill="white" opacity="1.0"/>
+<circle cx="338" cy="107" r="0.6374325595090888" fill="white" opacity="0.8"/>
+<circle cx="228" cy="122" r="1.7534409462904634" fill="white" opacity="0.6"/>
+<circle cx="37" cy="62" r="0.7775469206377601" fill="white" opacity="0.4"/>
+<circle cx="94" cy="101" r="1.8507201447384798" fill="white" opacity="0.4"/>
+<circle cx="121" cy="35" r="1.0625952349797083" fill="white" opacity="0.4"/>
+<circle cx="327" cy="109" r="1.1569231009143008" fill="white" opacity="0.5"/>
+<circle cx="263" cy="41" r="1.6589841151884572" fill="white" opacity="0.6"/>
+<circle cx="140" cy="112" r="1.603177042996743" fill="white" opacity="0.7"/>
+<circle cx="199" cy="108" r="1.5086058356082743" fill="white" opacity="0.7"/>
+<circle cx="222" cy="22" r="1.6504246436952938" fill="white" opacity="0.8"/>
+<circle cx="397" cy="123" r="1.3745540286521865" fill="white" opacity="0.7"/>
+<circle cx="478" cy="15" r="0.5885799182066342" fill="white" opacity="0.4"/>
+<circle cx="497" cy="12" r="0.791533665118495" fill="white" opacity="0.6"/>
+<circle cx="212" cy="34" r="1.0167064150321297" fill="white" opacity="1.0"/>
+<circle cx="445" cy="58" r="0.8581947888387411" fill="white" opacity="1.0"/>
+<circle cx="298" cy="35" r="1.8329351978811237" fill="white" opacity="0.9"/>
+<circle cx="192" cy="27" r="1.221545819802696" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="353" cy="49" r="25" fill="#efdbc6" opacity="0.8"/>
+        <circle cx="361" cy="44" r="25" fill="#664422"/>
+  <polygon points="0,375 0,278 71,235 142,248 214,287 285,231 357,285 428,281 500,259 500,375" fill="#7a5128" opacity="0.8"/>
+<polygon points="0,375 0,170 100,153 200,191 300,159 400,155 500,176 500,375" fill="#8e5f2f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#a36c36"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#a36c36"/>
+          <circle cx="-65" cy="-5" r="18" fill="#a36c36"/>
+          <circle cx="-72" cy="-10" r="3" fill="#eacfb4"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#a36c36" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#a36c36" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#a36c36"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#a36c36" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#eacfb4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Canyon Dragon</text>
+</svg>

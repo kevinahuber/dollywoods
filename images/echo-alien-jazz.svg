@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-echo-alien-jazz" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#442a19"/>
+      <stop offset="60%" stop-color="#885533"/>
+      <stop offset="100%" stop-color="#b79984"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-echo-alien-jazz)"/>
+  <circle cx="373" cy="88" r="0.6952201961595809" fill="white" opacity="0.8"/>
+<circle cx="76" cy="35" r="1.162316629182112" fill="white" opacity="0.6"/>
+<circle cx="431" cy="84" r="0.5527255151726087" fill="white" opacity="0.7"/>
+<circle cx="199" cy="35" r="1.799856772400105" fill="white" opacity="0.9"/>
+<circle cx="180" cy="67" r="1.2632831052860132" fill="white" opacity="0.7"/>
+<circle cx="235" cy="35" r="1.3534778922172939" fill="white" opacity="0.9"/>
+<circle cx="42" cy="81" r="1.8700057974251656" fill="white" opacity="0.4"/>
+<circle cx="412" cy="14" r="0.9958056621039615" fill="white" opacity="0.6"/>
+<circle cx="338" cy="124" r="0.764137431084676" fill="white" opacity="0.7"/>
+<circle cx="198" cy="87" r="1.879103381900211" fill="white" opacity="0.7"/>
+<circle cx="147" cy="47" r="1.874692103434764" fill="white" opacity="0.6"/>
+<circle cx="467" cy="22" r="1.2936809024051779" fill="white" opacity="0.8"/>
+<circle cx="65" cy="30" r="1.1510117765063594" fill="white" opacity="0.8"/>
+<circle cx="82" cy="120" r="1.038682594501801" fill="white" opacity="0.5"/>
+<circle cx="160" cy="44" r="1.8411485788365176" fill="white" opacity="0.5"/>
+<circle cx="77" cy="5" r="1.723757709805024" fill="white" opacity="0.4"/>
+<circle cx="324" cy="97" r="1.2911598679409375" fill="white" opacity="0.7"/>
+<circle cx="327" cy="80" r="0.512901167537706" fill="white" opacity="0.3"/>
+<circle cx="398" cy="87" r="1.1194046470881671" fill="white" opacity="0.3"/>
+<circle cx="22" cy="27" r="1.9479452713661118" fill="white" opacity="0.6"/>
+<circle cx="323" cy="40" r="0.6506419015725282" fill="white" opacity="0.7"/>
+<circle cx="473" cy="31" r="1.3118791502961962" fill="white" opacity="0.7"/>
+<circle cx="370" cy="36" r="0.7926842483154317" fill="white" opacity="0.9"/>
+<circle cx="1" cy="23" r="1.2561761628838468" fill="white" opacity="0.8"/>
+<circle cx="253" cy="68" r="1.553348923022035" fill="white" opacity="0.7"/>
+<circle cx="369" cy="117" r="1.7307974256116618" fill="white" opacity="0.8"/>
+<circle cx="272" cy="83" r="0.8362148083403859" fill="white" opacity="0.9"/>
+<circle cx="353" cy="121" r="1.1440044248842798" fill="white" opacity="0.9"/>
+<circle cx="339" cy="43" r="1.7081432358487487" fill="white" opacity="0.8"/>
+<circle cx="45" cy="113" r="1.7674167086670456" fill="white" opacity="1.0"/>
+
+  
+        <circle cx="339" cy="56" r="25" fill="#dbccc1" opacity="0.8"/>
+        <circle cx="347" cy="51" r="25" fill="#442a19"/>
+  <polygon points="0,375 0,231 71,192 142,213 214,205 285,157 357,195 428,206 500,207 500,375" fill="#51331e" opacity="0.8"/>
+<polygon points="0,375 0,237 71,218 142,256 214,235 285,245 357,283 428,252 500,246 500,375" fill="#5f3b23" opacity="0.8"/>
+<polygon points="0,375 0,138 100,184 200,109 300,145 400,122 500,136 500,375" fill="#6c4428" opacity="0.8"/>
+<polygon points="0,375 0,106 71,118 142,109 214,144 285,90 357,96 428,105 500,139 500,375" fill="#7a4c2d" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#6c4428" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#b79984" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#cfbbad" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#cfbbad" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfbbad" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Jazz on Jupiter</text>
+</svg>

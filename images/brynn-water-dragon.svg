@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-brynn-water-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#225566"/>
+      <stop offset="60%" stop-color="#44aacc"/>
+      <stop offset="100%" stop-color="#8ecce0"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-brynn-water-dragon)"/>
+  <circle cx="413" cy="66" r="1.7031443344292363" fill="white" opacity="0.4"/>
+<circle cx="376" cy="81" r="0.5536526446524518" fill="white" opacity="0.7"/>
+<circle cx="115" cy="33" r="1.826912367344985" fill="white" opacity="1.0"/>
+<circle cx="187" cy="34" r="1.7526053103918544" fill="white" opacity="0.5"/>
+<circle cx="204" cy="125" r="1.5148792340256423" fill="white" opacity="0.5"/>
+<circle cx="488" cy="80" r="1.0231217621496649" fill="white" opacity="0.6"/>
+<circle cx="500" cy="77" r="1.1454380636948145" fill="white" opacity="0.4"/>
+<circle cx="47" cy="36" r="0.9087321725191493" fill="white" opacity="0.6"/>
+<circle cx="496" cy="110" r="0.8359666246349697" fill="white" opacity="0.6"/>
+<circle cx="173" cy="73" r="1.8839665048036496" fill="white" opacity="1.0"/>
+<circle cx="260" cy="12" r="0.9559519428589718" fill="white" opacity="0.5"/>
+<circle cx="264" cy="0" r="0.9513455182062674" fill="white" opacity="0.4"/>
+<circle cx="384" cy="58" r="1.3351573379444834" fill="white" opacity="0.5"/>
+<circle cx="355" cy="123" r="1.3930105732610305" fill="white" opacity="0.5"/>
+<circle cx="339" cy="3" r="1.809281433428771" fill="white" opacity="0.6"/>
+<circle cx="273" cy="97" r="0.6856467704130916" fill="white" opacity="0.7"/>
+<circle cx="346" cy="122" r="1.3244840687485149" fill="white" opacity="0.9"/>
+<circle cx="396" cy="60" r="1.4000405195393955" fill="white" opacity="0.5"/>
+<circle cx="72" cy="10" r="1.9453786382516065" fill="white" opacity="1.0"/>
+<circle cx="463" cy="115" r="0.6300408982332161" fill="white" opacity="0.5"/>
+<circle cx="410" cy="8" r="1.004070871822384" fill="white" opacity="0.5"/>
+<circle cx="310" cy="24" r="1.127056002766293" fill="white" opacity="0.9"/>
+<circle cx="204" cy="51" r="1.9455690286520446" fill="white" opacity="0.8"/>
+<circle cx="395" cy="30" r="0.541886156027998" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="272" cy="75" r="20" fill="#b4ddea" opacity="0.9"/>
+        <circle cx="272" cy="75" r="30" fill="#b4ddea" opacity="0.2"/>
+        <circle cx="272" cy="75" r="45" fill="#b4ddea" opacity="0.1"/>
+  <polygon points="0,375 0,258 71,241 142,246 214,275 285,243 357,235 428,261 500,223 500,375" fill="#28667a" opacity="0.8"/>
+<polygon points="0,375 0,222 83,248 166,200 250,200 333,176 416,205 500,203 500,375" fill="#2f768e" opacity="0.8"/>
+<polygon points="0,375 0,177 83,146 166,170 250,160 333,203 416,201 500,165 500,375" fill="#3688a3" opacity="0.8"/>
+<polygon points="0,375 0,192 125,149 250,122 375,171 500,136 500,375" fill="#3d99b7" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#3688a3"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#3688a3"/>
+          <circle cx="-65" cy="-5" r="18" fill="#3688a3"/>
+          <circle cx="-72" cy="-10" r="3" fill="#b4ddea"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#3688a3" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#3688a3" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#3688a3"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#3688a3" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4ddea" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Dragon of the Pacific</text>
+</svg>

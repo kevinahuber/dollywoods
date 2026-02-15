@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-aldric-dark-knight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a33"/>
+      <stop offset="60%" stop-color="#445566"/>
+      <stop offset="100%" stop-color="#8e99a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-aldric-dark-knight)"/>
+  <circle cx="26" cy="81" r="1.5808197427093171" fill="white" opacity="0.3"/>
+<circle cx="200" cy="104" r="0.9973347880830286" fill="white" opacity="0.3"/>
+<circle cx="227" cy="56" r="1.112126435200414" fill="white" opacity="0.9"/>
+<circle cx="25" cy="98" r="1.8580076763306632" fill="white" opacity="0.6"/>
+<circle cx="243" cy="31" r="1.6644681562250643" fill="white" opacity="0.8"/>
+<circle cx="390" cy="88" r="1.885284804383542" fill="white" opacity="0.6"/>
+<circle cx="344" cy="30" r="0.5910360423358512" fill="white" opacity="1.0"/>
+<circle cx="257" cy="9" r="0.7139109220265706" fill="white" opacity="0.4"/>
+<circle cx="494" cy="18" r="0.830466703663552" fill="white" opacity="0.4"/>
+<circle cx="464" cy="84" r="0.985303692434059" fill="white" opacity="0.7"/>
+<circle cx="496" cy="23" r="1.6180752100942406" fill="white" opacity="0.9"/>
+<circle cx="118" cy="11" r="0.8724968783644782" fill="white" opacity="0.6"/>
+<circle cx="91" cy="17" r="1.968949222474158" fill="white" opacity="0.8"/>
+<circle cx="40" cy="113" r="0.6450601106119663" fill="white" opacity="0.3"/>
+<circle cx="499" cy="66" r="1.8005007815249112" fill="white" opacity="0.5"/>
+<circle cx="466" cy="107" r="0.9718523539029531" fill="white" opacity="0.8"/>
+<circle cx="411" cy="38" r="0.6643784547458328" fill="white" opacity="0.9"/>
+<circle cx="453" cy="125" r="0.5164497338883036" fill="white" opacity="0.4"/>
+<circle cx="326" cy="112" r="0.9762882902832175" fill="white" opacity="0.6"/>
+<circle cx="393" cy="45" r="1.4774550929623296" fill="white" opacity="0.7"/>
+<circle cx="4" cy="71" r="1.2722240318586315" fill="white" opacity="0.9"/>
+<circle cx="427" cy="51" r="1.8736749244104645" fill="white" opacity="0.9"/>
+<circle cx="150" cy="109" r="1.63181129629573" fill="white" opacity="0.3"/>
+<circle cx="22" cy="68" r="1.2620899063900426" fill="white" opacity="0.6"/>
+<circle cx="481" cy="115" r="0.786170428643832" fill="white" opacity="0.4"/>
+<circle cx="216" cy="98" r="0.5337055355356828" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="364" cy="48" r="20" fill="#b4bbc1" opacity="0.9"/>
+        <circle cx="364" cy="48" r="30" fill="#b4bbc1" opacity="0.2"/>
+        <circle cx="364" cy="48" r="45" fill="#b4bbc1" opacity="0.1"/>
+  <polygon points="0,375 0,267 100,265 200,276 300,301 400,282 500,283 500,375" fill="#28333d" opacity="0.8"/>
+<polygon points="0,375 0,215 83,194 166,245 250,253 333,258 416,238 500,250 500,375" fill="#2f3b47" opacity="0.8"/>
+<polygon points="0,375 0,97 125,113 250,118 375,96 500,94 500,375" fill="#364451" opacity="0.8"/>
+<polygon points="0,375 0,105 83,106 166,143 250,156 333,175 416,149 500,147 500,375" fill="#3d4c5b" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#364451"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#8e99a3" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#b4bbc1" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#b4bbc1" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#b4bbc1" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#b4bbc1" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbc1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Dark Knight of Bavaria</text>
+</svg>

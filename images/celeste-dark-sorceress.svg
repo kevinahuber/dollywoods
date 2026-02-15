@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-celeste-dark-sorceress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#191122"/>
+      <stop offset="60%" stop-color="#332244"/>
+      <stop offset="100%" stop-color="#847a8e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-celeste-dark-sorceress)"/>
+  <circle cx="407" cy="19" r="1.563281688569659" fill="white" opacity="0.9"/>
+<circle cx="337" cy="117" r="1.9809889742886133" fill="white" opacity="0.8"/>
+<circle cx="248" cy="49" r="1.7377376915806058" fill="white" opacity="0.9"/>
+<circle cx="84" cy="65" r="1.5386075152218741" fill="white" opacity="0.9"/>
+<circle cx="433" cy="103" r="0.6434982420449933" fill="white" opacity="0.7"/>
+<circle cx="159" cy="64" r="1.0520764792988095" fill="white" opacity="0.8"/>
+<circle cx="312" cy="20" r="0.5971491016749044" fill="white" opacity="0.4"/>
+<circle cx="217" cy="14" r="1.4394199596328618" fill="white" opacity="0.5"/>
+<circle cx="187" cy="96" r="1.2216573972613087" fill="white" opacity="0.7"/>
+<circle cx="218" cy="49" r="1.2497962020901827" fill="white" opacity="0.6"/>
+<circle cx="464" cy="68" r="1.3644337772282185" fill="white" opacity="0.4"/>
+<circle cx="429" cy="16" r="0.7490515340952011" fill="white" opacity="0.7"/>
+<circle cx="277" cy="124" r="1.0691403961213268" fill="white" opacity="0.9"/>
+<circle cx="483" cy="98" r="1.5361884652594708" fill="white" opacity="0.6"/>
+<circle cx="192" cy="65" r="1.9108716676747257" fill="white" opacity="0.6"/>
+<circle cx="195" cy="63" r="0.7860487096693862" fill="white" opacity="0.7"/>
+<circle cx="253" cy="102" r="1.2262561489743249" fill="white" opacity="0.7"/>
+<circle cx="36" cy="74" r="1.4140978973206246" fill="white" opacity="0.6"/>
+<circle cx="206" cy="13" r="1.4123794923330473" fill="white" opacity="0.6"/>
+<circle cx="343" cy="25" r="1.0808955692726459" fill="white" opacity="0.7"/>
+<circle cx="226" cy="47" r="0.5500867844817716" fill="white" opacity="0.7"/>
+<circle cx="203" cy="43" r="0.5576029327064695" fill="white" opacity="0.5"/>
+<circle cx="447" cy="48" r="0.5617822667209569" fill="white" opacity="0.4"/>
+<circle cx="483" cy="61" r="1.8667034802049958" fill="white" opacity="0.5"/>
+<circle cx="83" cy="86" r="1.2869686410864847" fill="white" opacity="0.7"/>
+<circle cx="364" cy="96" r="1.603816182660702" fill="white" opacity="0.7"/>
+<circle cx="487" cy="3" r="0.6488024347070479" fill="white" opacity="0.6"/>
+<circle cx="309" cy="39" r="1.0609622473653966" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="247" cy="73" r="20" fill="#ada6b4" opacity="0.9"/>
+        <circle cx="247" cy="73" r="30" fill="#ada6b4" opacity="0.2"/>
+        <circle cx="247" cy="73" r="45" fill="#ada6b4" opacity="0.1"/>
+  <polygon points="0,375 0,205 71,235 142,274 214,243 285,235 357,261 428,261 500,206 500,375" fill="#1e1428" opacity="0.8"/>
+<polygon points="0,375 0,203 125,219 250,142 375,197 500,201 500,375" fill="#23172f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#281b36"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#847a8e" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#ada6b4" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#ada6b4" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#ada6b4" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#ada6b4" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ada6b4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Raven Queen</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-binary-generation-ship" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#192233"/>
+      <stop offset="60%" stop-color="#334466"/>
+      <stop offset="100%" stop-color="#848ea3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-binary-generation-ship)"/>
+  <circle cx="414" cy="115" r="0.843282941873011" fill="white" opacity="0.5"/>
+<circle cx="178" cy="4" r="0.6151607217761199" fill="white" opacity="0.3"/>
+<circle cx="351" cy="82" r="1.5977541442817977" fill="white" opacity="1.0"/>
+<circle cx="33" cy="46" r="0.5018514099540061" fill="white" opacity="0.3"/>
+<circle cx="121" cy="34" r="1.0947319194592247" fill="white" opacity="0.3"/>
+<circle cx="62" cy="72" r="0.8210745949923373" fill="white" opacity="0.5"/>
+<circle cx="249" cy="21" r="1.894169436858727" fill="white" opacity="0.5"/>
+<circle cx="242" cy="31" r="1.6941737381188158" fill="white" opacity="0.9"/>
+<circle cx="393" cy="18" r="1.9353147025279225" fill="white" opacity="0.9"/>
+<circle cx="79" cy="54" r="1.7178975779418098" fill="white" opacity="0.5"/>
+<circle cx="212" cy="17" r="1.3401815385554967" fill="white" opacity="0.9"/>
+<circle cx="207" cy="2" r="1.230584204874527" fill="white" opacity="0.6"/>
+<circle cx="476" cy="86" r="1.937642067064207" fill="white" opacity="0.6"/>
+<circle cx="276" cy="124" r="0.7066476152597918" fill="white" opacity="0.3"/>
+<circle cx="273" cy="78" r="1.9595906747777698" fill="white" opacity="1.0"/>
+<circle cx="1" cy="96" r="1.263138937496281" fill="white" opacity="0.7"/>
+<circle cx="266" cy="114" r="1.5704986004081736" fill="white" opacity="0.9"/>
+<circle cx="145" cy="27" r="1.7723286876097286" fill="white" opacity="0.9"/>
+<circle cx="230" cy="24" r="1.3865556647238875" fill="white" opacity="0.5"/>
+<circle cx="372" cy="80" r="1.0707407436653695" fill="white" opacity="0.5"/>
+<circle cx="454" cy="63" r="0.9068577397164796" fill="white" opacity="0.6"/>
+<circle cx="166" cy="43" r="1.9597837543921455" fill="white" opacity="1.0"/>
+<circle cx="349" cy="44" r="0.8768136069552175" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="183" cy="65" r="25" fill="#c1c6d1" opacity="0.8"/>
+        <circle cx="191" cy="60" r="25" fill="#192233"/>
+  <polygon points="0,375 0,193 166,239 333,256 500,201 500,375" fill="#1e283d" opacity="0.8"/>
+<polygon points="0,375 0,179 71,163 142,198 214,175 285,187 357,145 428,214 500,193 500,375" fill="#232f47" opacity="0.8"/>
+<polygon points="0,375 0,227 125,229 250,218 375,204 500,212 500,375" fill="#283651" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#283651"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#848ea3" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#adb4c1" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#adb4c1" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#adb4c1" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#adb4c1" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#adb4c1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Generation Ship Exodus</text>
+</svg>

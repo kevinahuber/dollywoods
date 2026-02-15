@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-voss-space-battle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#221933"/>
+      <stop offset="60%" stop-color="#443366"/>
+      <stop offset="100%" stop-color="#8e84a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-voss-space-battle)"/>
+  <circle cx="190" cy="80" r="1.5335919139181897" fill="white" opacity="0.8"/>
+<circle cx="365" cy="3" r="0.5217706039903734" fill="white" opacity="0.4"/>
+<circle cx="114" cy="118" r="1.0650948281786747" fill="white" opacity="0.9"/>
+<circle cx="158" cy="78" r="1.8375862738666404" fill="white" opacity="0.7"/>
+<circle cx="103" cy="43" r="1.8203678562359396" fill="white" opacity="0.5"/>
+<circle cx="112" cy="107" r="0.5615654093678331" fill="white" opacity="0.6"/>
+<circle cx="284" cy="5" r="0.5666814222876019" fill="white" opacity="0.9"/>
+<circle cx="497" cy="39" r="1.7069944871744778" fill="white" opacity="0.5"/>
+<circle cx="168" cy="51" r="1.4969941796374338" fill="white" opacity="0.7"/>
+<circle cx="384" cy="4" r="1.3868145076038592" fill="white" opacity="0.5"/>
+<circle cx="289" cy="86" r="0.9236132767185414" fill="white" opacity="0.7"/>
+<circle cx="291" cy="124" r="0.657182610809195" fill="white" opacity="0.9"/>
+<circle cx="189" cy="28" r="1.0578376145355053" fill="white" opacity="0.6"/>
+<circle cx="352" cy="122" r="1.114643652008899" fill="white" opacity="0.4"/>
+<circle cx="375" cy="54" r="1.935380794973311" fill="white" opacity="1.0"/>
+<circle cx="310" cy="3" r="1.2871380140817765" fill="white" opacity="0.9"/>
+<circle cx="225" cy="98" r="1.9499966540816824" fill="white" opacity="0.8"/>
+<circle cx="387" cy="23" r="0.5294605308511977" fill="white" opacity="0.3"/>
+<circle cx="431" cy="70" r="0.916643030422851" fill="white" opacity="0.9"/>
+<circle cx="202" cy="47" r="1.6640051916071588" fill="white" opacity="0.7"/>
+<circle cx="183" cy="122" r="1.2983383888330415" fill="white" opacity="0.4"/>
+<circle cx="103" cy="15" r="1.5114501257645325" fill="white" opacity="0.3"/>
+<circle cx="330" cy="106" r="1.8443376291794933" fill="white" opacity="0.9"/>
+<circle cx="452" cy="97" r="1.8735224120389817" fill="white" opacity="0.4"/>
+<circle cx="235" cy="76" r="0.7106390980602512" fill="white" opacity="0.9"/>
+<circle cx="228" cy="121" r="0.6795031002891962" fill="white" opacity="0.8"/>
+<circle cx="76" cy="24" r="1.4320197704621376" fill="white" opacity="0.8"/>
+<circle cx="306" cy="72" r="1.1046008358904307" fill="white" opacity="0.7"/>
+<circle cx="16" cy="0" r="1.6935987424955086" fill="white" opacity="0.5"/>
+<circle cx="392" cy="22" r="0.8469128895844272" fill="white" opacity="1.0"/>
+<circle cx="120" cy="1" r="1.0625494976949001" fill="white" opacity="0.4"/>
+<circle cx="489" cy="36" r="1.302210584779897" fill="white" opacity="1.0"/>
+<circle cx="497" cy="1" r="1.0595347231558812" fill="white" opacity="0.4"/>
+<circle cx="219" cy="31" r="0.9207890157668441" fill="white" opacity="0.6"/>
+<circle cx="334" cy="1" r="1.6835668029655486" fill="white" opacity="0.8"/>
+<circle cx="98" cy="8" r="0.6227662054302823" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="241" cy="53" r="25" fill="#c6c1d1" opacity="0.8"/>
+        <circle cx="249" cy="48" r="25" fill="#221933"/>
+  <polygon points="0,375 0,161 125,183 250,183 375,194 500,170 500,375" fill="#281e3d" opacity="0.8"/>
+<polygon points="0,375 0,141 83,178 166,190 250,145 333,174 416,175 500,193 500,375" fill="#2f2347" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#362851" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#8e84a3" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#b4adc1" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#b4adc1" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4adc1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Battle of Cygnus Station</text>
+</svg>

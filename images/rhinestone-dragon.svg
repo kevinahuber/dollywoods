@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-rhinestone-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#664466"/>
+      <stop offset="60%" stop-color="#cc88cc"/>
+      <stop offset="100%" stop-color="#e0b7e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-rhinestone-dragon)"/>
+  <circle cx="164" cy="90" r="0.7295838172656272" fill="white" opacity="0.7"/>
+<circle cx="250" cy="99" r="0.8699202621445616" fill="white" opacity="0.8"/>
+<circle cx="304" cy="119" r="1.4416843951840879" fill="white" opacity="0.9"/>
+<circle cx="423" cy="110" r="1.7606397390201551" fill="white" opacity="0.8"/>
+<circle cx="63" cy="107" r="1.945322128065606" fill="white" opacity="0.7"/>
+<circle cx="31" cy="82" r="0.8336533404822886" fill="white" opacity="0.4"/>
+<circle cx="354" cy="78" r="1.9798763723843853" fill="white" opacity="0.9"/>
+<circle cx="374" cy="95" r="1.0597594517296973" fill="white" opacity="0.6"/>
+<circle cx="150" cy="13" r="1.6891342464845764" fill="white" opacity="0.8"/>
+<circle cx="476" cy="59" r="1.894516806575896" fill="white" opacity="0.3"/>
+<circle cx="410" cy="28" r="1.884830810338361" fill="white" opacity="0.6"/>
+<circle cx="2" cy="66" r="1.3872213125400865" fill="white" opacity="1.0"/>
+<circle cx="153" cy="2" r="1.154950405332863" fill="white" opacity="0.6"/>
+<circle cx="388" cy="26" r="1.3380256702279087" fill="white" opacity="0.9"/>
+<circle cx="161" cy="31" r="1.382885770397109" fill="white" opacity="0.5"/>
+<circle cx="344" cy="23" r="1.3446678902552225" fill="white" opacity="0.4"/>
+<circle cx="206" cy="98" r="0.5968792730855392" fill="white" opacity="1.0"/>
+<circle cx="402" cy="82" r="0.6981847185434163" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="343" cy="73" r="20" fill="#eacfea" opacity="0.9"/>
+        <circle cx="343" cy="73" r="30" fill="#eacfea" opacity="0.2"/>
+        <circle cx="343" cy="73" r="45" fill="#eacfea" opacity="0.1"/>
+  <polygon points="0,375 0,264 71,247 142,263 214,222 285,255 357,285 428,243 500,238 500,375" fill="#7a517a" opacity="0.8"/>
+<polygon points="0,375 0,214 166,209 333,229 500,212 500,375" fill="#8e5f8e" opacity="0.8"/>
+<polygon points="0,375 0,119 125,188 250,197 375,144 500,124 500,375" fill="#a36ca3" opacity="0.8"/>
+<polygon points="0,375 0,130 71,152 142,124 214,94 285,127 357,142 428,132 500,148 500,375" fill="#b77ab7" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#a36ca3"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#a36ca3"/>
+          <circle cx="-65" cy="-5" r="18" fill="#a36ca3"/>
+          <circle cx="-72" cy="-10" r="3" fill="#eacfea"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#a36ca3" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#a36ca3" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#a36ca3"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#a36ca3" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#eacfea" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Rhinestone Dragon at Sunset</text>
+</svg>

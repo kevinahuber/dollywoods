@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-darkstar-repair-bay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#33332a"/>
+      <stop offset="60%" stop-color="#666655"/>
+      <stop offset="100%" stop-color="#a3a399"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-darkstar-repair-bay)"/>
+  <circle cx="29" cy="15" r="1.5501827729069253" fill="white" opacity="0.7"/>
+<circle cx="261" cy="57" r="1.5776216292244813" fill="white" opacity="0.7"/>
+<circle cx="137" cy="69" r="0.8969097095826004" fill="white" opacity="0.6"/>
+<circle cx="400" cy="74" r="1.1909940342026615" fill="white" opacity="0.7"/>
+<circle cx="122" cy="77" r="1.6804611990493377" fill="white" opacity="0.5"/>
+<circle cx="33" cy="32" r="1.4654789739523548" fill="white" opacity="0.4"/>
+<circle cx="299" cy="71" r="0.741994367454389" fill="white" opacity="0.6"/>
+<circle cx="217" cy="118" r="1.3162683137274256" fill="white" opacity="1.0"/>
+<circle cx="171" cy="69" r="1.1034980680497006" fill="white" opacity="1.0"/>
+<circle cx="95" cy="115" r="0.5140812931794049" fill="white" opacity="0.4"/>
+<circle cx="33" cy="90" r="0.573676378299077" fill="white" opacity="0.4"/>
+<circle cx="254" cy="67" r="1.222182229219971" fill="white" opacity="0.4"/>
+<circle cx="309" cy="82" r="0.6554438407767414" fill="white" opacity="0.6"/>
+<circle cx="234" cy="11" r="0.8549625657943946" fill="white" opacity="0.5"/>
+<circle cx="51" cy="77" r="1.9181363678799095" fill="white" opacity="0.8"/>
+<circle cx="303" cy="1" r="0.7065712414815177" fill="white" opacity="0.4"/>
+<circle cx="298" cy="5" r="1.7057541784158765" fill="white" opacity="0.5"/>
+<circle cx="338" cy="44" r="1.223180535720702" fill="white" opacity="1.0"/>
+<circle cx="11" cy="66" r="1.2995578871954487" fill="white" opacity="0.7"/>
+<circle cx="489" cy="19" r="0.5449957720573234" fill="white" opacity="0.8"/>
+<circle cx="225" cy="73" r="1.2248122886825565" fill="white" opacity="0.8"/>
+<circle cx="136" cy="111" r="1.088532274321759" fill="white" opacity="0.7"/>
+<circle cx="11" cy="20" r="1.3936048472913185" fill="white" opacity="0.4"/>
+<circle cx="193" cy="52" r="1.3417390600235295" fill="white" opacity="0.9"/>
+<circle cx="207" cy="125" r="1.6737055895653143" fill="white" opacity="0.4"/>
+<circle cx="500" cy="104" r="0.8934350307665292" fill="white" opacity="0.4"/>
+<circle cx="244" cy="74" r="1.3267940584014897" fill="white" opacity="0.3"/>
+<circle cx="253" cy="42" r="0.9330862496813602" fill="white" opacity="0.9"/>
+<circle cx="308" cy="85" r="1.749569418417812" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="199" cy="71" r="25" fill="#d1d1cc" opacity="0.8"/>
+        <circle cx="207" cy="66" r="25" fill="#33332a"/>
+  <polygon points="0,375 0,257 71,283 142,227 214,262 285,256 357,245 428,280 500,240 500,375" fill="#3d3d33" opacity="0.8"/>
+<polygon points="0,375 0,252 100,245 200,219 300,204 400,215 500,215 500,375" fill="#47473b" opacity="0.8"/>
+<polygon points="0,375 0,138 125,163 250,157 375,122 500,175 500,375" fill="#515144" opacity="0.8"/>
+<polygon points="0,375 0,175 166,157 333,164 500,153 500,375" fill="#5b5b4c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#515144"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#a3a399" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#c1c1bb" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#c1c1bb" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#c1c1bb" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#c1c1bb" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c1c1bb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Mech Repair Bay</text>
+</svg>

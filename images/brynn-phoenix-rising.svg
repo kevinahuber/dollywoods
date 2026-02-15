@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-brynn-phoenix-rising" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7f4422"/>
+      <stop offset="60%" stop-color="#ff8844"/>
+      <stop offset="100%" stop-color="#ffb78e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-brynn-phoenix-rising)"/>
+  <circle cx="103" cy="62" r="1.043774163557289" fill="white" opacity="0.9"/>
+<circle cx="122" cy="62" r="1.546733596445049" fill="white" opacity="0.7"/>
+<circle cx="89" cy="5" r="1.480391346213825" fill="white" opacity="0.4"/>
+<circle cx="27" cy="90" r="0.8662865776756328" fill="white" opacity="0.6"/>
+<circle cx="258" cy="17" r="1.7241523991225742" fill="white" opacity="0.4"/>
+<circle cx="201" cy="59" r="1.1727530533965933" fill="white" opacity="0.5"/>
+<circle cx="400" cy="118" r="1.8987114972177321" fill="white" opacity="0.5"/>
+<circle cx="256" cy="66" r="1.8845815969248296" fill="white" opacity="1.0"/>
+<circle cx="63" cy="100" r="1.4822502635989718" fill="white" opacity="0.7"/>
+<circle cx="114" cy="82" r="1.804763092691216" fill="white" opacity="0.8"/>
+<circle cx="67" cy="89" r="1.3744959310575582" fill="white" opacity="0.7"/>
+<circle cx="21" cy="9" r="0.8502095708962081" fill="white" opacity="0.6"/>
+<circle cx="38" cy="112" r="1.967052683483188" fill="white" opacity="0.3"/>
+<circle cx="229" cy="119" r="1.878026271011294" fill="white" opacity="0.3"/>
+<circle cx="255" cy="43" r="1.1944392876189949" fill="white" opacity="0.7"/>
+<circle cx="345" cy="99" r="0.8660602449586468" fill="white" opacity="0.9"/>
+<circle cx="370" cy="102" r="1.3299143566224432" fill="white" opacity="0.6"/>
+<circle cx="121" cy="98" r="1.934757251760293" fill="white" opacity="0.9"/>
+<circle cx="207" cy="117" r="1.8755521137881477" fill="white" opacity="0.8"/>
+<circle cx="299" cy="63" r="1.6184211969723916" fill="white" opacity="0.9"/>
+<circle cx="218" cy="97" r="0.6360341493477683" fill="white" opacity="0.5"/>
+<circle cx="275" cy="32" r="0.9842139036561808" fill="white" opacity="0.9"/>
+<circle cx="157" cy="11" r="1.0295754730763949" fill="white" opacity="0.9"/>
+<circle cx="182" cy="7" r="0.6321442594628774" fill="white" opacity="1.0"/>
+<circle cx="317" cy="39" r="1.2559217884501153" fill="white" opacity="0.7"/>
+<circle cx="494" cy="59" r="0.8601299551071462" fill="white" opacity="0.7"/>
+<circle cx="107" cy="117" r="1.6010005738450346" fill="white" opacity="0.7"/>
+<circle cx="436" cy="17" r="0.696590284452524" fill="white" opacity="0.8"/>
+<circle cx="456" cy="59" r="1.671002476134657" fill="white" opacity="0.6"/>
+<circle cx="445" cy="66" r="1.0163106475046837" fill="white" opacity="0.9"/>
+<circle cx="295" cy="31" r="0.9118297680335551" fill="white" opacity="0.7"/>
+<circle cx="346" cy="21" r="0.6257688766091694" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="196" cy="31" r="25" fill="#ffdbc6" opacity="0.8"/>
+        <circle cx="204" cy="26" r="25" fill="#7f4422"/>
+  <polygon points="0,375 0,259 125,216 250,273 375,278 500,261 500,375" fill="#995128" opacity="0.8"/>
+<polygon points="0,375 0,168 71,140 142,182 214,163 285,187 357,176 428,207 500,154 500,375" fill="#b25f2f" opacity="0.8"/>
+<polygon points="0,375 0,140 71,164 142,167 214,135 285,124 357,168 428,166 500,125 500,375" fill="#cc6c36" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-5" r="12" fill="#cc6c36"/>
+          <ellipse cx="0" cy="20" rx="15" ry="25" fill="#cc6c36"/>
+          <path d="M-10,5 Q-70,-40 -50,20" fill="#ffcfb4" opacity="0.6"/>
+          <path d="M10,5 Q70,-40 50,20" fill="#ffcfb4" opacity="0.6"/>
+          <path d="M0,45 Q-20,80 -10,100 Q0,70 10,100 Q20,80 0,45" fill="#ffcfb4" opacity="0.5"/>
+          <circle cx="-4" cy="-8" r="2" fill="#ffcfb4"/>
+          <circle cx="4" cy="-8" r="2" fill="#ffcfb4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ffcfb4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Phoenix Rising</text>
+</svg>

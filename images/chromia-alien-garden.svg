@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-chromia-alien-garden" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#662255"/>
+      <stop offset="60%" stop-color="#cc44aa"/>
+      <stop offset="100%" stop-color="#e08ecc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-chromia-alien-garden)"/>
+  <circle cx="461" cy="31" r="0.6687600301624543" fill="white" opacity="1.0"/>
+<circle cx="223" cy="83" r="1.9734642954468873" fill="white" opacity="0.4"/>
+<circle cx="162" cy="55" r="1.3394030503395835" fill="white" opacity="0.7"/>
+<circle cx="182" cy="10" r="1.108370558652134" fill="white" opacity="0.7"/>
+<circle cx="413" cy="59" r="1.6364013484334377" fill="white" opacity="0.3"/>
+<circle cx="7" cy="69" r="0.611920680296246" fill="white" opacity="0.5"/>
+<circle cx="255" cy="96" r="1.724513242874198" fill="white" opacity="0.4"/>
+<circle cx="452" cy="87" r="1.9168682972670497" fill="white" opacity="0.6"/>
+<circle cx="293" cy="84" r="0.5133732438788832" fill="white" opacity="0.6"/>
+<circle cx="143" cy="10" r="1.1997608561684292" fill="white" opacity="0.9"/>
+<circle cx="437" cy="115" r="1.2556177545093785" fill="white" opacity="0.8"/>
+<circle cx="231" cy="33" r="1.704061398357818" fill="white" opacity="0.6"/>
+<circle cx="470" cy="71" r="1.3236151919101138" fill="white" opacity="0.4"/>
+<circle cx="265" cy="123" r="1.2708636276355354" fill="white" opacity="0.5"/>
+<circle cx="86" cy="7" r="1.7165384240284656" fill="white" opacity="0.4"/>
+<circle cx="439" cy="110" r="1.9227298895833105" fill="white" opacity="1.0"/>
+<circle cx="278" cy="75" r="1.3860645956979534" fill="white" opacity="0.8"/>
+<circle cx="77" cy="61" r="1.2027440443221886" fill="white" opacity="0.7"/>
+<circle cx="247" cy="49" r="1.2294152421880924" fill="white" opacity="0.3"/>
+<circle cx="99" cy="83" r="1.4345127249912504" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="369" cy="52" r="20" fill="#eab4dd" opacity="0.9"/>
+        <circle cx="369" cy="52" r="30" fill="#eab4dd" opacity="0.2"/>
+        <circle cx="369" cy="52" r="45" fill="#eab4dd" opacity="0.1"/>
+  <polygon points="0,375 0,250 166,220 333,208 500,238 500,375" fill="#7a2866" opacity="0.8"/>
+<polygon points="0,375 0,270 166,254 333,246 500,203 500,375" fill="#8e2f76" opacity="0.8"/>
+<polygon points="0,375 0,219 166,173 333,209 500,182 500,375" fill="#a33688" opacity="0.8"/>
+<polygon points="0,375 0,127 71,120 142,149 214,108 285,115 357,149 428,101 500,140 500,375" fill="#b73d99" opacity="0.8"/>
+
+  
+        <g>
+          <ellipse cx="250" cy="207" rx="100" ry="40" fill="#a33688" opacity="0.5"/>
+          <circle cx="220" cy="177" r="20" fill="#e08ecc" opacity="0.4"/>
+          <circle cx="270" cy="187" r="25" fill="#e08ecc" opacity="0.3"/>
+          <circle cx="250" cy="162" r="15" fill="#e08ecc" opacity="0.35"/>
+          <circle cx="240" cy="192" r="8" fill="#eab4dd" opacity="0.5"/>
+          <circle cx="275" cy="172" r="6" fill="#eab4dd" opacity="0.5"/>
+          <circle cx="225" cy="202" r="5" fill="#eab4dd" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#eab4dd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Chromatic Garden</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-astrid-sea-serpent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a4455"/>
+      <stop offset="60%" stop-color="#5588aa"/>
+      <stop offset="100%" stop-color="#99b7cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-astrid-sea-serpent)"/>
+  <circle cx="11" cy="103" r="1.1838891824215065" fill="white" opacity="0.4"/>
+<circle cx="5" cy="103" r="1.6955984187884174" fill="white" opacity="0.5"/>
+<circle cx="324" cy="116" r="1.8316148193168846" fill="white" opacity="0.9"/>
+<circle cx="190" cy="30" r="1.033450217489788" fill="white" opacity="0.6"/>
+<circle cx="3" cy="76" r="0.8061918107991908" fill="white" opacity="0.4"/>
+<circle cx="41" cy="7" r="0.9104340271974816" fill="white" opacity="0.6"/>
+<circle cx="438" cy="118" r="1.2875953065194334" fill="white" opacity="0.9"/>
+<circle cx="124" cy="115" r="1.6713758678111033" fill="white" opacity="0.5"/>
+<circle cx="476" cy="35" r="0.99877371826888" fill="white" opacity="0.3"/>
+<circle cx="222" cy="32" r="1.3546931576761518" fill="white" opacity="1.0"/>
+<circle cx="476" cy="56" r="1.419274051609161" fill="white" opacity="0.4"/>
+<circle cx="68" cy="117" r="1.3774987446791225" fill="white" opacity="0.4"/>
+<circle cx="198" cy="107" r="1.2798933475600949" fill="white" opacity="0.3"/>
+<circle cx="403" cy="107" r="1.293855014571259" fill="white" opacity="0.8"/>
+<circle cx="33" cy="94" r="1.0799725456631377" fill="white" opacity="0.4"/>
+<circle cx="200" cy="62" r="0.8383833109986611" fill="white" opacity="0.9"/>
+<circle cx="144" cy="65" r="0.6768949085172886" fill="white" opacity="0.5"/>
+<circle cx="341" cy="118" r="1.9897171442000436" fill="white" opacity="0.8"/>
+<circle cx="72" cy="24" r="1.9265955037283482" fill="white" opacity="0.4"/>
+<circle cx="223" cy="49" r="0.7370717299382932" fill="white" opacity="0.7"/>
+<circle cx="105" cy="101" r="1.7485959876615338" fill="white" opacity="0.8"/>
+<circle cx="247" cy="52" r="0.8524728097359433" fill="white" opacity="0.9"/>
+<circle cx="425" cy="93" r="1.2321280895462507" fill="white" opacity="0.8"/>
+<circle cx="195" cy="82" r="1.3720823588005122" fill="white" opacity="0.5"/>
+<circle cx="487" cy="105" r="0.6910830518701638" fill="white" opacity="0.6"/>
+<circle cx="32" cy="124" r="0.5087436395094082" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="292" cy="61" r="25" fill="#ccdbe5" opacity="0.8"/>
+        <circle cx="300" cy="56" r="25" fill="#2a4455"/>
+  <polygon points="0,375 0,256 166,272 333,309 500,243 500,375" fill="#335166" opacity="0.8"/>
+<polygon points="0,375 0,203 83,207 166,212 250,234 333,198 416,239 500,198 500,375" fill="#3b5f76" opacity="0.8"/>
+<polygon points="0,375 0,208 125,174 250,183 375,241 500,229 500,375" fill="#446c88" opacity="0.8"/>
+<polygon points="0,375 0,113 125,85 250,74 375,55 500,76 500,375" fill="#4c7a99" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q-40,-30 0,-10 Q40,10 80,-20 Q60,0 40,10 Q0,30 -40,20 Q-70,10 -80,0" fill="#446c88"/>
+          <circle cx="-60" cy="-8" r="4" fill="#bbcfdd"/>
+          <path d="M75,-18 Q100,-35 85,-10" fill="#446c88" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#bbcfdd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Jormungandr Rising</text>
+</svg>

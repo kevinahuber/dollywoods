@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-brynn-moth-fairy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#664c5d"/>
+      <stop offset="60%" stop-color="#cc99bb"/>
+      <stop offset="100%" stop-color="#e0c1d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-brynn-moth-fairy)"/>
+  <circle cx="198" cy="53" r="1.6456727005998313" fill="white" opacity="0.3"/>
+<circle cx="464" cy="50" r="1.559210010960621" fill="white" opacity="0.4"/>
+<circle cx="314" cy="94" r="0.9932035821118992" fill="white" opacity="1.0"/>
+<circle cx="366" cy="85" r="1.0101282199215251" fill="white" opacity="0.5"/>
+<circle cx="93" cy="51" r="0.6971115832299555" fill="white" opacity="0.5"/>
+<circle cx="97" cy="98" r="1.4596053776462357" fill="white" opacity="0.9"/>
+<circle cx="213" cy="68" r="1.375094813908667" fill="white" opacity="0.7"/>
+<circle cx="196" cy="75" r="1.4644560146329382" fill="white" opacity="0.8"/>
+<circle cx="4" cy="117" r="1.819066579120633" fill="white" opacity="0.5"/>
+<circle cx="425" cy="46" r="1.3194068050150485" fill="white" opacity="0.8"/>
+<circle cx="394" cy="73" r="1.3799352132789684" fill="white" opacity="0.7"/>
+<circle cx="267" cy="107" r="1.1637684381618192" fill="white" opacity="0.9"/>
+<circle cx="404" cy="60" r="0.9748322298839927" fill="white" opacity="0.5"/>
+<circle cx="82" cy="121" r="1.872420915123984" fill="white" opacity="0.6"/>
+<circle cx="422" cy="111" r="0.5416463732373267" fill="white" opacity="0.4"/>
+<circle cx="368" cy="17" r="1.6160733461289318" fill="white" opacity="0.5"/>
+<circle cx="467" cy="22" r="0.9469921717794334" fill="white" opacity="0.7"/>
+<circle cx="95" cy="125" r="0.7883498299430294" fill="white" opacity="0.8"/>
+<circle cx="340" cy="16" r="0.7070955934599155" fill="white" opacity="0.3"/>
+<circle cx="352" cy="17" r="1.0894639050871735" fill="white" opacity="0.6"/>
+<circle cx="412" cy="35" r="0.548033167490064" fill="white" opacity="0.8"/>
+<circle cx="409" cy="43" r="0.9319218292175363" fill="white" opacity="0.5"/>
+<circle cx="492" cy="48" r="1.8895686838558605" fill="white" opacity="0.5"/>
+<circle cx="192" cy="29" r="0.6419897644386723" fill="white" opacity="1.0"/>
+<circle cx="234" cy="37" r="0.5208979980007322" fill="white" opacity="0.5"/>
+<circle cx="457" cy="97" r="0.9530113831935562" fill="white" opacity="0.7"/>
+<circle cx="90" cy="18" r="1.7698227534283277" fill="white" opacity="0.4"/>
+<circle cx="193" cy="30" r="1.6065262428383462" fill="white" opacity="0.5"/>
+<circle cx="251" cy="113" r="1.6575507134245466" fill="white" opacity="0.5"/>
+<circle cx="170" cy="51" r="1.4814317592314044" fill="white" opacity="0.9"/>
+<circle cx="471" cy="75" r="0.9745723797424503" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="198" cy="31" r="20" fill="#ead6e3" opacity="0.9"/>
+        <circle cx="198" cy="31" r="30" fill="#ead6e3" opacity="0.2"/>
+        <circle cx="198" cy="31" r="45" fill="#ead6e3" opacity="0.1"/>
+  <polygon points="0,375 0,154 83,149 166,205 250,173 333,183 416,146 500,153 500,375" fill="#7a5b70" opacity="0.8"/>
+<polygon points="0,375 0,188 166,182 333,220 500,191 500,375" fill="#8e6b82" opacity="0.8"/>
+<polygon points="0,375 0,186 166,180 333,175 500,200 500,375" fill="#a37a95" opacity="0.8"/>
+<polygon points="0,375 0,79 125,90 250,57 375,56 500,107 500,375" fill="#b789a8" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-10" r="8" fill="#ead6e3"/>
+          <ellipse cx="0" cy="15" rx="6" ry="18" fill="#ead6e3"/>
+          <path d="M0,0 Q-40,-50 -20,-10" fill="#e0c1d6" opacity="0.6" stroke="#ead6e3" stroke-width="0.5"/>
+          <path d="M0,0 Q40,-50 20,-10" fill="#e0c1d6" opacity="0.6" stroke="#ead6e3" stroke-width="0.5"/>
+          <path d="M0,5 Q-35,-30 -15,5" fill="#e0c1d6" opacity="0.4"/>
+          <path d="M0,5 Q35,-30 15,5" fill="#e0c1d6" opacity="0.4"/>
+          <circle cx="0" cy="-10" r="12" fill="none" stroke="#ead6e3" stroke-width="0.5" opacity="0.5"/>
+          <circle cx="0" cy="-10" r="20" fill="none" stroke="#ead6e3" stroke-width="0.3" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ead6e3" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Moth Fairy</text>
+</svg>

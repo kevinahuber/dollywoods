@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-elara-fairy-ring" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4c5d44"/>
+      <stop offset="60%" stop-color="#99bb88"/>
+      <stop offset="100%" stop-color="#c1d6b7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-elara-fairy-ring)"/>
+  <circle cx="304" cy="33" r="1.5083554303104378" fill="white" opacity="0.5"/>
+<circle cx="382" cy="18" r="1.2007446093679484" fill="white" opacity="0.5"/>
+<circle cx="457" cy="119" r="0.6773054344449387" fill="white" opacity="0.8"/>
+<circle cx="154" cy="68" r="1.1007049386847867" fill="white" opacity="0.9"/>
+<circle cx="390" cy="123" r="0.7810682597592331" fill="white" opacity="1.0"/>
+<circle cx="141" cy="23" r="0.5384040798454716" fill="white" opacity="0.4"/>
+<circle cx="403" cy="9" r="1.9382339645662312" fill="white" opacity="1.0"/>
+<circle cx="456" cy="80" r="1.2981162428824506" fill="white" opacity="0.3"/>
+<circle cx="402" cy="78" r="1.9994008295936514" fill="white" opacity="1.0"/>
+<circle cx="295" cy="49" r="0.94321481610054" fill="white" opacity="0.8"/>
+<circle cx="416" cy="118" r="0.7551157360721397" fill="white" opacity="0.8"/>
+<circle cx="54" cy="115" r="1.5439714607101098" fill="white" opacity="0.4"/>
+<circle cx="243" cy="110" r="0.7606475643791177" fill="white" opacity="0.8"/>
+<circle cx="138" cy="117" r="1.8714514171481156" fill="white" opacity="0.9"/>
+<circle cx="202" cy="109" r="1.3454273325468873" fill="white" opacity="0.3"/>
+<circle cx="71" cy="12" r="0.5417458024049728" fill="white" opacity="0.8"/>
+<circle cx="286" cy="78" r="1.8532593243153692" fill="white" opacity="0.7"/>
+<circle cx="406" cy="1" r="1.8640864682167027" fill="white" opacity="0.3"/>
+<circle cx="188" cy="1" r="1.215341826583265" fill="white" opacity="1.0"/>
+<circle cx="466" cy="79" r="1.7470362387471008" fill="white" opacity="0.8"/>
+<circle cx="75" cy="10" r="0.7485556736602668" fill="white" opacity="0.8"/>
+<circle cx="311" cy="37" r="1.8980377079009565" fill="white" opacity="0.6"/>
+<circle cx="118" cy="5" r="1.195429517258163" fill="white" opacity="1.0"/>
+<circle cx="318" cy="71" r="1.1604450750530855" fill="white" opacity="0.8"/>
+<circle cx="457" cy="20" r="1.3261636612633123" fill="white" opacity="0.8"/>
+<circle cx="115" cy="71" r="1.1295003276221318" fill="white" opacity="0.4"/>
+<circle cx="63" cy="89" r="0.6507215981372804" fill="white" opacity="0.9"/>
+<circle cx="363" cy="3" r="1.2047438006240312" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="371" cy="61" r="20" fill="#d6e3cf" opacity="0.9"/>
+        <circle cx="371" cy="61" r="30" fill="#d6e3cf" opacity="0.2"/>
+        <circle cx="371" cy="61" r="45" fill="#d6e3cf" opacity="0.1"/>
+  <polygon points="0,375 0,203 71,216 142,169 214,184 285,201 357,175 428,161 500,183 500,375" fill="#5b7051" opacity="0.8"/>
+<polygon points="0,375 0,158 125,175 250,205 375,189 500,208 500,375" fill="#6b825f" opacity="0.8"/>
+<polygon points="0,375 0,117 125,147 250,147 375,147 500,171 500,375" fill="#7a956c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-10" r="8" fill="#d6e3cf"/>
+          <ellipse cx="0" cy="15" rx="6" ry="18" fill="#d6e3cf"/>
+          <path d="M0,0 Q-40,-50 -20,-10" fill="#c1d6b7" opacity="0.6" stroke="#d6e3cf" stroke-width="0.5"/>
+          <path d="M0,0 Q40,-50 20,-10" fill="#c1d6b7" opacity="0.6" stroke="#d6e3cf" stroke-width="0.5"/>
+          <path d="M0,5 Q-35,-30 -15,5" fill="#c1d6b7" opacity="0.4"/>
+          <path d="M0,5 Q35,-30 15,5" fill="#c1d6b7" opacity="0.4"/>
+          <circle cx="0" cy="-10" r="12" fill="none" stroke="#d6e3cf" stroke-width="0.5" opacity="0.5"/>
+          <circle cx="0" cy="-10" r="20" fill="none" stroke="#d6e3cf" stroke-width="0.3" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#d6e3cf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Fairy Ring at Dawn</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-celeste-shadow-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22192a"/>
+      <stop offset="60%" stop-color="#443355"/>
+      <stop offset="100%" stop-color="#8e8499"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-celeste-shadow-dragon)"/>
+  <circle cx="142" cy="94" r="1.7416060546437857" fill="white" opacity="0.5"/>
+<circle cx="76" cy="110" r="1.8791920104171402" fill="white" opacity="0.6"/>
+<circle cx="134" cy="63" r="0.6601026105692928" fill="white" opacity="0.7"/>
+<circle cx="64" cy="52" r="1.0598810040656013" fill="white" opacity="0.9"/>
+<circle cx="463" cy="100" r="1.7864681242274691" fill="white" opacity="0.5"/>
+<circle cx="309" cy="10" r="1.2501554420034695" fill="white" opacity="0.9"/>
+<circle cx="141" cy="51" r="1.393028465091565" fill="white" opacity="0.7"/>
+<circle cx="491" cy="92" r="1.118449936363569" fill="white" opacity="0.7"/>
+<circle cx="212" cy="50" r="1.5261921848504978" fill="white" opacity="0.8"/>
+<circle cx="21" cy="37" r="1.2530443163225446" fill="white" opacity="0.6"/>
+<circle cx="61" cy="68" r="1.5519667592194455" fill="white" opacity="1.0"/>
+<circle cx="180" cy="7" r="1.931109233218917" fill="white" opacity="1.0"/>
+<circle cx="97" cy="89" r="0.586489179566883" fill="white" opacity="0.8"/>
+<circle cx="356" cy="53" r="1.0242230516133255" fill="white" opacity="0.8"/>
+<circle cx="416" cy="97" r="1.006747945690518" fill="white" opacity="0.5"/>
+<circle cx="416" cy="125" r="0.8209935568292637" fill="white" opacity="0.5"/>
+<circle cx="448" cy="93" r="1.9758700926954686" fill="white" opacity="0.6"/>
+<circle cx="81" cy="14" r="0.6039673058281104" fill="white" opacity="1.0"/>
+<circle cx="326" cy="75" r="1.760934937440233" fill="white" opacity="1.0"/>
+<circle cx="298" cy="15" r="1.035183107143088" fill="white" opacity="0.5"/>
+<circle cx="361" cy="121" r="1.3209038909552722" fill="white" opacity="0.4"/>
+<circle cx="49" cy="57" r="1.6281598568770406" fill="white" opacity="0.4"/>
+<circle cx="0" cy="66" r="1.9726376125339213" fill="white" opacity="0.5"/>
+<circle cx="335" cy="123" r="0.9426293555423666" fill="white" opacity="0.7"/>
+<circle cx="252" cy="3" r="0.6646677532883546" fill="white" opacity="0.7"/>
+<circle cx="111" cy="28" r="1.4067683639521351" fill="white" opacity="0.6"/>
+<circle cx="271" cy="86" r="0.5995611142861255" fill="white" opacity="1.0"/>
+<circle cx="330" cy="73" r="0.7945227711835327" fill="white" opacity="1.0"/>
+<circle cx="165" cy="26" r="0.7263823784867641" fill="white" opacity="0.4"/>
+<circle cx="59" cy="88" r="1.879282143803475" fill="white" opacity="0.4"/>
+<circle cx="496" cy="65" r="0.5840034454650622" fill="white" opacity="0.7"/>
+<circle cx="493" cy="35" r="1.0031290858713153" fill="white" opacity="0.9"/>
+<circle cx="161" cy="66" r="0.8529916402226603" fill="white" opacity="0.6"/>
+<circle cx="393" cy="11" r="1.93085248433249" fill="white" opacity="0.8"/>
+<circle cx="63" cy="49" r="1.1569044271308722" fill="white" opacity="0.7"/>
+<circle cx="138" cy="101" r="1.7104297674892748" fill="white" opacity="0.6"/>
+<circle cx="332" cy="103" r="1.082088196669511" fill="white" opacity="0.5"/>
+<circle cx="164" cy="82" r="0.6037194072713483" fill="white" opacity="1.0"/>
+<circle cx="439" cy="28" r="1.0468336799075333" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="215" cy="68" r="25" fill="#c6c1cc" opacity="0.8"/>
+        <circle cx="223" cy="63" r="25" fill="#22192a"/>
+  <polygon points="0,375 0,236 166,228 333,213 500,218 500,375" fill="#281e33" opacity="0.8"/>
+<polygon points="0,375 0,165 125,189 250,222 375,167 500,216 500,375" fill="#2f233b" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#362844"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#362844"/>
+          <circle cx="-65" cy="-5" r="18" fill="#362844"/>
+          <circle cx="-72" cy="-10" r="3" fill="#b4adbb"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#362844" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#362844" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#362844"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#362844" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4adbb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Shadow Dragon&apos;s Lair</text>
+</svg>

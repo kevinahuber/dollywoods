@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-aldric-fortress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#333b44"/>
+      <stop offset="60%" stop-color="#667788"/>
+      <stop offset="100%" stop-color="#a3adb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-aldric-fortress)"/>
+  <circle cx="330" cy="125" r="1.5932016151161208" fill="white" opacity="0.8"/>
+<circle cx="487" cy="64" r="1.0098394641095694" fill="white" opacity="0.4"/>
+<circle cx="189" cy="30" r="0.57163633398208" fill="white" opacity="0.9"/>
+<circle cx="115" cy="115" r="0.5426227678620419" fill="white" opacity="0.8"/>
+<circle cx="54" cy="43" r="0.7184080731598008" fill="white" opacity="0.4"/>
+<circle cx="168" cy="34" r="1.5942044720702406" fill="white" opacity="0.8"/>
+<circle cx="43" cy="51" r="0.6205157106603584" fill="white" opacity="1.0"/>
+<circle cx="366" cy="87" r="1.8726789623341729" fill="white" opacity="0.4"/>
+<circle cx="116" cy="41" r="1.2247895507914857" fill="white" opacity="0.7"/>
+<circle cx="208" cy="53" r="1.023552251397696" fill="white" opacity="0.7"/>
+<circle cx="357" cy="57" r="0.9175961164649573" fill="white" opacity="0.9"/>
+<circle cx="243" cy="38" r="1.3638862485484582" fill="white" opacity="0.3"/>
+<circle cx="149" cy="58" r="0.6485246769290961" fill="white" opacity="0.8"/>
+<circle cx="59" cy="112" r="1.1235411562447202" fill="white" opacity="0.8"/>
+<circle cx="66" cy="123" r="1.804354125638215" fill="white" opacity="0.5"/>
+<circle cx="268" cy="34" r="0.6707088206981608" fill="white" opacity="0.5"/>
+<circle cx="414" cy="58" r="1.7603743209116938" fill="white" opacity="0.7"/>
+<circle cx="431" cy="112" r="1.6669930709084912" fill="white" opacity="0.3"/>
+<circle cx="26" cy="43" r="1.7997520111422933" fill="white" opacity="0.3"/>
+<circle cx="120" cy="18" r="1.314867647884287" fill="white" opacity="0.7"/>
+<circle cx="316" cy="38" r="0.6340208718455107" fill="white" opacity="1.0"/>
+<circle cx="440" cy="20" r="0.6256910425867543" fill="white" opacity="0.9"/>
+<circle cx="448" cy="102" r="0.9039454726065633" fill="white" opacity="0.7"/>
+<circle cx="240" cy="112" r="1.0236677218660248" fill="white" opacity="0.7"/>
+<circle cx="474" cy="123" r="1.9733852009075417" fill="white" opacity="0.7"/>
+<circle cx="466" cy="108" r="1.8450364190608577" fill="white" opacity="0.9"/>
+<circle cx="82" cy="26" r="1.6737252788470396" fill="white" opacity="0.8"/>
+<circle cx="190" cy="25" r="1.7290911280483243" fill="white" opacity="0.9"/>
+<circle cx="213" cy="89" r="1.963052133687782" fill="white" opacity="0.4"/>
+<circle cx="289" cy="98" r="1.8832670601273898" fill="white" opacity="0.8"/>
+<circle cx="378" cy="92" r="1.784068163104115" fill="white" opacity="0.9"/>
+<circle cx="17" cy="21" r="0.8433027238220261" fill="white" opacity="1.0"/>
+<circle cx="24" cy="98" r="0.7789668949208622" fill="white" opacity="0.5"/>
+<circle cx="41" cy="68" r="1.5787903190809642" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="288" cy="68" r="25" fill="#d1d6db" opacity="0.8"/>
+        <circle cx="296" cy="63" r="25" fill="#333b44"/>
+  <polygon points="0,375 0,192 166,195 333,194 500,186 500,375" fill="#3d4751" opacity="0.8"/>
+<polygon points="0,375 0,176 100,238 200,207 300,187 400,163 500,190 500,375" fill="#47535f" opacity="0.8"/>
+<polygon points="0,375 0,97 71,133 142,139 214,131 285,95 357,110 428,136 500,128 500,375" fill="#515f6c" opacity="0.8"/>
+<polygon points="0,375 0,54 100,77 200,99 300,107 400,95 500,84 500,375" fill="#5b6b7a" opacity="0.8"/>
+
+  
+        <g>
+          <rect x="210" y="215" width="80" height="120" fill="#515f6c"/>
+          <rect x="195" y="245" width="30" height="90" fill="#515f6c"/>
+          <rect x="275" y="245" width="30" height="90" fill="#515f6c"/>
+          <polygon points="195,245 210,225 225,245" fill="#3d4751"/>
+          <polygon points="275,245 290,225 305,245" fill="#3d4751"/>
+          <polygon points="210,215 250,185 290,215" fill="#3d4751"/>
+          <rect x="242" y="295" width="16" height="25" fill="#282f36"/>
+          <rect x="200" y="250" width="6" height="8" fill="#c1c8cf" opacity="0.7"/>
+          <rect x="220" y="225" width="6" height="8" fill="#c1c8cf" opacity="0.7"/>
+          <rect x="274" y="225" width="6" height="8" fill="#c1c8cf" opacity="0.7"/>
+          <rect x="294" y="250" width="6" height="8" fill="#c1c8cf" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c1c8cf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Fortress of the Mountain King</text>
+</svg>

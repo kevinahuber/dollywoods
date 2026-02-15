@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-ember-jack-tales" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b3b33"/>
+      <stop offset="60%" stop-color="#777766"/>
+      <stop offset="100%" stop-color="#adada3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-ember-jack-tales)"/>
+  <circle cx="433" cy="91" r="1.007101542452562" fill="white" opacity="1.0"/>
+<circle cx="320" cy="96" r="1.9206206529990417" fill="white" opacity="0.6"/>
+<circle cx="165" cy="49" r="0.6791353324006433" fill="white" opacity="0.7"/>
+<circle cx="420" cy="122" r="0.6304419412876135" fill="white" opacity="0.9"/>
+<circle cx="392" cy="25" r="1.7163948426295943" fill="white" opacity="1.0"/>
+<circle cx="58" cy="118" r="1.9364741969246984" fill="white" opacity="0.7"/>
+<circle cx="260" cy="100" r="0.6027177237455712" fill="white" opacity="0.5"/>
+<circle cx="207" cy="81" r="1.2653870368699005" fill="white" opacity="0.9"/>
+<circle cx="428" cy="5" r="1.298774985379137" fill="white" opacity="0.7"/>
+<circle cx="132" cy="116" r="0.6860700789567948" fill="white" opacity="0.8"/>
+<circle cx="50" cy="103" r="0.8313371950597901" fill="white" opacity="0.6"/>
+<circle cx="62" cy="76" r="1.747610051200771" fill="white" opacity="0.4"/>
+<circle cx="267" cy="51" r="0.8845713041155594" fill="white" opacity="0.5"/>
+<circle cx="351" cy="105" r="0.8291851574180232" fill="white" opacity="1.0"/>
+<circle cx="474" cy="16" r="1.6146626711468923" fill="white" opacity="0.8"/>
+<circle cx="30" cy="105" r="1.71714017893683" fill="white" opacity="1.0"/>
+<circle cx="183" cy="17" r="1.9562126723502267" fill="white" opacity="0.8"/>
+<circle cx="319" cy="3" r="0.7926262882562372" fill="white" opacity="0.4"/>
+<circle cx="149" cy="17" r="1.5040418469786478" fill="white" opacity="1.0"/>
+<circle cx="354" cy="10" r="1.2097155236009665" fill="white" opacity="0.6"/>
+<circle cx="450" cy="54" r="1.2377706342065318" fill="white" opacity="0.8"/>
+<circle cx="107" cy="111" r="1.6110560032375099" fill="white" opacity="1.0"/>
+<circle cx="301" cy="69" r="1.195401090373145" fill="white" opacity="0.4"/>
+<circle cx="96" cy="33" r="0.8613776183095955" fill="white" opacity="0.8"/>
+<circle cx="494" cy="49" r="1.9025049240308858" fill="white" opacity="0.5"/>
+<circle cx="456" cy="15" r="0.8903915550991361" fill="white" opacity="0.3"/>
+<circle cx="214" cy="68" r="0.5359336830966486" fill="white" opacity="0.6"/>
+<circle cx="233" cy="96" r="1.0702558646443243" fill="white" opacity="0.8"/>
+<circle cx="460" cy="95" r="1.5815724084451483" fill="white" opacity="0.5"/>
+<circle cx="205" cy="11" r="1.768258555285958" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="168" cy="42" r="25" fill="#d6d6d1" opacity="0.8"/>
+        <circle cx="176" cy="37" r="25" fill="#3b3b33"/>
+  <polygon points="0,375 0,201 166,249 333,187 500,176 500,375" fill="#47473d" opacity="0.8"/>
+<polygon points="0,375 0,223 71,231 142,235 214,219 285,172 357,218 428,234 500,224 500,375" fill="#535347" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#5f5f51" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#adada3" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#c8c8c1" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#c8c8c1" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c8c8c1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Jack and the Beanstalk Giant</text>
+</svg>

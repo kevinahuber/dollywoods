@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-elara-selkie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#334c55"/>
+      <stop offset="60%" stop-color="#6699aa"/>
+      <stop offset="100%" stop-color="#a3c1cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-elara-selkie)"/>
+  <circle cx="275" cy="75" r="1.332582153111122" fill="white" opacity="0.8"/>
+<circle cx="386" cy="24" r="1.8935445226784426" fill="white" opacity="0.7"/>
+<circle cx="145" cy="6" r="1.384130506546255" fill="white" opacity="0.9"/>
+<circle cx="272" cy="40" r="1.1012862042893103" fill="white" opacity="0.6"/>
+<circle cx="377" cy="71" r="1.3418480517014104" fill="white" opacity="0.9"/>
+<circle cx="166" cy="67" r="1.0887102871229952" fill="white" opacity="1.0"/>
+<circle cx="403" cy="33" r="1.1132787029923485" fill="white" opacity="0.7"/>
+<circle cx="127" cy="23" r="1.5777229012182565" fill="white" opacity="0.9"/>
+<circle cx="289" cy="0" r="1.4596678654008186" fill="white" opacity="0.5"/>
+<circle cx="30" cy="98" r="1.1211450014857811" fill="white" opacity="0.9"/>
+<circle cx="287" cy="81" r="1.68832872435927" fill="white" opacity="0.5"/>
+<circle cx="98" cy="47" r="1.7927783381324187" fill="white" opacity="0.9"/>
+<circle cx="333" cy="60" r="0.8748858171623108" fill="white" opacity="0.4"/>
+<circle cx="454" cy="87" r="1.6930184845450698" fill="white" opacity="0.9"/>
+<circle cx="242" cy="38" r="0.7845037641845236" fill="white" opacity="0.7"/>
+<circle cx="91" cy="8" r="0.9628060083251253" fill="white" opacity="0.4"/>
+<circle cx="179" cy="68" r="1.5385920466033751" fill="white" opacity="0.8"/>
+<circle cx="141" cy="51" r="0.979502994372889" fill="white" opacity="0.8"/>
+<circle cx="318" cy="125" r="1.6863784739302685" fill="white" opacity="0.6"/>
+<circle cx="157" cy="118" r="1.751510353617384" fill="white" opacity="0.4"/>
+<circle cx="175" cy="21" r="0.719134275125452" fill="white" opacity="0.3"/>
+<circle cx="190" cy="4" r="1.033205084286239" fill="white" opacity="0.5"/>
+<circle cx="401" cy="96" r="1.2661992024142215" fill="white" opacity="0.5"/>
+<circle cx="107" cy="95" r="0.8233817274228397" fill="white" opacity="0.8"/>
+<circle cx="177" cy="33" r="1.2248783362856812" fill="white" opacity="0.5"/>
+<circle cx="372" cy="65" r="0.6122855579353974" fill="white" opacity="0.6"/>
+<circle cx="461" cy="39" r="1.2116986911620224" fill="white" opacity="0.9"/>
+<circle cx="86" cy="42" r="0.7993818796750853" fill="white" opacity="0.6"/>
+<circle cx="15" cy="97" r="1.8581286393354892" fill="white" opacity="0.5"/>
+<circle cx="118" cy="52" r="0.752312581994546" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="364" cy="53" r="20" fill="#c1d6dd" opacity="0.9"/>
+        <circle cx="364" cy="53" r="30" fill="#c1d6dd" opacity="0.2"/>
+        <circle cx="364" cy="53" r="45" fill="#c1d6dd" opacity="0.1"/>
+  <polygon points="0,375 0,245 71,198 142,195 214,187 285,188 357,168 428,224 500,213 500,375" fill="#3d5b66" opacity="0.8"/>
+<polygon points="0,375 0,217 83,190 166,186 250,171 333,240 416,217 500,242 500,375" fill="#476b76" opacity="0.8"/>
+<polygon points="0,375 0,152 83,181 166,124 250,104 333,118 416,168 500,165 500,375" fill="#517a88" opacity="0.8"/>
+<polygon points="0,375 0,146 83,161 166,186 250,163 333,162 416,174 500,161 500,375" fill="#5b8999" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q-40,-30 0,-10 Q40,10 80,-20 Q60,0 40,10 Q0,30 -40,20 Q-70,10 -80,0" fill="#517a88"/>
+          <circle cx="-60" cy="-8" r="4" fill="#c1d6dd"/>
+          <path d="M75,-18 Q100,-35 85,-10" fill="#517a88" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c1d6dd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Selkie&apos;s Return</text>
+</svg>

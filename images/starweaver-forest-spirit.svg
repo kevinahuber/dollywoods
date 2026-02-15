@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-starweaver-forest-spirit" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#334c33"/>
+      <stop offset="60%" stop-color="#669966"/>
+      <stop offset="100%" stop-color="#a3c1a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-starweaver-forest-spirit)"/>
+  <circle cx="116" cy="62" r="0.8616994274580998" fill="white" opacity="0.5"/>
+<circle cx="157" cy="21" r="0.5571780980161155" fill="white" opacity="0.9"/>
+<circle cx="84" cy="87" r="0.8875533822597409" fill="white" opacity="0.3"/>
+<circle cx="394" cy="64" r="0.590031523703846" fill="white" opacity="0.9"/>
+<circle cx="400" cy="40" r="1.160613997366372" fill="white" opacity="0.7"/>
+<circle cx="286" cy="4" r="0.8126716036870658" fill="white" opacity="0.3"/>
+<circle cx="296" cy="1" r="1.0529532138028206" fill="white" opacity="0.9"/>
+<circle cx="156" cy="30" r="1.1368617884337802" fill="white" opacity="0.4"/>
+<circle cx="72" cy="106" r="0.5056403670137033" fill="white" opacity="0.9"/>
+<circle cx="465" cy="7" r="1.244077747978532" fill="white" opacity="0.5"/>
+<circle cx="358" cy="108" r="1.4345663525612349" fill="white" opacity="0.5"/>
+<circle cx="64" cy="24" r="1.7680158441137614" fill="white" opacity="0.4"/>
+<circle cx="475" cy="25" r="0.7510207728449836" fill="white" opacity="0.3"/>
+<circle cx="76" cy="80" r="1.0217614784120492" fill="white" opacity="0.6"/>
+<circle cx="161" cy="70" r="0.7383068515789213" fill="white" opacity="0.3"/>
+<circle cx="253" cy="44" r="0.6266457141185771" fill="white" opacity="0.9"/>
+<circle cx="168" cy="46" r="1.7905491914690521" fill="white" opacity="0.8"/>
+<circle cx="274" cy="16" r="0.6008504707606896" fill="white" opacity="0.9"/>
+<circle cx="29" cy="11" r="1.2148299834479288" fill="white" opacity="0.4"/>
+<circle cx="57" cy="64" r="0.7057497963974673" fill="white" opacity="0.5"/>
+<circle cx="420" cy="114" r="1.1153237516607037" fill="white" opacity="1.0"/>
+<circle cx="329" cy="24" r="1.8037193143907062" fill="white" opacity="0.3"/>
+<circle cx="157" cy="46" r="1.053787839710921" fill="white" opacity="0.8"/>
+<circle cx="208" cy="59" r="1.2636846395274166" fill="white" opacity="0.8"/>
+<circle cx="303" cy="74" r="0.7498600829734481" fill="white" opacity="0.5"/>
+<circle cx="333" cy="111" r="1.2679692876707858" fill="white" opacity="1.0"/>
+<circle cx="242" cy="76" r="0.8520399796282735" fill="white" opacity="0.5"/>
+<circle cx="257" cy="35" r="0.863242197409098" fill="white" opacity="0.9"/>
+<circle cx="2" cy="12" r="1.6281303119119388" fill="white" opacity="0.5"/>
+<circle cx="401" cy="61" r="0.7526676705764915" fill="white" opacity="0.6"/>
+<circle cx="16" cy="85" r="1.6245862423393476" fill="white" opacity="1.0"/>
+<circle cx="147" cy="36" r="1.9495535468837668" fill="white" opacity="0.9"/>
+<circle cx="435" cy="85" r="1.838789007803709" fill="white" opacity="0.8"/>
+<circle cx="87" cy="19" r="0.9186337898603216" fill="white" opacity="0.6"/>
+<circle cx="172" cy="112" r="0.67516038049352" fill="white" opacity="0.7"/>
+<circle cx="471" cy="65" r="1.5076320091132627" fill="white" opacity="0.7"/>
+<circle cx="352" cy="23" r="0.6211597877471189" fill="white" opacity="0.3"/>
+<circle cx="119" cy="61" r="1.3120753316108367" fill="white" opacity="1.0"/>
+<circle cx="61" cy="98" r="0.5212920976067474" fill="white" opacity="0.6"/>
+<circle cx="418" cy="104" r="1.1940365213413255" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="246" cy="65" r="25" fill="#d1e0d1" opacity="0.8"/>
+        <circle cx="254" cy="60" r="25" fill="#334c33"/>
+  <polygon points="0,375 0,283 125,273 250,283 375,293 500,293 500,375" fill="#3d5b3d" opacity="0.8"/>
+<polygon points="0,375 0,177 125,179 250,124 375,152 500,119 500,375" fill="#476b47" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#517a51" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#a3c1a3" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#c1d6c1" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#c1d6c1" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c1d6c1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Spirit of the Ancient Oak</text>
+</svg>

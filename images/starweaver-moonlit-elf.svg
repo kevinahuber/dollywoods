@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-starweaver-moonlit-elf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#444c66"/>
+      <stop offset="60%" stop-color="#8899cc"/>
+      <stop offset="100%" stop-color="#b7c1e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-starweaver-moonlit-elf)"/>
+  <circle cx="337" cy="117" r="1.4180103039528786" fill="white" opacity="0.7"/>
+<circle cx="93" cy="67" r="0.8007080563677308" fill="white" opacity="0.7"/>
+<circle cx="261" cy="71" r="0.8223463351732218" fill="white" opacity="0.6"/>
+<circle cx="297" cy="94" r="1.1226960022415735" fill="white" opacity="0.9"/>
+<circle cx="167" cy="73" r="1.2658110640378666" fill="white" opacity="0.3"/>
+<circle cx="247" cy="63" r="1.7893442018078125" fill="white" opacity="0.7"/>
+<circle cx="99" cy="40" r="0.5517146405895974" fill="white" opacity="0.6"/>
+<circle cx="486" cy="19" r="1.4739163446812942" fill="white" opacity="0.4"/>
+<circle cx="432" cy="49" r="1.497319139869593" fill="white" opacity="0.7"/>
+<circle cx="45" cy="109" r="1.7379347681824655" fill="white" opacity="0.5"/>
+<circle cx="465" cy="117" r="0.9405600040333615" fill="white" opacity="0.5"/>
+<circle cx="182" cy="116" r="1.0122817773953534" fill="white" opacity="0.3"/>
+<circle cx="185" cy="103" r="1.6142638196627366" fill="white" opacity="0.7"/>
+<circle cx="386" cy="108" r="1.7095486180874957" fill="white" opacity="0.9"/>
+<circle cx="251" cy="50" r="1.1487478749859572" fill="white" opacity="0.4"/>
+<circle cx="345" cy="58" r="1.5816343287676335" fill="white" opacity="0.4"/>
+<circle cx="139" cy="125" r="0.8836706018900073" fill="white" opacity="0.9"/>
+<circle cx="130" cy="57" r="1.0741636070558642" fill="white" opacity="1.0"/>
+<circle cx="442" cy="122" r="1.6362049051920347" fill="white" opacity="0.5"/>
+<circle cx="310" cy="26" r="1.3083766198721074" fill="white" opacity="0.8"/>
+<circle cx="64" cy="70" r="0.8063337037972702" fill="white" opacity="0.4"/>
+<circle cx="198" cy="28" r="1.5117752829278457" fill="white" opacity="0.6"/>
+<circle cx="61" cy="40" r="0.6098097741723727" fill="white" opacity="0.4"/>
+<circle cx="408" cy="87" r="0.7242650444456378" fill="white" opacity="0.5"/>
+<circle cx="447" cy="19" r="1.8988828789192136" fill="white" opacity="0.8"/>
+<circle cx="306" cy="47" r="0.8323379203064186" fill="white" opacity="0.7"/>
+<circle cx="260" cy="90" r="1.5626953884857915" fill="white" opacity="0.9"/>
+<circle cx="383" cy="60" r="0.8350594323401213" fill="white" opacity="0.6"/>
+<circle cx="281" cy="44" r="0.9798587570767195" fill="white" opacity="0.8"/>
+<circle cx="251" cy="125" r="0.9307913945156098" fill="white" opacity="0.7"/>
+<circle cx="207" cy="68" r="1.1985925240435993" fill="white" opacity="0.6"/>
+<circle cx="124" cy="19" r="0.6678494394002097" fill="white" opacity="0.5"/>
+<circle cx="131" cy="14" r="1.298522087297504" fill="white" opacity="0.5"/>
+<circle cx="435" cy="47" r="1.8530359048275322" fill="white" opacity="1.0"/>
+<circle cx="5" cy="33" r="0.9330587433852588" fill="white" opacity="0.6"/>
+<circle cx="58" cy="61" r="1.7919327923112607" fill="white" opacity="0.4"/>
+<circle cx="431" cy="102" r="1.6517843332010314" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="327" cy="64" r="25" fill="#dbe0ef" opacity="0.8"/>
+        <circle cx="335" cy="59" r="25" fill="#444c66"/>
+  <polygon points="0,375 0,227 125,226 250,206 375,268 500,249 500,375" fill="#515b7a" opacity="0.8"/>
+<polygon points="0,375 0,162 125,120 250,119 375,178 500,121 500,375" fill="#5f6b8e" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#6c7aa3" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#b7c1e0" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#cfd6ea" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#cfd6ea" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfd6ea" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Moonlit Elf Portrait</text>
+</svg>

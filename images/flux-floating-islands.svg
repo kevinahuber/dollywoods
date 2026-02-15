@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-flux-floating-islands" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#225544"/>
+      <stop offset="60%" stop-color="#44aa88"/>
+      <stop offset="100%" stop-color="#8eccb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-flux-floating-islands)"/>
+  <circle cx="56" cy="67" r="1.2543282337303894" fill="white" opacity="0.4"/>
+<circle cx="235" cy="122" r="1.792031006926563" fill="white" opacity="0.6"/>
+<circle cx="366" cy="105" r="1.6225575417461346" fill="white" opacity="0.3"/>
+<circle cx="116" cy="25" r="1.1691923962448654" fill="white" opacity="0.7"/>
+<circle cx="272" cy="53" r="0.6234532647368933" fill="white" opacity="0.5"/>
+<circle cx="456" cy="84" r="1.1880258482360913" fill="white" opacity="0.9"/>
+<circle cx="299" cy="16" r="1.313127478925229" fill="white" opacity="0.7"/>
+<circle cx="267" cy="28" r="1.6023902497170606" fill="white" opacity="0.4"/>
+<circle cx="141" cy="16" r="1.81065812799592" fill="white" opacity="0.4"/>
+<circle cx="208" cy="48" r="0.9321505769916987" fill="white" opacity="0.6"/>
+<circle cx="469" cy="51" r="1.8736968790542585" fill="white" opacity="0.8"/>
+<circle cx="354" cy="109" r="1.9213423040788116" fill="white" opacity="0.9"/>
+<circle cx="202" cy="18" r="1.410613878627049" fill="white" opacity="0.7"/>
+<circle cx="118" cy="122" r="1.3044308648690182" fill="white" opacity="0.4"/>
+<circle cx="446" cy="38" r="0.9882749014397318" fill="white" opacity="0.3"/>
+<circle cx="111" cy="92" r="0.649430439479048" fill="white" opacity="0.4"/>
+<circle cx="480" cy="50" r="0.5630698203713074" fill="white" opacity="0.9"/>
+<circle cx="366" cy="55" r="1.0700407155891187" fill="white" opacity="0.3"/>
+<circle cx="190" cy="119" r="1.2583636445128015" fill="white" opacity="0.9"/>
+<circle cx="405" cy="74" r="1.8365797365738805" fill="white" opacity="0.9"/>
+<circle cx="419" cy="21" r="1.8215680813544761" fill="white" opacity="0.5"/>
+<circle cx="399" cy="124" r="1.0890469401136742" fill="white" opacity="0.6"/>
+<circle cx="347" cy="13" r="1.7333206039799274" fill="white" opacity="0.7"/>
+<circle cx="61" cy="80" r="1.9437786522322593" fill="white" opacity="0.8"/>
+<circle cx="24" cy="34" r="1.5930239776875754" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="230" cy="65" r="25" fill="#c6e5db" opacity="0.8"/>
+        <circle cx="238" cy="60" r="25" fill="#225544"/>
+  <polygon points="0,375 0,246 71,233 142,256 214,229 285,232 357,250 428,239 500,293 500,375" fill="#286651" opacity="0.8"/>
+<polygon points="0,375 0,161 83,182 166,133 250,190 333,151 416,141 500,153 500,375" fill="#2f765f" opacity="0.8"/>
+
+  
+        <g>
+          <ellipse cx="250" cy="207" rx="100" ry="40" fill="#36886c" opacity="0.5"/>
+          <circle cx="220" cy="177" r="20" fill="#8eccb7" opacity="0.4"/>
+          <circle cx="270" cy="187" r="25" fill="#8eccb7" opacity="0.3"/>
+          <circle cx="250" cy="162" r="15" fill="#8eccb7" opacity="0.35"/>
+          <circle cx="240" cy="192" r="8" fill="#b4ddcf" opacity="0.5"/>
+          <circle cx="275" cy="172" r="6" fill="#b4ddcf" opacity="0.5"/>
+          <circle cx="225" cy="202" r="5" fill="#b4ddcf" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4ddcf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Floating Islands of Kepler-442b</text>
+</svg>

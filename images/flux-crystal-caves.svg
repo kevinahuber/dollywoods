@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-flux-crystal-caves" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#445566"/>
+      <stop offset="60%" stop-color="#88aacc"/>
+      <stop offset="100%" stop-color="#b7cce0"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-flux-crystal-caves)"/>
+  <circle cx="359" cy="37" r="0.6532059083040328" fill="white" opacity="0.9"/>
+<circle cx="222" cy="54" r="1.4554959239356755" fill="white" opacity="1.0"/>
+<circle cx="361" cy="45" r="0.8972833766808941" fill="white" opacity="0.4"/>
+<circle cx="173" cy="110" r="0.9610235438209863" fill="white" opacity="0.9"/>
+<circle cx="401" cy="10" r="1.081231085700706" fill="white" opacity="0.8"/>
+<circle cx="40" cy="10" r="0.8823828700341164" fill="white" opacity="0.3"/>
+<circle cx="481" cy="61" r="0.8541385473922701" fill="white" opacity="0.5"/>
+<circle cx="74" cy="123" r="1.9050136949392205" fill="white" opacity="0.7"/>
+<circle cx="413" cy="119" r="1.6869934143946326" fill="white" opacity="0.8"/>
+<circle cx="266" cy="82" r="1.7427303506106633" fill="white" opacity="0.7"/>
+<circle cx="171" cy="108" r="1.6054743925107557" fill="white" opacity="0.6"/>
+<circle cx="473" cy="25" r="0.5713213605639715" fill="white" opacity="0.9"/>
+<circle cx="9" cy="119" r="1.5376881370848905" fill="white" opacity="0.8"/>
+<circle cx="59" cy="20" r="0.961621964602702" fill="white" opacity="0.4"/>
+<circle cx="183" cy="68" r="0.9001482369808658" fill="white" opacity="0.7"/>
+<circle cx="275" cy="22" r="0.8844949511192212" fill="white" opacity="0.6"/>
+<circle cx="264" cy="99" r="1.3560925726064412" fill="white" opacity="0.6"/>
+<circle cx="425" cy="116" r="1.193722047532733" fill="white" opacity="0.3"/>
+<circle cx="176" cy="20" r="1.1383387420956756" fill="white" opacity="0.5"/>
+<circle cx="354" cy="15" r="1.1922184563603448" fill="white" opacity="0.8"/>
+<circle cx="110" cy="102" r="1.212696315710209" fill="white" opacity="0.9"/>
+<circle cx="171" cy="15" r="1.7894847881669833" fill="white" opacity="0.5"/>
+<circle cx="473" cy="113" r="0.8485792270840726" fill="white" opacity="0.5"/>
+<circle cx="470" cy="18" r="0.716598336854086" fill="white" opacity="0.6"/>
+<circle cx="200" cy="94" r="1.58182996813823" fill="white" opacity="0.4"/>
+<circle cx="105" cy="106" r="0.5800487410848423" fill="white" opacity="0.5"/>
+<circle cx="35" cy="48" r="1.280512236926406" fill="white" opacity="0.3"/>
+<circle cx="474" cy="75" r="0.6839031360454899" fill="white" opacity="0.9"/>
+<circle cx="485" cy="10" r="1.127895686185915" fill="white" opacity="0.9"/>
+<circle cx="102" cy="19" r="1.7537109284979193" fill="white" opacity="0.4"/>
+<circle cx="337" cy="44" r="0.9522090379544146" fill="white" opacity="0.5"/>
+<circle cx="434" cy="39" r="1.9671650399691007" fill="white" opacity="0.9"/>
+<circle cx="368" cy="57" r="1.181782225162788" fill="white" opacity="0.6"/>
+<circle cx="249" cy="66" r="1.081753606461105" fill="white" opacity="0.3"/>
+
+  
+        <circle cx="233" cy="88" r="25" fill="#dbe5ef" opacity="0.8"/>
+        <circle cx="241" cy="83" r="25" fill="#445566"/>
+  <polygon points="0,375 0,291 71,270 142,282 214,217 285,279 357,232 428,229 500,281 500,375" fill="#51667a" opacity="0.8"/>
+<polygon points="0,375 0,241 166,252 333,191 500,223 500,375" fill="#5f768e" opacity="0.8"/>
+
+  
+        <g>
+          <ellipse cx="250" cy="207" rx="100" ry="40" fill="#6c88a3" opacity="0.5"/>
+          <circle cx="220" cy="177" r="20" fill="#b7cce0" opacity="0.4"/>
+          <circle cx="270" cy="187" r="25" fill="#b7cce0" opacity="0.3"/>
+          <circle cx="250" cy="162" r="15" fill="#b7cce0" opacity="0.35"/>
+          <circle cx="240" cy="192" r="8" fill="#cfddea" opacity="0.5"/>
+          <circle cx="275" cy="172" r="6" fill="#cfddea" opacity="0.5"/>
+          <circle cx="225" cy="202" r="5" fill="#cfddea" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfddea" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Crystal Caves of Proxima</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-unicorn-big-wig" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6e557f"/>
+      <stop offset="60%" stop-color="#ddaaff"/>
+      <stop offset="100%" stop-color="#eaccff"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-unicorn-big-wig)"/>
+  <circle cx="125" cy="102" r="0.8161572317600911" fill="white" opacity="0.5"/>
+<circle cx="147" cy="2" r="0.9369210325943587" fill="white" opacity="0.6"/>
+<circle cx="348" cy="43" r="0.6240699446967397" fill="white" opacity="0.4"/>
+<circle cx="277" cy="97" r="1.4753104367392489" fill="white" opacity="0.7"/>
+<circle cx="403" cy="55" r="1.9338540671143427" fill="white" opacity="0.8"/>
+<circle cx="82" cy="50" r="0.9227858597431595" fill="white" opacity="0.4"/>
+<circle cx="245" cy="32" r="0.9740097619644863" fill="white" opacity="0.9"/>
+<circle cx="337" cy="107" r="0.9591866905960886" fill="white" opacity="0.3"/>
+<circle cx="203" cy="50" r="1.4769067408114744" fill="white" opacity="0.4"/>
+<circle cx="91" cy="104" r="0.5329683390128919" fill="white" opacity="0.6"/>
+<circle cx="297" cy="41" r="1.4719312954568022" fill="white" opacity="0.4"/>
+<circle cx="500" cy="85" r="0.7134442338733284" fill="white" opacity="0.7"/>
+<circle cx="110" cy="80" r="0.8922504399986902" fill="white" opacity="0.4"/>
+<circle cx="95" cy="54" r="1.7689284022230258" fill="white" opacity="0.7"/>
+<circle cx="254" cy="83" r="1.2014567258862299" fill="white" opacity="0.9"/>
+<circle cx="30" cy="28" r="0.7487191659070331" fill="white" opacity="0.7"/>
+<circle cx="464" cy="26" r="0.6688993844582332" fill="white" opacity="0.8"/>
+<circle cx="327" cy="1" r="1.582707117133971" fill="white" opacity="0.8"/>
+<circle cx="497" cy="29" r="0.881709535473215" fill="white" opacity="0.7"/>
+<circle cx="212" cy="69" r="1.1343398025366846" fill="white" opacity="0.9"/>
+<circle cx="483" cy="21" r="1.3205724626596562" fill="white" opacity="0.4"/>
+<circle cx="99" cy="76" r="0.5466129415672443" fill="white" opacity="0.5"/>
+<circle cx="71" cy="35" r="1.9259750905443571" fill="white" opacity="0.6"/>
+<circle cx="354" cy="59" r="0.5802925633867166" fill="white" opacity="0.8"/>
+<circle cx="162" cy="69" r="0.8656310629376816" fill="white" opacity="0.7"/>
+<circle cx="75" cy="89" r="1.93593779828155" fill="white" opacity="0.8"/>
+<circle cx="238" cy="70" r="0.8122390889008217" fill="white" opacity="0.6"/>
+<circle cx="72" cy="123" r="1.8583880489309161" fill="white" opacity="0.6"/>
+<circle cx="0" cy="18" r="1.9403100554740387" fill="white" opacity="0.8"/>
+<circle cx="221" cy="80" r="1.1917563120826258" fill="white" opacity="0.7"/>
+<circle cx="399" cy="84" r="1.0005040304254769" fill="white" opacity="0.5"/>
+<circle cx="76" cy="43" r="0.5831902767134212" fill="white" opacity="0.8"/>
+<circle cx="249" cy="48" r="0.5265149373660032" fill="white" opacity="0.6"/>
+<circle cx="179" cy="94" r="1.9637736012802725" fill="white" opacity="0.6"/>
+<circle cx="289" cy="78" r="1.8344103718014675" fill="white" opacity="0.8"/>
+<circle cx="306" cy="124" r="1.1131050882040805" fill="white" opacity="1.0"/>
+
+  
+        <circle cx="310" cy="65" r="20" fill="#f1ddff" opacity="0.9"/>
+        <circle cx="310" cy="65" r="30" fill="#f1ddff" opacity="0.2"/>
+        <circle cx="310" cy="65" r="45" fill="#f1ddff" opacity="0.1"/>
+  <polygon points="0,375 0,207 71,148 142,206 214,161 285,153 357,145 428,210 500,212 500,375" fill="#846699" opacity="0.8"/>
+<polygon points="0,375 0,242 100,223 200,215 300,205 400,209 500,269 500,375" fill="#9a76b2" opacity="0.8"/>
+<polygon points="0,375 0,158 100,170 200,194 300,167 400,169 500,160 500,375" fill="#b088cc" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <ellipse cx="0" cy="10" rx="50" ry="30" fill="#b088cc"/>
+          <ellipse cx="-40" cy="-15" rx="15" ry="20" fill="#b088cc"/>
+          <line x1="-45" y1="-35" x2="-50" y2="-65" stroke="#f1ddff" stroke-width="3"/>
+          <circle cx="-45" cy="-67" r="3" fill="#f1ddff"/>
+          <path d="M-30,-25 Q-35,-45 -25,-35" fill="#b088cc"/>
+          <line x1="0" y1="40" x2="-15" y2="70" stroke="#b088cc" stroke-width="4"/>
+          <line x1="15" y1="40" x2="10" y2="70" stroke="#b088cc" stroke-width="4"/>
+          <line x1="-20" y1="40" x2="-30" y2="70" stroke="#b088cc" stroke-width="4"/>
+          <line x1="35" y1="40" x2="30" y2="70" stroke="#b088cc" stroke-width="4"/>
+          <path d="M45,0 Q90,-20 70,10 Q55,5 45,5" fill="#b088cc"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#f1ddff" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Unicorn in a Big Wig</text>
+</svg>

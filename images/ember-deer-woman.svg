@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-ember-deer-woman" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4c443b"/>
+      <stop offset="60%" stop-color="#998877"/>
+      <stop offset="100%" stop-color="#c1b7ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-ember-deer-woman)"/>
+  <circle cx="293" cy="51" r="0.6744865517077406" fill="white" opacity="0.8"/>
+<circle cx="265" cy="63" r="0.7230530645865503" fill="white" opacity="0.3"/>
+<circle cx="382" cy="95" r="1.4113982113375785" fill="white" opacity="0.6"/>
+<circle cx="393" cy="32" r="0.5902925883992962" fill="white" opacity="0.4"/>
+<circle cx="27" cy="75" r="0.8224519222453384" fill="white" opacity="0.4"/>
+<circle cx="271" cy="97" r="1.278761432910671" fill="white" opacity="0.8"/>
+<circle cx="231" cy="37" r="1.7699235980236256" fill="white" opacity="0.3"/>
+<circle cx="218" cy="90" r="1.7747166927327767" fill="white" opacity="0.9"/>
+<circle cx="147" cy="78" r="1.0188353161090584" fill="white" opacity="0.6"/>
+<circle cx="486" cy="99" r="0.9223346145882961" fill="white" opacity="0.8"/>
+<circle cx="404" cy="101" r="1.7755545398857915" fill="white" opacity="0.6"/>
+<circle cx="301" cy="48" r="1.6602778596064334" fill="white" opacity="0.8"/>
+<circle cx="52" cy="55" r="1.479807294330291" fill="white" opacity="0.4"/>
+<circle cx="301" cy="84" r="0.6551423599226901" fill="white" opacity="0.4"/>
+<circle cx="488" cy="106" r="0.556415511651601" fill="white" opacity="0.7"/>
+<circle cx="425" cy="24" r="1.8462028427445305" fill="white" opacity="1.0"/>
+<circle cx="80" cy="54" r="1.6647326573925567" fill="white" opacity="0.5"/>
+<circle cx="377" cy="75" r="1.1770031075275211" fill="white" opacity="0.3"/>
+<circle cx="120" cy="75" r="1.4042176938291813" fill="white" opacity="0.9"/>
+<circle cx="495" cy="90" r="1.5865040247486952" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="146" cy="45" r="20" fill="#d6cfc8" opacity="0.9"/>
+        <circle cx="146" cy="45" r="30" fill="#d6cfc8" opacity="0.2"/>
+        <circle cx="146" cy="45" r="45" fill="#d6cfc8" opacity="0.1"/>
+  <polygon points="0,375 0,256 83,255 166,262 250,241 333,288 416,232 500,292 500,375" fill="#5b5147" opacity="0.8"/>
+<polygon points="0,375 0,171 125,122 250,187 375,130 500,152 500,375" fill="#6b5f53" opacity="0.8"/>
+<polygon points="0,375 0,159 100,171 200,176 300,169 400,215 500,223 500,375" fill="#7a6c5f" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-35" r="12" fill="#7a6c5f"/>
+          <path d="M-12,-23 L-18,20 L18,20 L12,-23" fill="#7a6c5f"/>
+          <line x1="-18" y1="20" x2="-22" y2="60" stroke="#7a6c5f" stroke-width="5"/>
+          <line x1="18" y1="20" x2="22" y2="60" stroke="#7a6c5f" stroke-width="5"/>
+          <path d="M-12,-15 Q-35,-5 -40,10" stroke="#7a6c5f" stroke-width="3" fill="none"/>
+          <path d="M12,-15 Q35,-5 40,10" stroke="#7a6c5f" stroke-width="3" fill="none"/>
+          <circle cx="0" cy="-35" r="18" fill="none" stroke="#d6cfc8" stroke-width="0.5" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#d6cfc8" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Deer Woman</text>
+</svg>

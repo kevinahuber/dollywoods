@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-darkstar-dropship" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a2a"/>
+      <stop offset="60%" stop-color="#445555"/>
+      <stop offset="100%" stop-color="#8e9999"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-darkstar-dropship)"/>
+  <circle cx="496" cy="56" r="1.4350653889086387" fill="white" opacity="0.7"/>
+<circle cx="454" cy="111" r="1.144109847597809" fill="white" opacity="0.3"/>
+<circle cx="315" cy="35" r="1.0318191179428493" fill="white" opacity="0.8"/>
+<circle cx="115" cy="100" r="1.9973240901958225" fill="white" opacity="0.9"/>
+<circle cx="99" cy="70" r="1.5654952787225433" fill="white" opacity="1.0"/>
+<circle cx="32" cy="120" r="1.7376282876387261" fill="white" opacity="0.8"/>
+<circle cx="392" cy="21" r="1.1240498023824355" fill="white" opacity="0.5"/>
+<circle cx="92" cy="78" r="1.1011556084265848" fill="white" opacity="0.7"/>
+<circle cx="355" cy="113" r="0.5999756565083143" fill="white" opacity="1.0"/>
+<circle cx="188" cy="15" r="1.3283473764706548" fill="white" opacity="0.8"/>
+<circle cx="11" cy="20" r="1.2968748025635404" fill="white" opacity="0.5"/>
+<circle cx="188" cy="124" r="0.712065544539279" fill="white" opacity="0.5"/>
+<circle cx="280" cy="7" r="1.742302498097974" fill="white" opacity="0.3"/>
+<circle cx="199" cy="97" r="0.9000527712050886" fill="white" opacity="0.9"/>
+<circle cx="304" cy="37" r="0.7216549532523207" fill="white" opacity="0.8"/>
+<circle cx="59" cy="2" r="1.76313497505977" fill="white" opacity="0.6"/>
+<circle cx="171" cy="38" r="1.8117236686793572" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="326" cy="40" r="20" fill="#b4bbbb" opacity="0.9"/>
+        <circle cx="326" cy="40" r="30" fill="#b4bbbb" opacity="0.2"/>
+        <circle cx="326" cy="40" r="45" fill="#b4bbbb" opacity="0.1"/>
+  <polygon points="0,375 0,255 100,219 200,256 300,206 400,250 500,183 500,375" fill="#283333" opacity="0.8"/>
+<polygon points="0,375 0,226 83,203 166,220 250,241 333,198 416,166 500,164 500,375" fill="#2f3b3b" opacity="0.8"/>
+<polygon points="0,375 0,125 125,143 250,158 375,163 500,120 500,375" fill="#364444" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <rect x="-25" y="-40" width="50" height="50" rx="3" fill="#364444"/>
+          <rect x="-20" y="-55" width="40" height="25" rx="5" fill="#364444"/>
+          <rect x="-12" y="-50" width="10" height="6" rx="1" fill="#b4bbbb"/>
+          <rect x="2" y="-50" width="10" height="6" rx="1" fill="#b4bbbb"/>
+          <rect x="-15" y="10" width="12" height="40" fill="#364444"/>
+          <rect x="3" y="10" width="12" height="40" fill="#364444"/>
+          <rect x="-45" y="-35" width="18" height="10" rx="2" fill="#364444"/>
+          <rect x="27" y="-35" width="18" height="10" rx="2" fill="#364444"/>
+          <rect x="-17" y="50" width="16" height="8" rx="2" fill="#364444"/>
+          <rect x="1" y="50" width="16" height="8" rx="2" fill="#364444"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbbb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Orbital Dropship Raven</text>
+</svg>

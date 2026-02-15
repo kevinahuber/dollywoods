@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-voss-alien-market" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#443322"/>
+      <stop offset="60%" stop-color="#886644"/>
+      <stop offset="100%" stop-color="#b7a38e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-voss-alien-market)"/>
+  <circle cx="195" cy="24" r="0.5841081919030575" fill="white" opacity="0.5"/>
+<circle cx="429" cy="66" r="1.984007407096431" fill="white" opacity="0.7"/>
+<circle cx="401" cy="34" r="1.7506174291844454" fill="white" opacity="0.8"/>
+<circle cx="279" cy="19" r="0.745525337744196" fill="white" opacity="0.4"/>
+<circle cx="166" cy="13" r="1.550159981417831" fill="white" opacity="0.6"/>
+<circle cx="412" cy="82" r="1.420822449982462" fill="white" opacity="0.9"/>
+<circle cx="377" cy="1" r="1.6158774384551562" fill="white" opacity="0.8"/>
+<circle cx="98" cy="70" r="0.9259851292335084" fill="white" opacity="0.4"/>
+<circle cx="11" cy="24" r="1.0192688985007465" fill="white" opacity="0.3"/>
+<circle cx="36" cy="9" r="1.9871169689710908" fill="white" opacity="0.5"/>
+<circle cx="492" cy="91" r="0.9577673393149921" fill="white" opacity="0.5"/>
+<circle cx="188" cy="32" r="1.3415514106458515" fill="white" opacity="0.5"/>
+<circle cx="499" cy="35" r="1.5775670201414629" fill="white" opacity="0.6"/>
+<circle cx="188" cy="93" r="1.7837177989031066" fill="white" opacity="0.9"/>
+<circle cx="73" cy="20" r="1.248541410346184" fill="white" opacity="0.9"/>
+<circle cx="149" cy="40" r="1.490956100002438" fill="white" opacity="0.8"/>
+<circle cx="442" cy="10" r="0.830791301878935" fill="white" opacity="0.3"/>
+<circle cx="236" cy="36" r="0.9436305285496869" fill="white" opacity="0.3"/>
+<circle cx="423" cy="67" r="0.91114024041773" fill="white" opacity="0.4"/>
+<circle cx="157" cy="121" r="1.2270533448405985" fill="white" opacity="0.9"/>
+<circle cx="129" cy="19" r="1.771240754657551" fill="white" opacity="1.0"/>
+<circle cx="474" cy="108" r="0.5506690222204066" fill="white" opacity="0.5"/>
+<circle cx="443" cy="35" r="1.1817316332398793" fill="white" opacity="0.7"/>
+<circle cx="247" cy="74" r="0.9664780396187107" fill="white" opacity="0.8"/>
+<circle cx="448" cy="78" r="1.7781686778981356" fill="white" opacity="0.8"/>
+<circle cx="155" cy="3" r="1.8636073043114756" fill="white" opacity="0.4"/>
+<circle cx="302" cy="32" r="0.719108864845364" fill="white" opacity="0.5"/>
+<circle cx="341" cy="78" r="0.8981965973711672" fill="white" opacity="0.3"/>
+<circle cx="378" cy="27" r="1.3223666872592272" fill="white" opacity="0.4"/>
+<circle cx="321" cy="48" r="1.3818406358962052" fill="white" opacity="0.8"/>
+<circle cx="218" cy="34" r="0.8211272066601484" fill="white" opacity="0.4"/>
+<circle cx="435" cy="32" r="1.6115139711296171" fill="white" opacity="0.7"/>
+<circle cx="280" cy="7" r="0.6138464269377657" fill="white" opacity="0.7"/>
+<circle cx="312" cy="61" r="1.091260642484026" fill="white" opacity="0.8"/>
+<circle cx="16" cy="107" r="0.7641166665834829" fill="white" opacity="0.9"/>
+<circle cx="125" cy="26" r="1.2801737806974791" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="202" cy="73" r="20" fill="#cfc1b4" opacity="0.9"/>
+        <circle cx="202" cy="73" r="30" fill="#cfc1b4" opacity="0.2"/>
+        <circle cx="202" cy="73" r="45" fill="#cfc1b4" opacity="0.1"/>
+  <polygon points="0,375 0,217 100,172 200,201 300,220 400,206 500,212 500,375" fill="#513d28" opacity="0.8"/>
+<polygon points="0,375 0,209 100,151 200,195 300,185 400,167 500,217 500,375" fill="#5f472f" opacity="0.8"/>
+<polygon points="0,375 0,196 125,201 250,182 375,158 500,170 500,375" fill="#6c5136" opacity="0.8"/>
+<polygon points="0,375 0,39 125,36 250,81 375,95 500,46 500,375" fill="#7a5b3d" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q0,-30 80,0 Q0,15 -80,0" fill="#6c5136"/>
+          <ellipse cx="0" cy="-5" rx="30" ry="12" fill="#b7a38e" opacity="0.3"/>
+          <path d="M-80,0 Q-100,5 -90,10 Q-85,3 -80,0" fill="#cfc1b4" opacity="0.7"/>
+          <path d="M80,0 Q100,5 90,10 Q85,3 80,0" fill="#cfc1b4" opacity="0.7"/>
+          <circle cx="-10" cy="-3" r="3" fill="#cfc1b4" opacity="0.8"/>
+          <circle cx="10" cy="-3" r="3" fill="#cfc1b4" opacity="0.8"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfc1b4" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Alien Bazaar</text>
+</svg>

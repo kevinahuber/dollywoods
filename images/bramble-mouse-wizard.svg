@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-bramble-mouse-wizard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5d5544"/>
+      <stop offset="60%" stop-color="#bbaa88"/>
+      <stop offset="100%" stop-color="#d6ccb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-bramble-mouse-wizard)"/>
+  <circle cx="94" cy="0" r="0.9407807752768977" fill="white" opacity="0.7"/>
+<circle cx="158" cy="49" r="1.1987720672290423" fill="white" opacity="0.7"/>
+<circle cx="87" cy="102" r="1.366591983099636" fill="white" opacity="0.4"/>
+<circle cx="228" cy="121" r="0.8730624414045747" fill="white" opacity="0.7"/>
+<circle cx="25" cy="38" r="0.5289090056078152" fill="white" opacity="0.6"/>
+<circle cx="401" cy="46" r="1.3647871385465895" fill="white" opacity="0.6"/>
+<circle cx="117" cy="7" r="0.7592051827023564" fill="white" opacity="0.7"/>
+<circle cx="227" cy="28" r="0.5491264526609594" fill="white" opacity="0.8"/>
+<circle cx="473" cy="37" r="1.5617568330117886" fill="white" opacity="0.4"/>
+<circle cx="29" cy="52" r="0.706986155426756" fill="white" opacity="0.7"/>
+<circle cx="332" cy="30" r="0.8398004758203377" fill="white" opacity="0.4"/>
+<circle cx="281" cy="51" r="1.5503398772949426" fill="white" opacity="0.6"/>
+<circle cx="84" cy="102" r="1.1011735371273907" fill="white" opacity="0.9"/>
+<circle cx="401" cy="23" r="0.9780582489261844" fill="white" opacity="0.8"/>
+<circle cx="102" cy="12" r="0.6547472130330764" fill="white" opacity="0.7"/>
+<circle cx="311" cy="23" r="0.7699219525163233" fill="white" opacity="0.4"/>
+<circle cx="434" cy="123" r="0.5246942638825294" fill="white" opacity="0.6"/>
+<circle cx="482" cy="57" r="1.3192838298186969" fill="white" opacity="0.6"/>
+<circle cx="196" cy="8" r="1.8051134839067713" fill="white" opacity="0.6"/>
+<circle cx="375" cy="69" r="1.5051989111564292" fill="white" opacity="0.8"/>
+<circle cx="228" cy="108" r="0.7036276767036806" fill="white" opacity="0.8"/>
+<circle cx="45" cy="84" r="1.2856285090622266" fill="white" opacity="0.6"/>
+<circle cx="415" cy="87" r="0.8136389021850274" fill="white" opacity="0.4"/>
+<circle cx="210" cy="44" r="1.9737991405833935" fill="white" opacity="0.7"/>
+<circle cx="269" cy="7" r="1.1289503305590238" fill="white" opacity="1.0"/>
+<circle cx="476" cy="117" r="0.9236261388062592" fill="white" opacity="0.9"/>
+<circle cx="420" cy="68" r="1.613295210015722" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="157" cy="78" r="25" fill="#eae5db" opacity="0.8"/>
+        <circle cx="165" cy="73" r="25" fill="#5d5544"/>
+  <polygon points="0,375 0,294 71,234 142,242 214,295 285,281 357,235 428,243 500,245 500,375" fill="#706651" opacity="0.8"/>
+<polygon points="0,375 0,205 166,223 333,158 500,185 500,375" fill="#82765f" opacity="0.8"/>
+<polygon points="0,375 0,183 83,243 166,192 250,188 333,178 416,183 500,174 500,375" fill="#95886c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,207)">
+          <ellipse cx="0" cy="0" rx="25" ry="18" fill="#95886c"/>
+          <circle cx="-18" cy="-10" r="10" fill="#95886c"/>
+          <circle cx="-22" cy="-13" r="2.5" fill="#e3ddcf"/>
+          <path d="M-25,-13 L-32,-15 L-28,-11" fill="#95886c"/>
+          <circle cx="0" cy="0" r="30" fill="none" stroke="#e3ddcf" stroke-width="0.5" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#e3ddcf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Mouse Wizard&apos;s Tower</text>
+</svg>

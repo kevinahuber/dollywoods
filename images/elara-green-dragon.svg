@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-elara-green-dragon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22442a"/>
+      <stop offset="60%" stop-color="#448855"/>
+      <stop offset="100%" stop-color="#8eb799"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-elara-green-dragon)"/>
+  <circle cx="196" cy="26" r="1.1236594895802003" fill="white" opacity="0.6"/>
+<circle cx="37" cy="90" r="0.9574994928016081" fill="white" opacity="0.6"/>
+<circle cx="137" cy="1" r="1.7428762816435683" fill="white" opacity="0.4"/>
+<circle cx="210" cy="59" r="1.0564426320492086" fill="white" opacity="1.0"/>
+<circle cx="243" cy="25" r="0.8562740404226967" fill="white" opacity="0.4"/>
+<circle cx="241" cy="98" r="1.6199667002582718" fill="white" opacity="0.9"/>
+<circle cx="237" cy="53" r="1.208758337176463" fill="white" opacity="0.9"/>
+<circle cx="430" cy="72" r="1.9468147825533675" fill="white" opacity="0.5"/>
+<circle cx="486" cy="33" r="0.740501780236996" fill="white" opacity="0.9"/>
+<circle cx="209" cy="91" r="1.1222094953128645" fill="white" opacity="0.3"/>
+<circle cx="298" cy="42" r="1.7523283759587385" fill="white" opacity="0.6"/>
+<circle cx="128" cy="112" r="0.9404779576262832" fill="white" opacity="0.6"/>
+<circle cx="488" cy="57" r="1.7812112362712447" fill="white" opacity="0.7"/>
+<circle cx="314" cy="105" r="1.2867361681339358" fill="white" opacity="0.6"/>
+<circle cx="317" cy="116" r="1.6193335125387274" fill="white" opacity="0.6"/>
+<circle cx="426" cy="35" r="1.069597094864447" fill="white" opacity="0.5"/>
+<circle cx="191" cy="107" r="1.6962315361712323" fill="white" opacity="0.8"/>
+<circle cx="283" cy="84" r="1.7094587559212349" fill="white" opacity="0.5"/>
+<circle cx="346" cy="35" r="1.8226613739396826" fill="white" opacity="0.9"/>
+<circle cx="105" cy="9" r="1.9850081809096545" fill="white" opacity="0.9"/>
+<circle cx="31" cy="2" r="1.5549990448058617" fill="white" opacity="0.3"/>
+<circle cx="278" cy="96" r="1.518588847911713" fill="white" opacity="0.7"/>
+<circle cx="499" cy="77" r="1.1664194934835237" fill="white" opacity="0.4"/>
+<circle cx="33" cy="114" r="1.0371755343376716" fill="white" opacity="0.9"/>
+<circle cx="251" cy="58" r="1.8980579559531374" fill="white" opacity="0.3"/>
+<circle cx="19" cy="84" r="0.9663882915614709" fill="white" opacity="0.6"/>
+<circle cx="305" cy="109" r="1.028189201915709" fill="white" opacity="0.4"/>
+<circle cx="205" cy="111" r="0.79593644998264" fill="white" opacity="0.6"/>
+<circle cx="448" cy="43" r="1.7125441741558611" fill="white" opacity="0.9"/>
+<circle cx="6" cy="67" r="1.8606039851819234" fill="white" opacity="0.3"/>
+<circle cx="170" cy="19" r="0.5182576417848717" fill="white" opacity="0.4"/>
+<circle cx="314" cy="67" r="0.9101021781834893" fill="white" opacity="0.9"/>
+<circle cx="417" cy="23" r="1.8899623256587048" fill="white" opacity="0.8"/>
+<circle cx="399" cy="22" r="1.0306208349077957" fill="white" opacity="0.9"/>
+<circle cx="310" cy="102" r="1.5347318148035793" fill="white" opacity="0.8"/>
+<circle cx="215" cy="86" r="1.0230044131320093" fill="white" opacity="0.9"/>
+<circle cx="320" cy="90" r="0.9328840217837064" fill="white" opacity="0.8"/>
+<circle cx="3" cy="71" r="0.6259117833450347" fill="white" opacity="0.5"/>
+
+  
+        <circle cx="183" cy="83" r="25" fill="#c6dbcc" opacity="0.8"/>
+        <circle cx="191" cy="78" r="25" fill="#22442a"/>
+  <polygon points="0,375 0,193 125,210 250,148 375,195 500,144 500,375" fill="#285133" opacity="0.8"/>
+<polygon points="0,375 0,230 125,164 250,175 375,218 500,214 500,375" fill="#2f5f3b" opacity="0.8"/>
+<polygon points="0,375 0,192 166,214 333,181 500,219 500,375" fill="#366c44" opacity="0.8"/>
+
+  
+        <g transform="translate(250,167)">
+          <ellipse cx="0" cy="20" rx="60" ry="35" fill="#366c44"/>
+          <ellipse cx="-50" cy="5" rx="25" ry="15" fill="#366c44"/>
+          <circle cx="-65" cy="-5" r="18" fill="#366c44"/>
+          <circle cx="-72" cy="-10" r="3" fill="#b4cfbb"/>
+          <path d="M-20,-10 Q-60,-80 -100,-40 Q-70,-50 -30,-15" fill="#366c44" opacity="0.8"/>
+          <path d="M20,-10 Q60,-80 100,-40 Q70,-50 30,-15" fill="#366c44" opacity="0.8"/>
+          <path d="M50,30 Q80,60 60,80 Q55,50 45,35" fill="#366c44"/>
+          <path d="M-60,-15 L-68,-30 M-55,-12 L-60,-25" stroke="#366c44" stroke-width="2" fill="none"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4cfbb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Dragon of the Emerald Isle</text>
+</svg>

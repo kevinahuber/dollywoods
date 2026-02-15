@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-enchanted-castle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#556e66"/>
+      <stop offset="60%" stop-color="#aaddcc"/>
+      <stop offset="100%" stop-color="#cceae0"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-enchanted-castle)"/>
+  <circle cx="78" cy="26" r="1.248685640561976" fill="white" opacity="1.0"/>
+<circle cx="410" cy="65" r="1.2883222274606168" fill="white" opacity="0.5"/>
+<circle cx="400" cy="30" r="1.0271615072606064" fill="white" opacity="0.9"/>
+<circle cx="125" cy="33" r="1.0468504785755366" fill="white" opacity="0.9"/>
+<circle cx="488" cy="3" r="1.342290124078602" fill="white" opacity="0.8"/>
+<circle cx="147" cy="41" r="0.9302712386271776" fill="white" opacity="0.9"/>
+<circle cx="371" cy="91" r="1.728868285786772" fill="white" opacity="0.5"/>
+<circle cx="357" cy="119" r="0.8413515439846312" fill="white" opacity="0.9"/>
+<circle cx="431" cy="43" r="1.7778754798998018" fill="white" opacity="0.8"/>
+<circle cx="427" cy="119" r="0.7742592108707416" fill="white" opacity="0.8"/>
+<circle cx="105" cy="2" r="1.5615494823410545" fill="white" opacity="0.6"/>
+<circle cx="138" cy="28" r="1.8658329026682496" fill="white" opacity="0.8"/>
+<circle cx="102" cy="67" r="1.0292036820392914" fill="white" opacity="0.5"/>
+<circle cx="55" cy="24" r="1.3825171523176674" fill="white" opacity="0.7"/>
+<circle cx="237" cy="23" r="0.6064721079054771" fill="white" opacity="0.7"/>
+<circle cx="453" cy="72" r="0.9438365146438167" fill="white" opacity="0.9"/>
+<circle cx="354" cy="19" r="1.5292441196622413" fill="white" opacity="0.6"/>
+<circle cx="151" cy="77" r="1.7444696797981873" fill="white" opacity="0.5"/>
+<circle cx="122" cy="78" r="1.5327319400822355" fill="white" opacity="0.9"/>
+<circle cx="46" cy="82" r="1.476342366293637" fill="white" opacity="0.4"/>
+<circle cx="8" cy="45" r="0.9207005819454408" fill="white" opacity="0.9"/>
+<circle cx="114" cy="118" r="1.61108702917772" fill="white" opacity="0.3"/>
+<circle cx="71" cy="52" r="0.511221754935482" fill="white" opacity="0.7"/>
+<circle cx="249" cy="19" r="0.5966262614690199" fill="white" opacity="0.7"/>
+<circle cx="187" cy="53" r="0.8388762475652283" fill="white" opacity="0.9"/>
+<circle cx="154" cy="67" r="1.1694270848108383" fill="white" opacity="0.8"/>
+<circle cx="472" cy="79" r="0.8385369373816747" fill="white" opacity="0.3"/>
+<circle cx="279" cy="106" r="1.7777621370535455" fill="white" opacity="0.6"/>
+<circle cx="413" cy="117" r="0.9511583407693682" fill="white" opacity="0.8"/>
+<circle cx="99" cy="105" r="1.625124627054884" fill="white" opacity="0.4"/>
+<circle cx="223" cy="59" r="1.6598483137743476" fill="white" opacity="0.8"/>
+<circle cx="242" cy="72" r="1.20188024873448" fill="white" opacity="0.5"/>
+<circle cx="68" cy="121" r="0.9919311540297586" fill="white" opacity="0.5"/>
+<circle cx="113" cy="79" r="0.951551990909782" fill="white" opacity="0.6"/>
+<circle cx="500" cy="34" r="0.6515074212839367" fill="white" opacity="0.7"/>
+<circle cx="443" cy="69" r="1.1093591901220583" fill="white" opacity="0.5"/>
+<circle cx="220" cy="45" r="1.1724312022954595" fill="white" opacity="0.3"/>
+<circle cx="304" cy="55" r="1.2871343074815984" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="134" cy="89" r="20" fill="#ddf1ea" opacity="0.9"/>
+        <circle cx="134" cy="89" r="30" fill="#ddf1ea" opacity="0.2"/>
+        <circle cx="134" cy="89" r="45" fill="#ddf1ea" opacity="0.1"/>
+  <polygon points="0,375 0,245 83,194 166,196 250,235 333,196 416,239 500,221 500,375" fill="#66847a" opacity="0.8"/>
+<polygon points="0,375 0,243 83,251 166,209 250,250 333,235 416,228 500,268 500,375" fill="#769a8e" opacity="0.8"/>
+<polygon points="0,375 0,190 100,200 200,160 300,228 400,163 500,170 500,375" fill="#88b0a3" opacity="0.8"/>
+<polygon points="0,375 0,167 71,155 142,160 214,99 285,99 357,111 428,132 500,169 500,375" fill="#99c6b7" opacity="0.8"/>
+
+  
+        <g>
+          <rect x="210" y="215" width="80" height="120" fill="#88b0a3"/>
+          <rect x="195" y="245" width="30" height="90" fill="#88b0a3"/>
+          <rect x="275" y="245" width="30" height="90" fill="#88b0a3"/>
+          <polygon points="195,245 210,225 225,245" fill="#66847a"/>
+          <polygon points="275,245 290,225 305,245" fill="#66847a"/>
+          <polygon points="210,215 250,185 290,215" fill="#66847a"/>
+          <rect x="242" y="295" width="16" height="25" fill="#445851"/>
+          <rect x="200" y="250" width="6" height="8" fill="#ddf1ea" opacity="0.7"/>
+          <rect x="220" y="225" width="6" height="8" fill="#ddf1ea" opacity="0.7"/>
+          <rect x="274" y="225" width="6" height="8" fill="#ddf1ea" opacity="0.7"/>
+          <rect x="294" y="250" width="6" height="8" fill="#ddf1ea" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#ddf1ea" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Enchanted Castle of Dollywood</text>
+</svg>

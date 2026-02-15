@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-corvin-kelpie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#19222a"/>
+      <stop offset="60%" stop-color="#334455"/>
+      <stop offset="100%" stop-color="#848e99"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-corvin-kelpie)"/>
+  <circle cx="98" cy="33" r="1.4068743061898683" fill="white" opacity="1.0"/>
+<circle cx="48" cy="16" r="1.1869788931520406" fill="white" opacity="0.7"/>
+<circle cx="499" cy="110" r="0.8391891283583557" fill="white" opacity="0.8"/>
+<circle cx="49" cy="65" r="0.786470336810724" fill="white" opacity="0.4"/>
+<circle cx="168" cy="28" r="0.8692915637069127" fill="white" opacity="0.6"/>
+<circle cx="420" cy="78" r="0.566867750657358" fill="white" opacity="0.7"/>
+<circle cx="397" cy="103" r="1.2917732288614363" fill="white" opacity="0.5"/>
+<circle cx="433" cy="43" r="0.9413725247820997" fill="white" opacity="0.7"/>
+<circle cx="483" cy="52" r="1.0744964332134792" fill="white" opacity="0.7"/>
+<circle cx="140" cy="90" r="1.431319249773192" fill="white" opacity="0.4"/>
+<circle cx="161" cy="45" r="1.1193936286598771" fill="white" opacity="0.8"/>
+<circle cx="233" cy="96" r="1.98796600848185" fill="white" opacity="0.6"/>
+<circle cx="45" cy="125" r="1.4589280750260856" fill="white" opacity="0.4"/>
+<circle cx="270" cy="84" r="0.9594886549421529" fill="white" opacity="1.0"/>
+<circle cx="326" cy="53" r="1.816409239548649" fill="white" opacity="0.3"/>
+<circle cx="155" cy="103" r="1.8901943602101865" fill="white" opacity="0.6"/>
+<circle cx="183" cy="104" r="1.874484814851233" fill="white" opacity="0.6"/>
+<circle cx="91" cy="102" r="0.9690233507707733" fill="white" opacity="0.7"/>
+<circle cx="391" cy="39" r="1.8804830908975672" fill="white" opacity="0.3"/>
+<circle cx="15" cy="2" r="0.8959433542892873" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="208" cy="61" r="25" fill="#c1c6cc" opacity="0.8"/>
+        <circle cx="216" cy="56" r="25" fill="#19222a"/>
+  <polygon points="0,375 0,230 100,171 200,192 300,198 400,208 500,200 500,375" fill="#1e2833" opacity="0.8"/>
+<polygon points="0,375 0,186 100,218 200,182 300,193 400,197 500,163 500,375" fill="#232f3b" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q-40,-30 0,-10 Q40,10 80,-20 Q60,0 40,10 Q0,30 -40,20 Q-70,10 -80,0" fill="#283644"/>
+          <circle cx="-60" cy="-8" r="4" fill="#adb4bb"/>
+          <path d="M75,-18 Q100,-35 85,-10" fill="#283644" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#adb4bb" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">The Kelpie of Loch Morar</text>
+</svg>

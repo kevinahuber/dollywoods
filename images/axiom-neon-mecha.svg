@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-axiom-neon-mecha" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#222a55"/>
+      <stop offset="60%" stop-color="#4455aa"/>
+      <stop offset="100%" stop-color="#8e99cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-axiom-neon-mecha)"/>
+  <circle cx="129" cy="70" r="0.8563311621123268" fill="white" opacity="0.7"/>
+<circle cx="197" cy="49" r="1.6355876500354727" fill="white" opacity="0.4"/>
+<circle cx="306" cy="54" r="1.2995574011004642" fill="white" opacity="0.8"/>
+<circle cx="366" cy="111" r="1.5136779092172619" fill="white" opacity="0.7"/>
+<circle cx="322" cy="68" r="1.8809609614855338" fill="white" opacity="1.0"/>
+<circle cx="7" cy="30" r="1.880251211466268" fill="white" opacity="0.4"/>
+<circle cx="462" cy="49" r="1.4912694122615997" fill="white" opacity="0.5"/>
+<circle cx="353" cy="97" r="0.9734551737161858" fill="white" opacity="0.9"/>
+<circle cx="277" cy="50" r="0.701074417693037" fill="white" opacity="0.7"/>
+<circle cx="430" cy="30" r="0.757867681538164" fill="white" opacity="0.8"/>
+<circle cx="300" cy="121" r="1.6201287055702036" fill="white" opacity="0.7"/>
+<circle cx="190" cy="84" r="0.9956943026679869" fill="white" opacity="1.0"/>
+<circle cx="3" cy="61" r="0.8886415938043883" fill="white" opacity="0.7"/>
+<circle cx="46" cy="33" r="0.6817262980069585" fill="white" opacity="0.8"/>
+<circle cx="466" cy="119" r="1.1451279495814797" fill="white" opacity="0.9"/>
+<circle cx="250" cy="125" r="1.5202338901776868" fill="white" opacity="0.9"/>
+<circle cx="399" cy="37" r="0.6235378231783506" fill="white" opacity="0.6"/>
+<circle cx="479" cy="21" r="1.2929969686708351" fill="white" opacity="0.4"/>
+<circle cx="380" cy="36" r="1.1312802710735814" fill="white" opacity="0.9"/>
+<circle cx="21" cy="9" r="0.8285655848823505" fill="white" opacity="0.5"/>
+<circle cx="14" cy="116" r="1.7115173332706572" fill="white" opacity="0.6"/>
+<circle cx="94" cy="3" r="0.6666073487136552" fill="white" opacity="0.9"/>
+<circle cx="300" cy="23" r="1.3709541341563685" fill="white" opacity="0.9"/>
+<circle cx="67" cy="101" r="1.437309537690776" fill="white" opacity="0.8"/>
+<circle cx="432" cy="115" r="1.6431604129706754" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="190" cy="34" r="20" fill="#b4bbdd" opacity="0.9"/>
+        <circle cx="190" cy="34" r="30" fill="#b4bbdd" opacity="0.2"/>
+        <circle cx="190" cy="34" r="45" fill="#b4bbdd" opacity="0.1"/>
+  <polygon points="0,375 0,202 100,205 200,187 300,196 400,237 500,197 500,375" fill="#283366" opacity="0.8"/>
+<polygon points="0,375 0,195 83,156 166,196 250,192 333,205 416,167 500,148 500,375" fill="#2f3b76" opacity="0.8"/>
+<polygon points="0,375 0,152 125,216 250,211 375,178 500,163 500,375" fill="#364488" opacity="0.8"/>
+<polygon points="0,375 0,132 166,99 333,114 500,152 500,375" fill="#3d4c99" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <rect x="-25" y="-40" width="50" height="50" rx="3" fill="#364488"/>
+          <rect x="-20" y="-55" width="40" height="25" rx="5" fill="#364488"/>
+          <rect x="-12" y="-50" width="10" height="6" rx="1" fill="#b4bbdd"/>
+          <rect x="2" y="-50" width="10" height="6" rx="1" fill="#b4bbdd"/>
+          <rect x="-15" y="10" width="12" height="40" fill="#364488"/>
+          <rect x="3" y="10" width="12" height="40" fill="#364488"/>
+          <rect x="-45" y="-35" width="18" height="10" rx="2" fill="#364488"/>
+          <rect x="27" y="-35" width="18" height="10" rx="2" fill="#364488"/>
+          <rect x="-17" y="50" width="16" height="8" rx="2" fill="#364488"/>
+          <rect x="1" y="50" width="16" height="8" rx="2" fill="#364488"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#b4bbdd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Neon Ronin MK-III</text>
+</svg>

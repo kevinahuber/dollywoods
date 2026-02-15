@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-9to5-sorceress" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7f6e44"/>
+      <stop offset="60%" stop-color="#ffdd88"/>
+      <stop offset="100%" stop-color="#ffeab7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-9to5-sorceress)"/>
+  <circle cx="14" cy="21" r="1.4335670817160246" fill="white" opacity="0.3"/>
+<circle cx="149" cy="22" r="1.919660093369505" fill="white" opacity="0.7"/>
+<circle cx="195" cy="15" r="1.2533658489290007" fill="white" opacity="0.6"/>
+<circle cx="183" cy="29" r="1.3188461006109806" fill="white" opacity="0.6"/>
+<circle cx="6" cy="122" r="0.6502879149572305" fill="white" opacity="0.5"/>
+<circle cx="413" cy="57" r="1.0506485410669664" fill="white" opacity="0.7"/>
+<circle cx="359" cy="106" r="1.828411874360442" fill="white" opacity="0.8"/>
+<circle cx="183" cy="51" r="1.3460882466973305" fill="white" opacity="0.3"/>
+<circle cx="180" cy="39" r="1.1251243777440876" fill="white" opacity="0.9"/>
+<circle cx="127" cy="13" r="1.8922672008554144" fill="white" opacity="0.4"/>
+<circle cx="423" cy="27" r="1.565963409118394" fill="white" opacity="0.9"/>
+<circle cx="33" cy="33" r="1.2699514948318105" fill="white" opacity="0.8"/>
+<circle cx="381" cy="92" r="1.361665598077953" fill="white" opacity="0.4"/>
+<circle cx="105" cy="73" r="1.4370950312511985" fill="white" opacity="0.7"/>
+<circle cx="497" cy="55" r="1.4031575490545232" fill="white" opacity="0.4"/>
+<circle cx="344" cy="15" r="1.8048803460167082" fill="white" opacity="0.8"/>
+<circle cx="52" cy="18" r="1.3032561750697307" fill="white" opacity="0.5"/>
+<circle cx="330" cy="61" r="1.5862180826076826" fill="white" opacity="0.9"/>
+<circle cx="111" cy="85" r="0.6911144414645027" fill="white" opacity="0.8"/>
+<circle cx="369" cy="4" r="1.8595954580208112" fill="white" opacity="0.4"/>
+<circle cx="299" cy="93" r="0.8783317271307318" fill="white" opacity="0.3"/>
+<circle cx="262" cy="77" r="0.5319713016348918" fill="white" opacity="0.9"/>
+<circle cx="234" cy="114" r="1.7787461592272196" fill="white" opacity="0.4"/>
+<circle cx="8" cy="69" r="0.5691548497618613" fill="white" opacity="0.4"/>
+<circle cx="337" cy="39" r="1.9577200425032109" fill="white" opacity="0.8"/>
+<circle cx="362" cy="52" r="1.3630684889109652" fill="white" opacity="0.9"/>
+<circle cx="343" cy="42" r="1.144075710526513" fill="white" opacity="1.0"/>
+<circle cx="320" cy="8" r="1.76268444089097" fill="white" opacity="0.5"/>
+<circle cx="487" cy="46" r="0.8598012129223787" fill="white" opacity="0.4"/>
+<circle cx="294" cy="86" r="0.5947828734262713" fill="white" opacity="0.5"/>
+<circle cx="56" cy="116" r="0.8723735266112707" fill="white" opacity="0.4"/>
+<circle cx="150" cy="52" r="1.240854683237564" fill="white" opacity="0.6"/>
+
+  
+        <circle cx="248" cy="63" r="20" fill="#fff1cf" opacity="0.9"/>
+        <circle cx="248" cy="63" r="30" fill="#fff1cf" opacity="0.2"/>
+        <circle cx="248" cy="63" r="45" fill="#fff1cf" opacity="0.1"/>
+  <polygon points="0,375 0,197 100,258 200,237 300,258 400,250 500,253 500,375" fill="#998451" opacity="0.8"/>
+<polygon points="0,375 0,176 71,185 142,183 214,152 285,200 357,167 428,217 500,151 500,375" fill="#b29a5f" opacity="0.8"/>
+<polygon points="0,375 0,116 83,163 166,156 250,167 333,149 416,159 500,139 500,375" fill="#ccb06c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="-35" r="12" fill="#ccb06c"/>
+          <path d="M-12,-23 L-18,20 L18,20 L12,-23" fill="#ccb06c"/>
+          <line x1="-18" y1="20" x2="-22" y2="60" stroke="#ccb06c" stroke-width="5"/>
+          <line x1="18" y1="20" x2="22" y2="60" stroke="#ccb06c" stroke-width="5"/>
+          <path d="M-12,-15 Q-35,-5 -40,10" stroke="#ccb06c" stroke-width="3" fill="none"/>
+          <path d="M12,-15 Q35,-5 40,10" stroke="#ccb06c" stroke-width="3" fill="none"/>
+          <circle cx="0" cy="-35" r="18" fill="none" stroke="#fff1cf" stroke-width="0.5" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#fff1cf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Workin&apos; 9 to 5 (as a Sorceress)</text>
+</svg>

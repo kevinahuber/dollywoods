@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-astrid-frost-giant" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#555d6e"/>
+      <stop offset="60%" stop-color="#aabbdd"/>
+      <stop offset="100%" stop-color="#ccd6ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-astrid-frost-giant)"/>
+  <circle cx="123" cy="40" r="1.300509026941645" fill="white" opacity="0.7"/>
+<circle cx="236" cy="110" r="0.9839427821569846" fill="white" opacity="0.6"/>
+<circle cx="428" cy="111" r="1.2633376847565496" fill="white" opacity="0.5"/>
+<circle cx="78" cy="79" r="1.6898978893417704" fill="white" opacity="0.4"/>
+<circle cx="119" cy="52" r="1.9878213091490142" fill="white" opacity="0.3"/>
+<circle cx="62" cy="73" r="1.0066917125726014" fill="white" opacity="1.0"/>
+<circle cx="385" cy="10" r="1.9141415833662356" fill="white" opacity="0.4"/>
+<circle cx="208" cy="107" r="1.5277299753190965" fill="white" opacity="0.9"/>
+<circle cx="110" cy="10" r="0.6880841059976903" fill="white" opacity="0.3"/>
+<circle cx="390" cy="14" r="1.3414730796385739" fill="white" opacity="1.0"/>
+<circle cx="357" cy="77" r="0.6477234542151653" fill="white" opacity="0.6"/>
+<circle cx="173" cy="29" r="1.41226158898511" fill="white" opacity="0.7"/>
+<circle cx="71" cy="47" r="1.9256910798972928" fill="white" opacity="0.7"/>
+<circle cx="316" cy="13" r="1.7205077555100976" fill="white" opacity="0.6"/>
+<circle cx="60" cy="65" r="1.9125875574848739" fill="white" opacity="0.6"/>
+<circle cx="431" cy="63" r="1.2622664737904592" fill="white" opacity="1.0"/>
+<circle cx="303" cy="54" r="0.8123727834099463" fill="white" opacity="0.9"/>
+<circle cx="331" cy="0" r="1.3988389667409757" fill="white" opacity="0.8"/>
+
+  
+        <circle cx="275" cy="88" r="20" fill="#dde3f1" opacity="0.9"/>
+        <circle cx="275" cy="88" r="30" fill="#dde3f1" opacity="0.2"/>
+        <circle cx="275" cy="88" r="45" fill="#dde3f1" opacity="0.1"/>
+  <polygon points="0,375 0,196 125,183 250,173 375,168 500,180 500,375" fill="#667084" opacity="0.8"/>
+<polygon points="0,375 0,153 100,141 200,143 300,191 400,177 500,179 500,375" fill="#76829a" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <ellipse cx="0" cy="10" rx="45" ry="50" fill="#8895b0"/>
+          <circle cx="0" cy="-40" r="25" fill="#8895b0"/>
+          <circle cx="-8" cy="-45" r="4" fill="#dde3f1"/>
+          <circle cx="8" cy="-45" r="4" fill="#dde3f1"/>
+          <rect x="-55" y="-20" width="20" height="50" rx="8" fill="#8895b0"/>
+          <rect x="35" y="-20" width="20" height="50" rx="8" fill="#8895b0"/>
+          <rect x="-25" y="55" width="18" height="30" rx="5" fill="#8895b0"/>
+          <rect x="7" y="55" width="18" height="30" rx="5" fill="#8895b0"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#dde3f1" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Frost Giant of the North</text>
+</svg>

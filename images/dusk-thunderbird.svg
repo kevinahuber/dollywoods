@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-dusk-thunderbird" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#443b55"/>
+      <stop offset="60%" stop-color="#8877aa"/>
+      <stop offset="100%" stop-color="#b7adcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-dusk-thunderbird)"/>
+  <circle cx="203" cy="76" r="1.8292689718365933" fill="white" opacity="0.3"/>
+<circle cx="312" cy="104" r="0.6006399989939635" fill="white" opacity="0.8"/>
+<circle cx="141" cy="93" r="1.2909747637028772" fill="white" opacity="0.8"/>
+<circle cx="221" cy="18" r="0.9577362894030431" fill="white" opacity="0.5"/>
+<circle cx="478" cy="17" r="0.7295172423788747" fill="white" opacity="0.4"/>
+<circle cx="406" cy="18" r="1.977372124096179" fill="white" opacity="0.4"/>
+<circle cx="130" cy="92" r="0.9589064767375424" fill="white" opacity="0.8"/>
+<circle cx="24" cy="23" r="0.9480022644642028" fill="white" opacity="0.5"/>
+<circle cx="450" cy="84" r="1.2731495883405057" fill="white" opacity="0.7"/>
+<circle cx="234" cy="95" r="0.8527416974209896" fill="white" opacity="0.7"/>
+<circle cx="343" cy="89" r="0.550194510258831" fill="white" opacity="0.9"/>
+<circle cx="95" cy="89" r="0.5601707372344936" fill="white" opacity="1.0"/>
+<circle cx="400" cy="65" r="1.0198998774841475" fill="white" opacity="0.9"/>
+<circle cx="65" cy="17" r="1.5285878758101799" fill="white" opacity="0.8"/>
+<circle cx="241" cy="44" r="0.6584167311795444" fill="white" opacity="0.5"/>
+<circle cx="453" cy="52" r="1.48350328481503" fill="white" opacity="0.8"/>
+<circle cx="100" cy="7" r="0.5363319807603444" fill="white" opacity="0.6"/>
+<circle cx="112" cy="66" r="0.6333669539531155" fill="white" opacity="0.7"/>
+<circle cx="73" cy="77" r="1.769201184495912" fill="white" opacity="0.9"/>
+<circle cx="296" cy="48" r="1.7485249306435016" fill="white" opacity="0.4"/>
+<circle cx="185" cy="125" r="1.5078500307209524" fill="white" opacity="0.8"/>
+<circle cx="327" cy="118" r="0.8435009854124724" fill="white" opacity="0.7"/>
+<circle cx="212" cy="9" r="0.7639278651981656" fill="white" opacity="0.7"/>
+<circle cx="271" cy="62" r="1.3455287448341708" fill="white" opacity="0.5"/>
+<circle cx="4" cy="22" r="1.5212935751713865" fill="white" opacity="1.0"/>
+<circle cx="119" cy="44" r="1.8809331142387762" fill="white" opacity="0.9"/>
+<circle cx="166" cy="18" r="1.1880358285403736" fill="white" opacity="0.3"/>
+<circle cx="41" cy="2" r="1.5195052546971493" fill="white" opacity="0.7"/>
+<circle cx="93" cy="40" r="0.7009493394134101" fill="white" opacity="0.6"/>
+<circle cx="296" cy="23" r="0.5591227096324405" fill="white" opacity="0.4"/>
+<circle cx="127" cy="58" r="0.541399750953968" fill="white" opacity="0.4"/>
+<circle cx="492" cy="4" r="1.7022307179252447" fill="white" opacity="0.8"/>
+<circle cx="32" cy="57" r="0.65111107941096" fill="white" opacity="0.3"/>
+<circle cx="431" cy="22" r="1.3499787537665195" fill="white" opacity="0.7"/>
+
+  
+        <circle cx="277" cy="77" r="25" fill="#dbd6e5" opacity="0.8"/>
+        <circle cx="285" cy="72" r="25" fill="#443b55"/>
+  <polygon points="0,375 0,236 83,185 166,211 250,221 333,242 416,207 500,191 500,375" fill="#514766" opacity="0.8"/>
+<polygon points="0,375 0,194 83,188 166,167 250,180 333,183 416,176 500,167 500,375" fill="#5f5376" opacity="0.8"/>
+
+  
+        <g transform="translate(250,207)">
+          <ellipse cx="0" cy="0" rx="25" ry="18" fill="#6c5f88"/>
+          <circle cx="-18" cy="-10" r="10" fill="#6c5f88"/>
+          <circle cx="-22" cy="-13" r="2.5" fill="#cfc8dd"/>
+          <path d="M-25,-13 L-32,-15 L-28,-11" fill="#6c5f88"/>
+          <circle cx="0" cy="0" r="30" fill="none" stroke="#cfc8dd" stroke-width="0.5" opacity="0.3"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#cfc8dd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Thunderbird Over Texas</text>
+</svg>

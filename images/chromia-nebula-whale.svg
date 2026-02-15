@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-chromia-nebula-whale" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#332255"/>
+      <stop offset="60%" stop-color="#6644aa"/>
+      <stop offset="100%" stop-color="#a38ecc"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-chromia-nebula-whale)"/>
+  <circle cx="228" cy="3" r="1.541416190771128" fill="white" opacity="0.8"/>
+<circle cx="400" cy="94" r="1.595507433224109" fill="white" opacity="0.7"/>
+<circle cx="50" cy="81" r="1.2034967468107847" fill="white" opacity="0.6"/>
+<circle cx="349" cy="32" r="1.870093947257247" fill="white" opacity="0.8"/>
+<circle cx="198" cy="112" r="0.9580246663538028" fill="white" opacity="0.6"/>
+<circle cx="359" cy="116" r="1.812666923011006" fill="white" opacity="0.3"/>
+<circle cx="340" cy="12" r="0.8747542605772574" fill="white" opacity="1.0"/>
+<circle cx="206" cy="21" r="0.5473456238051356" fill="white" opacity="0.8"/>
+<circle cx="379" cy="121" r="1.1630675043069334" fill="white" opacity="0.9"/>
+<circle cx="336" cy="0" r="0.6284361175627413" fill="white" opacity="0.7"/>
+<circle cx="409" cy="118" r="1.9588730612447307" fill="white" opacity="0.9"/>
+<circle cx="335" cy="111" r="1.9846874281082285" fill="white" opacity="0.5"/>
+<circle cx="490" cy="81" r="0.9487320205990102" fill="white" opacity="0.8"/>
+<circle cx="154" cy="106" r="1.2553411422854068" fill="white" opacity="0.4"/>
+<circle cx="131" cy="10" r="0.5073729370048663" fill="white" opacity="0.8"/>
+<circle cx="133" cy="107" r="1.8262331830971243" fill="white" opacity="0.7"/>
+<circle cx="109" cy="19" r="1.5593799785732634" fill="white" opacity="0.6"/>
+<circle cx="73" cy="100" r="1.4226117862421281" fill="white" opacity="0.6"/>
+<circle cx="492" cy="5" r="0.8847345740584627" fill="white" opacity="0.3"/>
+<circle cx="225" cy="4" r="1.1002341531840742" fill="white" opacity="0.8"/>
+<circle cx="77" cy="119" r="1.2654712321238109" fill="white" opacity="0.6"/>
+<circle cx="435" cy="81" r="1.7891160692726642" fill="white" opacity="0.7"/>
+<circle cx="466" cy="106" r="1.422545823750034" fill="white" opacity="0.5"/>
+<circle cx="483" cy="76" r="1.4246904605458472" fill="white" opacity="0.9"/>
+<circle cx="307" cy="31" r="1.9007077293282864" fill="white" opacity="1.0"/>
+<circle cx="115" cy="58" r="1.8334720407570355" fill="white" opacity="0.8"/>
+<circle cx="258" cy="36" r="0.5536935312206168" fill="white" opacity="0.6"/>
+<circle cx="492" cy="20" r="0.7543310284503908" fill="white" opacity="0.6"/>
+<circle cx="49" cy="59" r="0.7479530336219602" fill="white" opacity="0.8"/>
+<circle cx="326" cy="104" r="1.6900401616116365" fill="white" opacity="0.8"/>
+<circle cx="188" cy="38" r="1.8221683157510415" fill="white" opacity="0.9"/>
+
+  
+        <circle cx="362" cy="50" r="25" fill="#d1c6e5" opacity="0.8"/>
+        <circle cx="370" cy="45" r="25" fill="#332255"/>
+  <polygon points="0,375 0,154 166,212 333,206 500,228 500,375" fill="#3d2866" opacity="0.8"/>
+<polygon points="0,375 0,213 125,231 250,216 375,240 500,256 500,375" fill="#472f76" opacity="0.8"/>
+<polygon points="0,375 0,222 100,223 200,201 300,231 400,191 500,163 500,375" fill="#513688" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <path d="M-80,0 Q-40,-30 0,-10 Q40,10 80,-20 Q60,0 40,10 Q0,30 -40,20 Q-70,10 -80,0" fill="#513688"/>
+          <circle cx="-60" cy="-8" r="4" fill="#c1b4dd"/>
+          <path d="M75,-18 Q100,-35 85,-10" fill="#513688" opacity="0.7"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#c1b4dd" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Nebula Whale</text>
+</svg>

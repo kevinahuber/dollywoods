@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  <defs>
+    <linearGradient id="sky-astrid-valkyrie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#665544"/>
+      <stop offset="60%" stop-color="#ccaa88"/>
+      <stop offset="100%" stop-color="#e0ccb7"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="375" fill="url(#sky-astrid-valkyrie)"/>
+  <circle cx="28" cy="69" r="1.4485151638693425" fill="white" opacity="0.5"/>
+<circle cx="84" cy="24" r="1.2833965730670944" fill="white" opacity="0.4"/>
+<circle cx="173" cy="21" r="0.5289522533701565" fill="white" opacity="0.5"/>
+<circle cx="478" cy="72" r="1.9831985049206429" fill="white" opacity="0.6"/>
+<circle cx="70" cy="89" r="0.7887244018496364" fill="white" opacity="0.7"/>
+<circle cx="335" cy="86" r="1.7713613398277182" fill="white" opacity="0.4"/>
+<circle cx="384" cy="89" r="1.844060984944464" fill="white" opacity="0.3"/>
+<circle cx="213" cy="14" r="1.3578470287322502" fill="white" opacity="0.7"/>
+<circle cx="92" cy="2" r="1.3388192269290662" fill="white" opacity="0.8"/>
+<circle cx="339" cy="12" r="1.0832012348492785" fill="white" opacity="0.9"/>
+<circle cx="169" cy="87" r="1.360776391593335" fill="white" opacity="0.9"/>
+<circle cx="113" cy="77" r="1.4541758353780285" fill="white" opacity="0.8"/>
+<circle cx="296" cy="54" r="1.6153144434973927" fill="white" opacity="0.7"/>
+<circle cx="20" cy="87" r="0.7714981386763577" fill="white" opacity="0.3"/>
+<circle cx="9" cy="49" r="0.5158074115322071" fill="white" opacity="0.6"/>
+<circle cx="300" cy="16" r="0.8885205872916151" fill="white" opacity="0.4"/>
+<circle cx="387" cy="43" r="0.8531901570202347" fill="white" opacity="0.9"/>
+<circle cx="95" cy="8" r="0.8349940674714975" fill="white" opacity="0.7"/>
+<circle cx="61" cy="60" r="0.8340556413188099" fill="white" opacity="0.8"/>
+<circle cx="160" cy="62" r="0.9902585023804165" fill="white" opacity="0.7"/>
+<circle cx="438" cy="23" r="1.7493939835360837" fill="white" opacity="0.4"/>
+<circle cx="399" cy="78" r="1.3251908165334572" fill="white" opacity="0.4"/>
+<circle cx="214" cy="33" r="1.1220314911971778" fill="white" opacity="0.6"/>
+<circle cx="86" cy="74" r="1.1708775759114962" fill="white" opacity="0.8"/>
+<circle cx="35" cy="30" r="0.5736908900936231" fill="white" opacity="1.0"/>
+<circle cx="335" cy="67" r="1.423747670948851" fill="white" opacity="0.9"/>
+<circle cx="319" cy="33" r="1.697882455991001" fill="white" opacity="0.5"/>
+<circle cx="478" cy="40" r="1.1794145286661135" fill="white" opacity="0.3"/>
+<circle cx="361" cy="105" r="1.3900285218826165" fill="white" opacity="0.8"/>
+<circle cx="5" cy="27" r="1.0417205310716828" fill="white" opacity="0.4"/>
+<circle cx="497" cy="70" r="0.7324930939271505" fill="white" opacity="0.8"/>
+<circle cx="12" cy="101" r="1.5104234235258114" fill="white" opacity="0.4"/>
+
+  
+        <circle cx="281" cy="76" r="25" fill="#efe5db" opacity="0.8"/>
+        <circle cx="289" cy="71" r="25" fill="#665544"/>
+  <polygon points="0,375 0,261 166,287 333,291 500,225 500,375" fill="#7a6651" opacity="0.8"/>
+<polygon points="0,375 0,237 166,166 333,209 500,230 500,375" fill="#8e765f" opacity="0.8"/>
+<polygon points="0,375 0,178 71,155 142,208 214,185 285,161 357,187 428,198 500,143 500,375" fill="#a3886c" opacity="0.8"/>
+
+  
+        <g transform="translate(250,187)">
+          <circle cx="0" cy="0" r="40" fill="#a3886c" opacity="0.5"/>
+          <circle cx="0" cy="0" r="30" fill="#e0ccb7" opacity="0.3"/>
+          <circle cx="0" cy="0" r="20" fill="#eaddcf" opacity="0.2"/>
+          <path d="M0,-40 L5,-10 L35,-25 L10,0 L40,15 L5,10 L0,40 L-5,10 L-40,15 L-10,0 L-35,-25 L-5,-10 Z" fill="#eaddcf" opacity="0.4"/>
+        </g>
+  <text x="250" y="360" text-anchor="middle" fill="#eaddcf" font-family="Georgia, serif" font-size="12" font-style="italic" opacity="0.8">Valkyrie&apos;s Ride</text>
+</svg>
